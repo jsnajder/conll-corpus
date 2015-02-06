@@ -14,7 +14,7 @@ version.
 Get the source:
 
 ```
-$ git clone http://github.com/jsnajder/counts conll-corpus
+$ git clone http://github.com/jsnajder/conll-corpus conll-corpus
 ```
 
 Get the following dependency (which is not on Hackage):
@@ -36,16 +36,11 @@ $ cabal build --builddir=bin
 
 ## Usage example
 
-First fix MATE-parsed CoNLL output:
+Counting lemmas in MST-parsed and MATE-parsed sDeWaC corpora, thereby appending
+CPOSTAG to lemmas:
 
 ```
-$ cd sdewac-prepro/data
-$ ../bin/fix-mate-conll.sh sdewac-mate.sample.conll-bogus > sdewac-mate.sample.conll
-```
-
-Counting lemmas in MST-parsed and MATE-parsed corpus, appending CPOSTAG to lemmas:
-
-```
+$ cd conll-corpus/data
 $ ../bin/conll2counts -p sdewac-mst.sample.conll > sdewac-mst.sample.lemmas
 $ ../bin/conll2counts -p sdewac-mate.sample.conll > sdewac-mate.sample.lemmas
 ```
