@@ -1,5 +1,7 @@
 # conll-corpus
 
+* Jan 6, 2015 *
+
 This module implements the reader for [CoNLL](http://ilk.uvt.nl/conll/) corpus
 format and a utility for counting wordforms and lemmas from corpus in CoNLL
 format. The utility supports Map/Reduce for [Hadoop
