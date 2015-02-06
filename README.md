@@ -40,7 +40,7 @@ Counting lemmas in MST-parsed and MATE-parsed sDeWaC corpus, thereby appending
 CPOSTAG to lemmas:
 
 ```
-$ cd conll-corpus/data
+$ cd data
 $ ../bin/conll2counts -p sdewac-mst.sample.conll > sdewac-mst.sample.lemmas
 $ ../bin/conll2counts -p sdewac-mate.sample.conll > sdewac-mate.sample.lemmas
 ```
