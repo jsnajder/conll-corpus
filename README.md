@@ -14,27 +14,27 @@ version.
 Get the source:
 
 ```bash
-$ mkdir <root>/sdewac-prepro
-$ git clone https://github.com/jsnajder/sdewac-prepro <root>/sdewac-prepro
+$ mkdir sdewac-prepro
+$ git clone https://github.com/jsnajder/sdewac-prepro sdewac-prepro
 ```
 
 Get the following dependencies (not yet on Hackage):
 
 ```bash
-$ mkdir <root>/counts
-$ git clone http://github.com/jsnajder/counts <root>/counts
+$ mkdir counts
+$ git clone http://github.com/jsnajder/counts counts
 
-$ mkdir <root>/conll-corpus
-$ git clone http://github.com/jsnajder/counts <root>/conll-corpus
+$ mkdir conll-corpus
+$ git clone http://github.com/jsnajder/counts conll-corpus
 ```
 
 Then build from source:
 
 ```bash
-$ cd <root>/sdewac-prepro
+$ cd sdewac-prepro
 $ cabal sandbox init
-$ cabal sanbox add-source <root>/counts
-$ cabal sanbox add-source <root>/conll-corpus
+$ cabal sanbox add-source ../counts
+$ cabal sanbox add-source ../conll-corpus
 $ cabal install --only-dependencies
 $ cabal configure
 $ cabal build --builddir=bin
@@ -44,7 +44,7 @@ $ cabal build --builddir=bin
 First fix MATE-parsed CoNLL output:
 
 ```bash
-$ cd <root>/data
+$ cd sdewac-prepro/data
 $ ../bin/fix-mate-conll.sh sdewac-mate.sample.conll-bogus > sdewac-mate.sample.conll
 ```
 
