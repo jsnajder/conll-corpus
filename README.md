@@ -23,7 +23,7 @@ Get the following dependency (which is not on Hackage):
 $ git clone http://github.com/jsnajder/counts counts
 ```
 
-Then build from source:
+Then build from the source:
 
 ```
 $ cd conll-corpus
@@ -31,12 +31,12 @@ $ cabal sandbox init
 $ cabal sandbox add-source ../counts
 $ cabal install --only-dependencies
 $ cabal configure
-$ cabal build --builddir=bin
+$ cabal install --bindir=bin
 ```
 
 ## Usage example
 
-Counting lemmas in MST-parsed and MATE-parsed sDeWaC corpora, thereby appending
+Counting lemmas in MST-parsed and MATE-parsed sDeWaC corpus, thereby appending
 CPOSTAG to lemmas:
 
 ```
