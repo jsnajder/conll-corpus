@@ -13,47 +13,46 @@ version.
 
 Get the source:
 
-```bash
-$ git clone https://github.com/jsnajder/sdewac-prepro sdewac-prepro
+```
+$ git clone http://github.com/jsnajder/counts conll-corpus
 ```
 
-Get the following dependencies (not yet on Hackage):
+Get the following dependency (which is not on Hackage):
 
-```bash
+```
 $ git clone http://github.com/jsnajder/counts counts
-$ git clone http://github.com/jsnajder/counts conll-corpus
 ```
 
 Then build from source:
 
-```bash
-$ cd sdewac-prepro
+```
+$ cd conll-corpus
 $ cabal sandbox init
-$ cabal sanbox add-source ../counts
-$ cabal sanbox add-source ../conll-corpus
+$ cabal sandbox add-source ../counts
 $ cabal install --only-dependencies
 $ cabal configure
 $ cabal build --builddir=bin
 ```
+
 ## Usage example
 
 First fix MATE-parsed CoNLL output:
 
-```bash
+```
 $ cd sdewac-prepro/data
 $ ../bin/fix-mate-conll.sh sdewac-mate.sample.conll-bogus > sdewac-mate.sample.conll
 ```
 
 Counting lemmas in MST-parsed and MATE-parsed corpus, appending CPOSTAG to lemmas:
 
-```bash
+```
 $ ../bin/conll2counts -p sdewac-mst.sample.conll > sdewac-mst.sample.lemmas
 $ ../bin/conll2counts -p sdewac-mate.sample.conll > sdewac-mate.sample.lemmas
 ```
 
 Testing the map-reduce version:
 
-```bash
+```
 $ ../bin/conll2counts -m -p < sdewac-mst.sample.conll | sort | ../bin/conll2counts -r
 ```
 
