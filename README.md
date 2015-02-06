@@ -14,17 +14,13 @@ version.
 Get the source:
 
 ```bash
-$ mkdir sdewac-prepro
 $ git clone https://github.com/jsnajder/sdewac-prepro sdewac-prepro
 ```
 
 Get the following dependencies (not yet on Hackage):
 
 ```bash
-$ mkdir counts
 $ git clone http://github.com/jsnajder/counts counts
-
-$ mkdir conll-corpus
 $ git clone http://github.com/jsnajder/counts conll-corpus
 ```
 
