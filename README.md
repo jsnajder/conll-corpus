@@ -1,6 +1,6 @@
 # conll-corpus
 
-*2015-01-06*
+*2015-02-06*
 
 This module implements the reader for [CoNLL](http://ilk.uvt.nl/conll/) corpus
 format and a utility for counting wordforms and lemmas from corpus in CoNLL
