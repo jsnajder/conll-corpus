@@ -50,37 +50,29 @@ arg =
   , Arg 4 (Just 'L') (Just "lemmas-backoff") Nothing 
       "count lemmas with backoff to wordforms for <unknown> lemmas"
   , Arg 5 (Just 'p') (Just "pos") Nothing 
-      "append coarse-grained part-of-speech (CPOSTAG) to wordform/lemma"
-  , Arg 6 (Just 'P') (Just "pos-first") Nothing 
-      "same as --pos, but takes only the first letter of CPOSTAG"
-  , Arg 7 Nothing Nothing  (argDataOptional "filename" ArgtypeString)
+      "append coarse-grained part-of-speech tag (CPOSTAG) to wordform/lemma"
+  , Arg 6 Nothing Nothing  (argDataOptional "filename" ArgtypeString)
       "corpus in CoNLL format" ]
-
-data Pos = None | All | First
 
 main :: IO ()
 main = do
   args <- parseArgsIO ArgsComplete arg
   let wordform     = gotArg args 2
       lemmabackoff = gotArg args 4
-      pos          = if gotArg args 5 then All else 
-                       if gotArg args 6 then First else None
-      f            = getArg args 7
+      pos          = gotArg args 5
+      f            = getArg args 6
   hSetEncoding stdin utf8
   hSetEncoding stdout utf8
   let g = case (wordform,lemmabackoff,pos) of
-          (True, _   , All)   -> (:[]) . formPos
-          (True, _   , First) -> (:[]) . formPos'
-          (True, _   , None ) -> (:[]) . form
-          (_   , True, All)   -> lemmaFormPos
-          (_   , True, First) -> lemmaFormPos'
-          (_   , True, None)  -> lemmaForm
-          (_   , _   , All )  -> lemmaPos
-          (_   , _   , First) -> lemmaPos'
+          (True, _   , True)  -> (:[]) . formPos
+          (True, _   , False) -> (:[]) . form
+          (_   , True, True)  -> lemmaPos'
+          (_   , True, False) -> lemma'
+          (_   , _   , True)  -> lemmaPos
           _                   -> lemma
   if gotArg args 0 then interact $ mrMap g
   else if gotArg args 1 then T.interact mrReduce
-  else if gotArg args 7 then
+  else if gotArg args 6 then
     readFile (fromJust f) >>= T.putStr . showCounts . count g
   else usageError args "Missing input file."
   hFlush stdout

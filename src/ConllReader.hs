@@ -48,7 +48,7 @@ parseLine :: String -> Either String Token
 parseLine = parseLine' . splitOn "\t"
 
 parseLine' :: [String] -> Either String Token
-parseLine' (s1:s2:s3:s4:s5:_:s7:s8:_)
+parseLine' (s1:s2:s3:s4:s5:s6:s7:s8:_)
   | isJust ix && all isDigit s7 = Right $ Token 
       { ix      = fromJust ix
       , form    = s2
@@ -106,36 +106,21 @@ showLP :: LemmaPos -> String
 showLP (l,[]) = l
 showLP (l,p)  = l ++ posSep ++ p
 
-showLP' :: LemmaPos -> String
-showLP' (l,[])  = l
-showLP' (l,p:_) = l ++ posSep ++ [p]
-
 lemmaPos :: Token -> [String]
 lemmaPos = map showLP . getLP
 
-lemmaPos' :: Token -> [String]
-lemmaPos' = map showLP' . getLP
-
-lemmaForm :: Token -> [String]
-lemmaForm t = case lemma t of
+lemma' :: Token -> [String]
+lemma' t = case lemma t of
   [] -> [form t]
   ls -> ls
 
-lemmaFormPos :: Token -> [String]
-lemmaFormPos = map showLP . getLP'
-
-lemmaFormPos' :: Token -> [String]
-lemmaFormPos' = map showLP' . getLP'
+lemmaPos' :: Token -> [String]
+lemmaPos' = map showLP . getLP'
 
 formPos :: Token -> String
 formPos t = case (form t, cpostag t) of
   (w,[]) -> w
   (w,p)  -> w ++ posSep ++ p
-
-formPos' :: Token -> String
-formPos' t = case (form t, cpostag t) of
-  (w,[])  -> w
-  (w,p:_) -> w ++ posSep ++ [p]
 
 unknownLemma :: Token -> Bool
 unknownLemma = null . lemma
