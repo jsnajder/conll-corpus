@@ -50,7 +50,7 @@ conll2counts: usage: conll2counts [options] [<filename>]
   [<filename>]           corpus in CoNLL format
 ```
 
-## Usage example
+### Usage example
 
 Counting lemmas in MST-parsed sDeWaC corpus, with appending of CPOSTAG to
 lemmas:

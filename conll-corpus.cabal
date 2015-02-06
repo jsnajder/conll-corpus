@@ -40,3 +40,18 @@ executable conll2counts
   hs-source-dirs:      src
   default-language:    Haskell2010
 
+executable conll2counts-static
+  main-is:            conll2counts.hs
+  -- other-modules:       
+  -- other-extensions:    
+  ghc-options:         -static -optl-pthread -optl-static
+  build-depends:       base ==4.*,
+                       containers ==0.5.*,
+                       counts ==0.1.*,
+                       containers ==0.5.*,
+                       split ==0.2.*,
+                       text ==0.11.*,
+                       parseargs ==0.1.*
+  hs-source-dirs:      src
+  default-language:    Haskell2010
+
