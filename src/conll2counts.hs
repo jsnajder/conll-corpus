@@ -43,18 +43,18 @@ arg =
       "run as hadoop mapper (reads from stdin)"
   , Arg 1 (Just 'r') (Just "reduce") Nothing 
       "run as hadoop reducer (reads from stdin)"
-  , Arg 2 (Just 'w') (Just "--wordforms") Nothing 
+  , Arg 2 (Just 'w') (Just "wordforms") Nothing 
       "count wordforms"
-  , Arg 3 (Just 'l') (Just "--lemmas") Nothing 
+  , Arg 3 (Just 'l') (Just "lemmas") Nothing 
       "count lemmas (default)"
-  , Arg 4 (Just 'L') (Just "--lemmas-backoff") Nothing 
+  , Arg 4 (Just 'L') (Just "lemmas-backoff") Nothing 
       "count lemmas with backoff to wordforms for <unknown> lemmas"
-  , Arg 5 (Just 'p') (Just "--pos") Nothing 
+  , Arg 5 (Just 'p') (Just "pos") Nothing 
       "append coarse-grained part-of-speech (CPOSTAG) to wordform/lemma"
-  , Arg 6 (Just 'P') (Just "--pos-first") Nothing 
+  , Arg 6 (Just 'P') (Just "pos-first") Nothing 
       "same as --pos, but takes only the first letter of CPOSTAG"
   , Arg 7 Nothing Nothing  (argDataOptional "filename" ArgtypeString)
-      "CoNLL file" ]
+      "corpus in CoNLL format" ]
 
 data Pos = None | All | First
 

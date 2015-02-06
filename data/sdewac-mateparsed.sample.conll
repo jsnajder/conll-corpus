@@ -1,2046 +1,2046 @@
-1_1	Sie	_	sie	_	PPER	_	nom|pl|*|3	-1	2	_	SB	_	_
-1_2	dürfen	_	dürfen	_	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
-1_3	eine	_	ein	_	ART	_	acc|sg|fem	-1	4	_	NK	_	_
-1_4	Kopie	_	Kopie	_	NN	_	acc|sg|fem	-1	12	_	OA	_	_
-1_5	der	_	der	_	ART	_	gen|sg|fem	-1	6	_	NK	_	_
-1_6	Software	_	Software	_	NN	_	gen|sg|fem	-1	4	_	AG	_	_
-1_7	auf	_	auf	_	APPR	_	_	-1	4	_	MNR	_	_
-1_8	dem	_	der	_	ART	_	dat|sg|masc	-1	9	_	NK	_	_
-1_9	Dateiserver	_	Dateiserver	_	NN	_	dat|sg|masc	-1	7	_	NK	_	_
-1_10	Ihres	_	ihr	_	PPOSAT	_	gen|sg|masc	-1	11	_	NK	_	_
-1_11	Computers	_	Computer	_	NN	_	gen|sg|masc	-1	9	_	AG	_	_
-1_12	installieren	_	installieren	_	VVINF	_	_	-1	2	_	OC	_	_
-1_13	,	_	--	_	$,	_	_	-1	12	_	--	_	_
-1_14	um	_	um	_	KOUI	_	_	-1	33	_	CP	_	_
-1_15	die	_	der	_	ART	_	acc|sg|fem	-1	16	_	NK	_	_
-1_16	Software	_	Software	_	NN	_	acc|sg|fem	-1	27	_	OA	_	_
-1_17	auf	_	auf	_	APPR	_	_	-1	16	_	MNR	_	_
-1_18	andere	_	anderer	_	ADJA	_	acc|pl|masc|pos	-1	19	_	NK	_	_
-1_19	Computer	_	Computer	_	NN	_	acc|pl|masc	-1	17	_	NK	_	_
-1_20	Ihres	_	ihr	_	PPOSAT	_	gen|sg|neut	-1	22	_	NK	_	_
-1_21	internen	_	intern	_	ADJA	_	gen|sg|neut|pos	-1	22	_	NK	_	_
-1_22	Netzwerks	_	Netzwerk	_	NN	_	gen|sg|neut	-1	19	_	AG	_	_
-1_23	bis	_	bis	_	APPR	_	_	-1	24	_	AC	_	_
-1_24	zur	_	zu	_	APPRART	_	dat|sg|fem	-1	27	_	MO	_	_
-1_25	zulässigen	_	zulässig	_	ADJA	_	dat|sg|fem|pos	-1	26	_	NK	_	_
-1_26	Anzahl	_	Anzahl	_	NN	_	dat|sg|fem	-1	24	_	NK	_	_
-1_27	herunterzuladen	_	herunterzuladen	_	VVPP	_	_	-1	33	_	OC	_	_
-1_28	und	_	und	_	KON	_	_	-1	27	_	CD	_	_
-1_29	auf	_	auf	_	APPR	_	_	-1	31	_	MO	_	_
-1_30	ihnen	_	ihnen	_	PPER	_	dat|pl|*|3	-1	29	_	NK	_	_
-1_31	installieren	_	installieren	_	VVINF	_	_	-1	28	_	CJ	_	_
-1_32	zu	_	zu	_	PTKZU	_	_	-1	33	_	PM	_	_
-1_33	können	_	können	_	VMINF	_	_	-1	12	_	MO	_	_
-1_34	und	_	und	_	KON	_	_	-1	33	_	CD	_	_
-1_35	Sie	_	sie	_	PPER	_	nom|pl|*|3	-1	36	_	SB	_	_
-1_36	dürfen	_	dürfen	_	VMFIN	_	pl|3|pres|ind	-1	34	_	CJ	_	_
-1_37	eine	_	ein	_	ART	_	acc|sg|fem	-1	38	_	NK	_	_
-1_38	Kopie	_	Kopie	_	NN	_	acc|sg|fem	-1	53	_	OA	_	_
-1_39	der	_	der	_	ART	_	gen|sg|fem	-1	40	_	NK	_	_
-1_40	Software	_	Software	_	NN	_	gen|sg|fem	-1	38	_	AG	_	_
-1_41	auf	_	auf	_	APPR	_	_	-1	38	_	MNR	_	_
-1_42	dem	_	der	_	ART	_	dat|sg|masc	-1	43	_	NK	_	_
-1_43	Dateiserver	_	Dateiserver	_	NN	_	dat|sg|masc	-1	41	_	NK	_	_
-1_44	eines	_	ein	_	ART	_	gen|sg|masc	-1	45	_	NK	_	_
-1_45	Computers	_	Computer	_	NN	_	gen|sg|masc	-1	43	_	AG	_	_
-1_46	innerhalb	_	innerhalb	_	APPR	_	_	-1	43	_	MNR	_	_
-1_47	Ihres	_	ihr	_	PPOSAT	_	gen|sg|neut	-1	48	_	NK	_	_
-1_48	Netzwerks	_	Netzwerk	_	NN	_	gen|sg|neut	-1	46	_	NK	_	_
-1_49	nur	_	nur	_	ADV	_	_	-1	50	_	MO	_	_
-1_50	zu	_	zu	_	APPR	_	_	-1	53	_	MO	_	_
-1_51	dem	_	der	_	ART	_	dat|sg|masc	-1	52	_	NK	_	_
-1_52	Zweck	_	Zweck	_	NN	_	dat|sg|masc	-1	50	_	NK	_	_
-1_53	installieren	_	installieren	_	VVINF	_	_	-1	36	_	OC	_	_
-1_54	,	_	--	_	$,	_	_	-1	53	_	--	_	_
-1_55	um	_	um	_	KOUI	_	_	-1	77	_	CP	_	_
-1_56	die	_	der	_	ART	_	acc|sg|fem	-1	57	_	NK	_	_
-1_57	Software	_	Software	_	NN	_	acc|sg|fem	-1	77	_	OA	_	_
-1_58	mittels	_	mittels	_	APPR	_	_	-1	57	_	MNR	_	_
-1_59	Befehlen	_	Befehlen	_	NN	_	dat|pl|masc	-1	58	_	NK	_	_
-1_60	,	_	--	_	$,	_	_	-1	59	_	--	_	_
-1_61	Daten	_	Datum	_	NN	_	dat|pl|neut	-1	59	_	CJ	_	_
-1_62	oder	_	oder	_	KON	_	_	-1	61	_	CD	_	_
-1_63	Anweisungen	_	Anweisung	_	NN	_	dat|pl|fem	-1	62	_	CJ	_	_
-1_64	(	_	--	_	$(	_	_	-1	63	_	--	_	_
-1_65	z.	_	z.	_	APPRART	_	dat|sg|neut	-1	67	_	MO	_	_
-1_66	B.	_	B.	_	NN	_	dat|sg|neut	-1	65	_	NK	_	_
-1_67	Skripten	_	Skript	_	NN	_	nom|pl|masc	-1	63	_	PAR	_	_
-1_68	)	_	--	_	$(	_	_	-1	67	_	--	_	_
-1_69	von	_	von	_	APPR	_	_	-1	77	_	MO	_	_
-1_70	anderen	_	anderer	_	ADJA	_	dat|pl|masc|pos	-1	71	_	NK	_	_
-1_71	Computern	_	Computer	_	NN	_	dat|pl|masc	-1	69	_	NK	_	_
-1_72	aus	_	aus	_	APPR	_	_	-1	69	_	AC	_	_
-1_73	in	_	in	_	APPR	_	_	-1	77	_	MO	_	_
-1_74	demselben	_	derselbe	_	PDAT	_	dat|sg|neut	-1	75	_	NK	_	_
-1_75	Netzwerk	_	Netzwerk	_	NN	_	dat|sg|neut	-1	73	_	NK	_	_
-1_76	zu	_	zu	_	PTKZU	_	_	-1	77	_	PM	_	_
-1_77	verwenden	_	verwenden	_	VVINF	_	_	-1	33	_	MO	_	_
-1_78	,	_	--	_	$,	_	_	-1	77	_	--	_	_
-1_79	unter	_	unter	_	APPR	_	_	-1	69	_	CJ	_	_
-1_80	der	_	der	_	ART	_	dat|sg|fem	-1	81	_	NK	_	_
-1_81	Voraussetzung	_	Voraussetzung	_	NN	_	dat|sg|fem	-1	79	_	NK	_	_
-1_82	,	_	--	_	$,	_	_	-1	81	_	--	_	_
-1_83	dass	_	dass	_	KOUS	_	_	-1	112	_	CP	_	_
-1_84	die	_	der	_	ART	_	nom|sg|fem	-1	86	_	NK	_	_
-1_85	gesamte	_	gesamt	_	ADJA	_	nom|sg|fem|pos	-1	86	_	NK	_	_
-1_86	Anzahl	_	Anzahl	_	NN	_	nom|sg|fem	-1	112	_	SB	_	_
-1_87	der	_	der	_	ART	_	gen|pl|masc	-1	88	_	NK	_	_
-1_88	Benutzer	_	Benutzer	_	NN	_	gen|pl|masc	-1	86	_	AG	_	_
-1_89	(	_	--	_	$(	_	_	-1	88	_	--	_	_
-1_90	nicht	_	nicht	_	PTKNEG	_	_	-1	92	_	NG	_	_
-1_91	die	_	der	_	ART	_	nom|sg|fem	-1	92	_	NK	_	_
-1_92	Anzahl	_	Anzahl	_	NN	_	nom|sg|fem	-1	86	_	CJ	_	_
-1_93	der	_	der	_	ART	_	gen|pl|masc	-1	95	_	NK	_	_
-1_94	gleichzeitigen	_	gleichzeitig	_	ADJA	_	gen|pl|masc|pos	-1	95	_	NK	_	_
-1_95	Benutzer	_	Benutzer	_	NN	_	gen|pl|masc	-1	92	_	AG	_	_
-1_96	)	_	--	_	$(	_	_	-1	95	_	--	_	_
-1_97	,	_	--	_	$,	_	_	-1	96	_	--	_	_
-1_98	denen	_	der	_	PRELS	_	dat|pl|masc	-1	111	_	DA	_	_
-1_99	der	_	der	_	ART	_	nom|sg|masc	-1	100	_	NK	_	_
-1_100	Zugriff	_	Zugriff	_	NN	_	nom|sg|masc	-1	112	_	SB	_	_
-1_101	auf	_	auf	_	APPR	_	_	-1	100	_	MNR	_	_
-1_102	die	_	der	_	ART	_	acc|sg|fem	-1	103	_	NK	_	_
-1_103	Software	_	Software	_	NN	_	acc|sg|fem	-1	101	_	NK	_	_
-1_104	des	_	der	_	ART	_	gen|sg|masc	-1	105	_	NK	_	_
-1_105	Dateiservers	_	Dateiserver	_	NN	_	gen|sg|masc	-1	103	_	AG	_	_
-1_106	oder	_	oder	_	KON	_	_	-1	100	_	CD	_	_
-1_107	die	_	der	_	ART	_	nom|sg|fem	-1	108	_	NK	_	_
-1_108	Verwendung	_	Verwendung	_	NN	_	nom|sg|fem	-1	106	_	CJ	_	_
-1_109	der	_	der	_	ART	_	gen|sg|fem	-1	110	_	NK	_	_
-1_110	Software	_	Software	_	NN	_	gen|sg|fem	-1	108	_	AG	_	_
-1_111	gestattet	_	gestatten	_	VVPP	_	_	-1	112	_	OC	_	_
-1_112	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	33	_	MO	_	_
-1_113	,	_	--	_	$,	_	_	-1	112	_	--	_	_
-1_114	die	_	der	_	ART	_	acc|sg|fem	-1	116	_	NK	_	_
-1_115	zulässige	_	zulässig	_	ADJA	_	acc|sg|fem|pos	-1	116	_	NK	_	_
-1_116	Anzahl	_	Anzahl	_	NN	_	acc|sg|fem	-1	118	_	OA	_	_
-1_117	nicht	_	nicht	_	PTKNEG	_	_	-1	118	_	NG	_	_
-1_118	überschreitet	_	überschreiten	_	VVPP	_	_	-1	33	_	MO	_	_
-1_119	.	_	--	_	$.	_	_	-1	118	_	--	_	_
-
-2_1	Die	_	der	_	ART	_	nom|pl|masc	-1	2	_	NK	_	_
-2_2	Henker	_	Henker	_	NN	_	nom|pl|masc	-1	10	_	SB	_	_
-2_3	der	_	der	_	ART	_	gen|sg|fem	-1	4	_	NK	_	_
-2_4	Geschichte	_	Geschichte	_	NN	_	gen|sg|fem	-1	2	_	AG	_	_
-2_5	,	_	--	_	$,	_	_	-1	4	_	--	_	_
-2_6	die	_	der	_	ART	_	nom|pl|masc	-1	7	_	NK	_	_
-2_7	Abkömmlinge	_	Abkömmling	_	NN	_	nom|pl|masc	-1	2	_	APP	_	_
-2_8	Kains	_	Kain	_	NE	_	gen|sg|*	-1	7	_	AG	_	_
-2_9	,	_	--	_	$,	_	_	-1	8	_	--	_	_
-2_10	machten	_	machen	_	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
-2_11	sich	_	sich	_	PRF	_	acc|pl|3	-1	10	_	OA	_	_
-2_12	über	_	über	_	APPR	_	_	-1	10	_	MO	_	_
-2_13	die	_	der	_	ART	_	acc|pl|neut	-1	14	_	NK	_	_
-2_14	Kinder	_	Kind	_	NN	_	acc|pl|neut	-1	12	_	NK	_	_
-2_15	Adams	_	Adams	_	NE	_	acc|pl|neut	-1	14	_	NK	_	_
-2_16	her	_	her	_	PTKVZ	_	_	-1	10	_	SVP	_	_
-2_17	und	_	und	_	KON	_	_	-1	10	_	CD	_	_
-2_18	spalteten	_	spalten	_	VVFIN	_	pl|3|past|ind	-1	17	_	CJ	_	_
-2_19	die	_	der	_	ART	_	nom|pl|*	-1	25	_	NK	_	_
-2_20	in	_	in	_	APPR	_	_	-1	24	_	MO	_	_
-2_21	Einheit	_	Einheit	_	NN	_	dat|sg|fem	-1	20	_	NK	_	_
-2_22	und	_	und	_	KON	_	_	-1	21	_	CD	_	_
-2_23	Eintracht	_	Eintracht	_	NN	_	dat|sg|fem	-1	22	_	CJ	_	_
-2_24	lebenden	_	lebend	_	ADJA	_	dat|pl|masc|pos	-1	25	_	NK	_	_
-2_25	Menschen	_	Mensch	_	NN	_	gen|pl|masc	-1	18	_	OA	_	_
-2_26	in	_	in	_	APPR	_	_	-1	25	_	MNR	_	_
-2_27	Herren	_	Herr	_	NN	_	dat|pl|masc	-1	26	_	NK	_	_
-2_28	und	_	und	_	KON	_	_	-1	27	_	CD	_	_
-2_29	Knechte	_	Knecht	_	NN	_	acc|pl|neut	-1	28	_	CJ	_	_
-2_30	,	_	--	_	$,	_	_	-1	29	_	--	_	_
-2_31	Herrscher	_	Herrscher	_	NN	_	nom|pl|masc	-1	29	_	CJ	_	_
-2_32	und	_	und	_	KON	_	_	-1	31	_	CD	_	_
-2_33	Beherrschte	_	Beherrscht	_	NN	_	nom|pl|masc	-1	32	_	CJ	_	_
-2_34	,	_	--	_	$,	_	_	-1	33	_	--	_	_
-2_35	Satte	_	Satte	_	NN	_	nom|pl|masc	-1	31	_	CJ	_	_
-2_36	und	_	und	_	KON	_	_	-1	35	_	CD	_	_
-2_37	Hungrige	_	hungrige	_	NN	_	nom|pl|*	-1	36	_	CJ	_	_
-2_38	,	_	--	_	$,	_	_	-1	37	_	--	_	_
-2_39	Reiche	_	Reiche	_	NN	_	nom|pl|*	-1	35	_	CJ	_	_
-2_40	und	_	und	_	KON	_	_	-1	39	_	CD	_	_
-2_41	Arme	_	Arm	_	NN	_	nom|pl|masc	-1	40	_	CJ	_	_
-2_42	,	_	--	_	$,	_	_	-1	41	_	--	_	_
-2_43	Meister	_	Meister	_	NN	_	nom|pl|masc	-1	39	_	CJ	_	_
-2_44	und	_	und	_	KON	_	_	-1	43	_	CD	_	_
-2_45	Diener	_	Diener	_	NN	_	nom|pl|masc	-1	44	_	CJ	_	_
-2_46	,	_	--	_	$,	_	_	-1	45	_	--	_	_
-2_47	Tyrannen	_	Tyranne	_	NN	_	dat|pl|fem	-1	43	_	CJ	_	_
-2_48	und	_	und	_	KON	_	_	-1	47	_	CD	_	_
-2_49	Unterdrückte	_	Unterdrückte	_	NN	_	acc|pl|*	-1	48	_	CJ	_	_
-2_50	,	_	--	_	$,	_	_	-1	49	_	--	_	_
-2_51	Kolonialherren	_	Kolonialherr	_	NN	_	dat|pl|fem	-1	47	_	CJ	_	_
-2_52	und	_	und	_	KON	_	_	-1	51	_	CD	_	_
-2_53	Kolonisierte	_	Kolonisiert	_	NN	_	dat|pl|fem	-1	52	_	CJ	_	_
-2_54	,	_	--	_	$,	_	_	-1	53	_	--	_	_
-2_55	Ausbeuter	_	Ausbeuter	_	NN	_	dat|sg|masc	-1	51	_	CJ	_	_
-2_56	und	_	und	_	KON	_	_	-1	55	_	CD	_	_
-2_57	Ausgebeutete	_	ausgebeuteter	_	NN	_	acc|pl|*	-1	56	_	CJ	_	_
-2_58	,	_	--	_	$,	_	_	-1	57	_	--	_	_
-2_59	Betrüger	_	Betrüger	_	NN	_	dat|sg|masc	-1	55	_	CJ	_	_
-2_60	und	_	und	_	KON	_	_	-1	59	_	CD	_	_
-2_61	Betrogene	_	betrogener	_	NN	_	dat|sg|fem	-1	60	_	CJ	_	_
-2_62	,	_	--	_	$,	_	_	-1	61	_	--	_	_
-2_63	Starke	_	Starke	_	NE	_	dat|sg|fem	-1	59	_	CJ	_	_
-2_64	und	_	und	_	KON	_	_	-1	63	_	CD	_	_
-2_65	Schwache	_	Schwache	_	NN	_	dat|sg|fem	-1	64	_	CJ	_	_
-2_66	,	_	--	_	$,	_	_	-1	65	_	--	_	_
-2_67	Verführer	_	Verführer	_	NN	_	dat|sg|masc	-1	59	_	CJ	_	_
-2_68	und	_	und	_	KON	_	_	-1	67	_	CD	_	_
-2_69	Verführte	_	Verführte	_	NN	_	acc|pl|*	-1	68	_	CJ	_	_
-2_70	,	_	--	_	$,	_	_	-1	69	_	--	_	_
-2_71	Besitzer	_	Besitzer	_	NN	_	acc|pl|masc	-1	69	_	CJ	_	_
-2_72	und	_	und	_	KON	_	_	-1	71	_	CD	_	_
-2_73	Besitzlose	_	besitzlose	_	NN	_	acc|pl|*	-1	72	_	CJ	_	_
-2_74	,	_	--	_	$,	_	_	-1	73	_	--	_	_
-2_75	Adelige	_	adelige	_	NN	_	nom|pl|*	-1	73	_	CJ	_	_
-2_76	und	_	und	_	KON	_	_	-1	75	_	CD	_	_
-2_77	Bürgerliche	_	Bürgerliche	_	NN	_	nom|pl|masc	-1	76	_	CJ	_	_
-2_78	,	_	--	_	$,	_	_	-1	77	_	--	_	_
-2_79	Geistliche	_	geistliche	_	NN	_	nom|pl|masc	-1	75	_	CJ	_	_
-2_80	und	_	und	_	KON	_	_	-1	79	_	CD	_	_
-2_81	Weltliche	_	weltliche	_	NN	_	nom|pl|masc	-1	80	_	CJ	_	_
-2_82	,	_	--	_	$,	_	_	-1	81	_	--	_	_
-2_83	Auserwählte	_	auserwählte	_	NN	_	nom|pl|masc	-1	79	_	CJ	_	_
-2_84	und	_	und	_	KON	_	_	-1	83	_	CD	_	_
-2_85	Gemeine	_	Gemein	_	NN	_	nom|pl|masc	-1	84	_	CJ	_	_
-2_86	,	_	--	_	$,	_	_	-1	85	_	--	_	_
-2_87	Freie	_	freie	_	NN	_	nom|pl|*	-1	83	_	CJ	_	_
-2_88	und	_	und	_	KON	_	_	-1	87	_	CD	_	_
-2_89	Unfreie	_	unfreie	_	NN	_	dat|sg|fem	-1	88	_	CJ	_	_
-2_90	,	_	--	_	$,	_	_	-1	89	_	--	_	_
-2_91	Arbeitgeber	_	Arbeitgeber	_	NN	_	nom|pl|masc	-1	87	_	CJ	_	_
-2_92	und	_	und	_	KON	_	_	-1	91	_	CD	_	_
-2_93	Arbeitnehmer	_	Arbeitnehmer	_	NN	_	nom|pl|masc	-1	92	_	CJ	_	_
-2_94	,	_	--	_	$,	_	_	-1	93	_	--	_	_
-2_95	Glückliche	_	glückliche	_	NN	_	nom|pl|masc	-1	91	_	CJ	_	_
-2_96	und	_	und	_	KON	_	_	-1	95	_	CD	_	_
-2_97	Unglückliche	_	unglücklich	_	NN	_	acc|pl|*	-1	96	_	CJ	_	_
-2_98	,	_	--	_	$,	_	_	-1	97	_	--	_	_
-2_99	Weiße	_	weiße	_	NN	_	acc|pl|*	-1	87	_	CJ	_	_
-2_100	und	_	und	_	KON	_	_	-1	99	_	CD	_	_
-2_101	Schwarze	_	schwarze	_	NN	_	acc|pl|*	-1	100	_	CJ	_	_
-2_102	,	_	--	_	$,	_	_	-1	101	_	--	_	_
-2_103	Westliche	_	westliche	_	NN	_	nom|pl|masc	-1	99	_	CJ	_	_
-2_104	und	_	und	_	KON	_	_	-1	103	_	CD	_	_
-2_105	Östliche	_	östliche	_	NN	_	nom|pl|masc	-1	104	_	CJ	_	_
-2_106	,	_	--	_	$,	_	_	-1	105	_	--	_	_
-2_107	Zivilisierte	_	zivilisierte	_	NN	_	nom|pl|masc	-1	103	_	CJ	_	_
-2_108	und	_	und	_	KON	_	_	-1	107	_	CD	_	_
-2_109	Unzivilisierte	_	unzivilisierte	_	NN	_	nom|pl|masc	-1	108	_	CJ	_	_
-2_110	,	_	--	_	$,	_	_	-1	109	_	--	_	_
-2_111	Araber	_	Araber	_	NN	_	nom|pl|masc	-1	107	_	CJ	_	_
-2_112	und	_	und	_	KON	_	_	-1	111	_	CD	_	_
-2_113	Nicht-Araber	_	Nicht-Araber	_	NN	_	nom|pl|masc	-1	112	_	CJ	_	_
-2_114	.	_	--	_	$.	_	_	-1	113	_	--	_	_
-
-3_1	Wenn	_	wenn	_	KOUS	_	_	-1	5	_	CP	_	_
-3_2	ich	_	ich	_	PPER	_	nom|sg|*|1	-1	5	_	SB	_	_
-3_3	dir	_	dir	_	PPER	_	dat|sg|*|2	-1	5	_	DA	_	_
-3_4	jetzt	_	jetzt	_	ADV	_	_	-1	5	_	MO	_	_
-3_5	vorschlüge	_	vorschlug	_	VVFIN	_	sg|1|pres|ind	-1	25	_	MO	_	_
-3_6	,	_	--	_	$,	_	_	-1	5	_	--	_	_
-3_7	dich	_	dich	_	PRF	_	acc|sg|*|2	-1	14	_	OA	_	_
-3_8	in	_	in	_	APPR	_	_	-1	14	_	MO	_	_
-3_9	die	_	der	_	ART	_	acc|sg|fem	-1	10	_	NK	_	_
-3_10	Zwangsjacke	_	Zwangsjack	_	NN	_	acc|sg|fem	-1	8	_	NK	_	_
-3_11	Ewigen	_	ewig	_	NN	_	*|pl|fem	-1	14	_	OA	_	_
-3_12	Glücks	_	Glück	_	NN	_	gen|sg|neut	-1	11	_	AG	_	_
-3_13	zu	_	zu	_	PTKZU	_	_	-1	14	_	PM	_	_
-3_14	stecken	_	stecken	_	VVINF	_	_	-1	5	_	OC	_	_
-3_15	,	_	--	_	$,	_	_	-1	14	_	--	_	_
-3_16	sagen	_	sagen	_	VVFIN	_	pl|1|pres|ind	-1	0	_	--	_	_
-3_17	wir	_	wir	_	PPER	_	nom|pl|*|1	-1	16	_	SB	_	_
-3_18	,	_	--	_	$,	_	_	-1	17	_	--	_	_
-3_19	ich	_	ich	_	PPER	_	nom|sg|*|1	-1	20	_	SB	_	_
-3_20	würde	_	werden	_	VAFIN	_	sg|1|past|subj	-1	16	_	OC	_	_
-3_21	dich	_	dich	_	PRF	_	acc|sg|*|2	-1	25	_	OA	_	_
-3_22	in	_	in	_	APPR	_	_	-1	25	_	MO	_	_
-3_23	meinen	_	mein	_	PPOSAT	_	acc|sg|masc	-1	24	_	NK	_	_
-3_24	Eksator	_	Eksator	_	NN	_	acc|sg|masc	-1	22	_	NK	_	_
-3_25	einsperren	_	einsperren	_	VVINF	_	_	-1	20	_	OC	_	_
-3_26	,	_	--	_	$,	_	_	-1	25	_	--	_	_
-3_27	damit	_	damit	_	KOUS	_	_	-1	41	_	CP	_	_
-3_28	du	_	du	_	PPER	_	nom|sg|*|2	-1	41	_	SB	_	_
-3_29	dort	_	dort	_	ADV	_	_	-1	41	_	MO	_	_
-3_30	die	_	der	_	ART	_	acc|pl|fem	-1	33	_	NK	_	_
-3_31	nächsten	_	nächster	_	ADJA	_	acc|pl|fem|pos	-1	33	_	NK	_	_
-3_32	einundzwanzig	_	einundzwanzig	_	CARD	_	_	-1	33	_	NMC	_	_
-3_33	Milliarden	_	Milliarde	_	NN	_	nom|pl|fem	-1	40	_	OA	_	_
-3_34	Jahre	_	Jahr	_	NN	_	acc|pl|neut	-1	33	_	NK	_	_
-3_35	in	_	in	_	APPR	_	_	-1	40	_	MO	_	_
-3_36	höchster	_	hoch	_	ADJA	_	dat|sg|fem|sup	-1	39	_	NK	_	_
-3_37	und	_	und	_	KON	_	_	-1	36	_	CD	_	_
-3_38	reinster	_	rein	_	ADJA	_	dat|sg|fem|sup	-1	37	_	CJ	_	_
-3_39	Glückseligkeit	_	Glückseligkeit	_	NN	_	dat|sg|fem	-1	35	_	NK	_	_
-3_40	verbringen	_	verbringen	_	VVINF	_	_	-1	41	_	OC	_	_
-3_41	könntest	_	könntest	_	VMFIN	_	sg|3|pres|ind	-1	25	_	MO	_	_
-3_42	,	_	--	_	$,	_	_	-1	41	_	--	_	_
-3_43	statt	_	statt	_	KOUI	_	_	-1	50	_	CP	_	_
-3_44	dich	_	dich	_	PPER	_	acc|sg|*|2	-1	50	_	OA	_	_
-3_45	in	_	in	_	APPR	_	_	-1	50	_	MO	_	_
-3_46	dunkler	_	dunkel	_	ADJA	_	dat|sg|fem|pos	-1	47	_	NK	_	_
-3_47	Nacht	_	Nacht	_	NN	_	dat|sg|fem	-1	45	_	NK	_	_
-3_48	auf	_	auf	_	APPR	_	_	-1	50	_	MO	_	_
-3_49	Friedhöfen	_	Friedhof	_	NN	_	dat|pl|masc	-1	48	_	NK	_	_
-3_50	herumzudrücken	_	herumzudrücken	_	VVINF	_	_	-1	41	_	MO	_	_
-3_51	,	_	--	_	$,	_	_	-1	50	_	--	_	_
-3_52	die	_	der	_	ART	_	acc|sg|fem	-1	53	_	NK	_	_
-3_53	Gebeine	_	Gebein	_	NN	_	acc|sg|fem	-1	61	_	OA	_	_
-3_54	deines	_	dein	_	PPOSAT	_	gen|sg|masc	-1	55	_	NK	_	_
-3_55	Professors	_	Professor	_	NN	_	gen|sg|masc	-1	53	_	AG	_	_
-3_56	in	_	in	_	APPR	_	_	-1	61	_	MO	_	_
-3_57	ihrer	_	ihr	_	PPOSAT	_	dat|sg|fem	-1	59	_	NK	_	_
-3_58	ewigen	_	ewig	_	ADJA	_	dat|sg|fem|pos	-1	59	_	NK	_	_
-3_59	Ruhe	_	Ruhe	_	NN	_	dat|sg|fem	-1	56	_	NK	_	_
-3_60	zu	_	zu	_	PTKZU	_	_	-1	61	_	PM	_	_
-3_61	stören	_	stören	_	VVINF	_	_	-1	50	_	CJ	_	_
-3_62	und	_	und	_	KON	_	_	-1	61	_	CD	_	_
-3_63	Informationen	_	Information	_	NN	_	acc|pl|fem	-1	67	_	OA	_	_
-3_64	aus	_	aus	_	APPR	_	_	-1	67	_	MO	_	_
-3_65	Gräbern	_	Gräber	_	NN	_	dat|pl|masc	-1	64	_	NK	_	_
-3_66	zu	_	zu	_	PTKZU	_	_	-1	67	_	PM	_	_
-3_67	stehlen	_	stehlen	_	VVINF	_	_	-1	62	_	CJ	_	_
-3_68	,	_	--	_	$,	_	_	-1	67	_	--	_	_
-3_69	wenn	_	wenn	_	KOUS	_	_	-1	77	_	CP	_	_
-3_70	du	_	du	_	PPER	_	nom|sg|*|2	-1	77	_	SB	_	_
-3_71	zudem	_	zudem	_	PROAV	_	_	-1	76	_	MO	_	_
-3_72	die	_	der	_	ART	_	acc|sg|fem	-1	73	_	NK	_	_
-3_73	Suppe	_	Suppe	_	NN	_	acc|sg|fem	-1	76	_	OA	_	_
-3_74	nicht	_	nicht	_	PTKNEG	_	_	-1	76	_	NG	_	_
-3_75	mehr	_	mehr	_	ADV	_	_	-1	74	_	MO	_	_
-3_76	auszulöffeln	_	auslöffeln	_	VVIZU	_	_	-1	77	_	OC	_	_
-3_77	hättest	_	hättest	_	VAFIN	_	pl|3|past|subj	-1	67	_	MO	_	_
-3_78	,	_	--	_	$,	_	_	-1	77	_	--	_	_
-3_79	die	_	der	_	PRELS	_	nom|pl|*	-1	82	_	OA	_	_
-3_80	du	_	du	_	PPER	_	nom|sg|*|2	-1	83	_	SB	_	_
-3_81	dir	_	dir	_	PPER	_	dat|sg|*|2	-1	82	_	DA	_	_
-3_82	eingebrockt	_	einbrocken	_	VVPP	_	_	-1	83	_	OC	_	_
-3_83	hast	_	haben	_	VAFIN	_	sg|2|pres|ind	-1	73	_	RC	_	_
-3_84	,	_	--	_	$,	_	_	-1	83	_	--	_	_
-3_85	wenn	_	wenn	_	KOUS	_	_	-1	88	_	CP	_	_
-3_86	du	_	du	_	PPER	_	nom|pl|fem|3	-1	88	_	SB	_	_
-3_87	frei	_	frei	_	ADJD	_	pos	-1	88	_	PD	_	_
-3_88	wärst	_	wärst	_	VAFIN	_	_	-1	67	_	MO	_	_
-3_89	von	_	von	_	APPR	_	_	-1	88	_	PG	_	_
-3_90	allen	_	aller	_	PIAT	_	dat|pl|fem	-1	92	_	NK	_	_
-3_91	künftigen	_	künftig	_	ADJA	_	dat|pl|fem|pos	-1	92	_	NK	_	_
-3_92	Aufgaben	_	Aufgabe	_	NN	_	dat|pl|fem	-1	89	_	NK	_	_
-3_93	,	_	--	_	$,	_	_	-1	92	_	--	_	_
-3_94	Sorgen	_	Sorge	_	NN	_	acc|pl|fem	-1	92	_	CJ	_	_
-3_95	,	_	--	_	$,	_	_	-1	94	_	--	_	_
-3_96	Problemen	_	Problem	_	NN	_	dat|pl|neut	-1	94	_	CJ	_	_
-3_97	und	_	und	_	KON	_	_	-1	96	_	CD	_	_
-3_98	Mühen	_	Mühe	_	NN	_	dat|pl|fem	-1	97	_	CJ	_	_
-3_99	,	_	--	_	$,	_	_	-1	98	_	--	_	_
-3_100	die	_	der	_	PRELS	_	nom|pl|masc	-1	104	_	SB	_	_
-3_101	unser	_	unser	_	PPOSAT	_	nom|sg|neut	-1	103	_	NK	_	_
-3_102	tägliches	_	täglich	_	ADJA	_	acc|sg|neut|pos	-1	103	_	NK	_	_
-3_103	Dasein	_	Dasein	_	NN	_	acc|sg|neut	-1	104	_	OA	_	_
-3_104	belasten	_	belasten	_	VVINF	_	_	-1	92	_	RC	_	_
-3_105	und	_	und	_	KON	_	_	-1	104	_	CD	_	_
-3_106	bedrücken	_	bedrücken	_	VVINF	_	pl|3|pres|ind	-1	105	_	CJ	_	_
-3_107	-	_	--	_	$(	_	_	-1	106	_	--	_	_
-3_108	wärst	_	wärst	_	VAFIN	_	sg|2|pres|ind	-1	106	_	MO	_	_
-3_109	du	_	du	_	PPER	_	nom|sg|*|2	-1	108	_	SB	_	_
-3_110	dann	_	dann	_	ADV	_	_	-1	108	_	MO	_	_
-3_111	mit	_	mit	_	APPR	_	_	-1	114	_	MO	_	_
-3_112	meinem	_	mein	_	PPOSAT	_	dat|sg|masc	-1	113	_	NK	_	_
-3_113	Vorschlag	_	Vorschlag	_	NN	_	dat|sg|masc	-1	111	_	NK	_	_
-3_114	einverstanden	_	einverstanden	_	ADJD	_	pos	-1	108	_	PD	_	_
-3_115	?	_	--	_	$.	_	_	-1	114	_	--	_	_
-
-4_1	Neben	_	neben	_	APPR	_	_	-1	10	_	MO	_	_
-4_2	diesen	_	dieser	_	PDAT	_	dat|pl|fem	-1	7	_	NK	_	_
-4_3	in	_	in	_	APPR	_	_	-1	6	_	MO	_	_
-4_4	der	_	der	_	ART	_	dat|sg|fem	-1	5	_	NK	_	_
-4_5	Verfassung	_	Verfassung	_	NN	_	dat|sg|fem	-1	3	_	NK	_	_
-4_6	verankerten	_	verankert	_	ADJA	_	gen|pl|fem|pos	-1	7	_	NK	_	_
-4_7	Kompetenzen	_	Kompetenz	_	NN	_	gen|pl|fem	-1	1	_	NK	_	_
-4_8	und	_	und	_	KON	_	_	-1	7	_	CD	_	_
-4_9	Aufgaben	_	Aufgabe	_	NN	_	gen|pl|fem	-1	8	_	CJ	_	_
-4_10	übt	_	üben	_	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
-4_11	der	_	der	_	ART	_	nom|sg|masc	-1	13	_	NK	_	_
-4_12	religiöse	_	religiös	_	ADJA	_	nom|sg|masc|pos	-1	13	_	NK	_	_
-4_13	Führer	_	Führer	_	NN	_	nom|sg|masc	-1	10	_	SB	_	_
-4_14	kraft	_	kraft	_	APPR	_	_	-1	10	_	MO	_	_
-4_15	seiner	_	sein	_	PPOSAT	_	dat|sg|fem	-1	17	_	NK	_	_
-4_16	religiösen	_	religiös	_	ADJA	_	dat|sg|fem|pos	-1	17	_	NK	_	_
-4_17	Autorität	_	Autorität	_	NN	_	dat|sg|fem	-1	14	_	NK	_	_
-4_18	und	_	und	_	KON	_	_	-1	17	_	CD	_	_
-4_19	politischen	_	politisch	_	ADJA	_	dat|sg|fem|pos	-1	20	_	NK	_	_
-4_20	Macht	_	Macht	_	NN	_	dat|sg|fem	-1	18	_	CJ	_	_
-4_21	über	_	über	_	APPR	_	_	-1	20	_	MNR	_	_
-4_22	sein	_	sein	_	PPOSAT	_	acc|sg|neut	-1	24	_	NK	_	_
-4_23	persönliches	_	persönlich	_	ADJA	_	acc|sg|neut|pos	-1	24	_	NK	_	_
-4_24	Büro	_	Büro	_	NN	_	acc|sg|neut	-1	21	_	NK	_	_
-4_25	bzw.	_	bzw.	_	KON	_	_	-1	21	_	CD	_	_
-4_26	durch	_	durch	_	APPR	_	_	-1	25	_	CJ	_	_
-4_27	seine	_	sein	_	PPOSAT	_	acc|pl|fem	-1	29	_	NK	_	_
-4_28	persönlichen	_	persönlich	_	ADJA	_	acc|pl|*|pos	-1	29	_	NK	_	_
-4_29	Beauftragten	_	beauftragter	_	NN	_	dat|pl|*	-1	26	_	NK	_	_
-4_30	und	_	und	_	KON	_	_	-1	29	_	CD	_	_
-4_31	Vertrauten	_	Vertraute	_	NN	_	dat|pl|masc	-1	30	_	CJ	_	_
-4_32	in	_	in	_	APPR	_	_	-1	29	_	MNR	_	_
-4_33	allen	_	aller	_	PIAT	_	dat|pl|neut	-1	35	_	NK	_	_
-4_34	gesellschaftlichen	_	gesellschaftlich	_	ADJA	_	dat|pl|masc|pos	-1	35	_	NK	_	_
-4_35	Bereichen	_	Bereich	_	NN	_	dat|pl|masc	-1	32	_	NK	_	_
-4_36	Einfluß	_	Einfluß	_	NN	_	acc|sg|masc	-1	10	_	OA	_	_
-4_37	aus	_	aus	_	PTKVZ	_	_	-1	10	_	SVP	_	_
-4_38	und	_	und	_	KON	_	_	-1	10	_	CD	_	_
-4_39	kontrolliert	_	kontrollieren	_	VVFIN	_	sg|3|pres|ind	-1	38	_	CJ	_	_
-4_40	so	_	so	_	ADV	_	_	-1	39	_	MO	_	_
-4_41	eine	_	ein	_	ART	_	nom|sg|fem	-1	42	_	NK	_	_
-4_42	Reihe	_	Reihe	_	NN	_	nom|sg|fem	-1	39	_	OA	_	_
-4_43	von	_	von	_	APPR	_	_	-1	42	_	PG	_	_
-4_44	wichtigen	_	wichtig	_	ADJA	_	dat|pl|fem|pos	-1	50	_	NK	_	_
-4_45	staatlichen	_	staatlich	_	ADJA	_	dat|pl|fem|pos	-1	50	_	NK	_	_
-4_46	,	_	--	_	$,	_	_	-1	45	_	--	_	_
-4_47	halbstaatlichen	_	halbstaatlich	_	ADJA	_	dat|pl|fem|pos	-1	45	_	CJ	_	_
-4_48	und	_	und	_	KON	_	_	-1	47	_	CD	_	_
-4_49	nichtstaatlichen	_	nichtstaatlich	_	ADJA	_	dat|pl|fem|pos	-1	48	_	CJ	_	_
-4_50	Organisationen	_	Organisation	_	NN	_	dat|pl|fem	-1	43	_	NK	_	_
-4_51	und	_	und	_	KON	_	_	-1	50	_	CD	_	_
-4_52	Institutionen	_	Institution	_	NN	_	dat|pl|fem	-1	51	_	CJ	_	_
-4_53	,	_	--	_	$,	_	_	-1	52	_	--	_	_
-4_54	darunter	_	darunter	_	PROAV	_	_	-1	57	_	MO	_	_
-4_55	der	_	der	_	ART	_	nom|sg|masc	-1	57	_	NK	_	_
-4_56	hohe	_	hoch	_	ADJA	_	nom|sg|masc|pos	-1	57	_	NK	_	_
-4_57	Rat	_	Rat	_	NN	_	nom|sg|masc	-1	52	_	PAR	_	_
-4_58	der	_	der	_	ART	_	gen|sg|fem	-1	59	_	NK	_	_
-4_59	Kulturrevolution	_	Kulturrevolution	_	NN	_	gen|sg|fem	-1	57	_	AG	_	_
-4_60	,	_	--	_	$,	_	_	-1	59	_	--	_	_
-4_61	das	_	der	_	ART	_	nom|sg|neut	-1	62	_	NK	_	_
-4_62	Imam-Khomeini-Hilfskomitee	_	Imam-Khomeini-Hilfskomitee	_	NN	_	acc|sg|neut	-1	57	_	APP	_	_
-4_63	,	_	--	_	$,	_	_	-1	62	_	--	_	_
-4_64	die	_	der	_	ART	_	acc|sg|fem	-1	65	_	NK	_	_
-4_65	Stiftung	_	Stiftung	_	NN	_	acc|sg|fem	-1	62	_	CJ	_	_
-4_66	des	_	der	_	ART	_	gen|sg|masc	-1	68	_	NK	_	_
-4_67	15.	_	15.	_	ADJA	_	gen|sg|masc|pos	-1	68	_	NK	_	_
-4_68	Khordad	_	Khordad	_	NE	_	gen|sg|masc	-1	65	_	AG	_	_
-4_69	,	_	--	_	$,	_	_	-1	68	_	--	_	_
-4_70	die	_	der	_	ART	_	nom|sg|fem	-1	71	_	NK	_	_
-4_71	Märtyrerstiftung	_	Märtyrerstiftung	_	NN	_	acc|sg|fem	-1	65	_	CJ	_	_
-4_72	,	_	--	_	$,	_	_	-1	71	_	--	_	_
-4_73	die	_	der	_	ART	_	nom|sg|fem	-1	74	_	NK	_	_
-4_74	Entmachteten-Stiftung	_	Entmachteten-Stiftung	_	NE	_	acc|sg|fem	-1	71	_	CJ	_	_
-4_75	,	_	--	_	$,	_	_	-1	74	_	--	_	_
-4_76	die	_	der	_	ART	_	nom|sg|fem	-1	77	_	NK	_	_
-4_77	Wohnungsbaustiftung	_	Wohnungsbaustiftung	_	NN	_	acc|sg|fem	-1	74	_	CJ	_	_
-4_78	,	_	--	_	$,	_	_	-1	77	_	--	_	_
-4_79	die	_	der	_	ART	_	nom|sg|fem	-1	81	_	NK	_	_
-4_80	Islamische	_	islamisch	_	ADJA	_	nom|sg|fem|pos	-1	81	_	NK	_	_
-4_81	Propagandaorganisation	_	Propagandaorganisation	_	NN	_	nom|sg|fem	-1	77	_	CJ	_	_
-4_82	,	_	--	_	$,	_	_	-1	81	_	--	_	_
-4_83	die	_	der	_	ART	_	nom|sg|fem	-1	84	_	NK	_	_
-4_84	Kommission	_	Kommission	_	NN	_	nom|sg|fem	-1	81	_	CJ	_	_
-4_85	für	_	für	_	APPR	_	_	-1	84	_	MNR	_	_
-4_86	Landverteilung	_	Landverteilung	_	NN	_	acc|sg|fem	-1	85	_	NK	_	_
-4_87	,	_	--	_	$,	_	_	-1	86	_	--	_	_
-4_88	das	_	der	_	ART	_	nom|sg|neut	-1	89	_	NK	_	_
-4_89	Zentralbüro	_	Zentralbüro	_	NN	_	acc|sg|neut	-1	84	_	CJ	_	_
-4_90	der	_	der	_	ART	_	gen|pl|masc	-1	91	_	NK	_	_
-4_91	Freitags-Imams	_	Freitags-Imam	_	NN	_	gen|pl|masc	-1	89	_	AG	_	_
-4_92	,	_	--	_	$,	_	_	-1	91	_	--	_	_
-4_93	die	_	der	_	PRELS	_	nom|pl|masc	-1	98	_	SB	_	_
-4_94	nach	_	nach	_	APPR	_	_	-1	97	_	MO	_	_
-4_95	der	_	der	_	ART	_	dat|sg|fem	-1	96	_	NK	_	_
-4_96	Revolution	_	Revolution	_	NN	_	dat|sg|fem	-1	94	_	NK	_	_
-4_97	entstanden	_	entstehen	_	VVPP	_	_	-1	98	_	OC	_	_
-4_98	sind	_	sein	_	VAFIN	_	pl|3|pres|ind	-1	91	_	RC	_	_
-4_99	und	_	und	_	KON	_	_	-1	98	_	CD	_	_
-4_100	eine	_	ein	_	ART	_	nom|sg|fem	-1	103	_	NK	_	_
-4_101	nicht	_	nicht	_	PTKNEG	_	_	-1	102	_	NG	_	_
-4_102	unwesentliche	_	unwesentlich	_	ADJA	_	acc|sg|fem|pos	-1	103	_	NK	_	_
-4_103	Rolle	_	Rolle	_	NN	_	acc|sg|fem	-1	113	_	OA	_	_
-4_104	im	_	in	_	APPRART	_	dat|sg|neut	-1	103	_	MNR	_	_
-4_105	wirtschaftlichen	_	wirtschaftlich	_	ADJA	_	dat|sg|neut|pos	-1	110	_	NK	_	_
-4_106	,	_	--	_	$,	_	_	-1	105	_	--	_	_
-4_107	sozialen	_	sozial	_	ADJA	_	nom|pl|fem|pos	-1	105	_	CJ	_	_
-4_108	und	_	und	_	KON	_	_	-1	107	_	CD	_	_
-4_109	kulturellen	_	kulturell	_	ADJA	_	nom|pl|fem|pos	-1	108	_	CJ	_	_
-4_110	Leben	_	Leben	_	NN	_	acc|sg|neut	-1	104	_	NK	_	_
-4_111	des	_	der	_	ART	_	gen|sg|neut	-1	112	_	NK	_	_
-4_112	Landes	_	Land	_	NN	_	gen|sg|neut	-1	110	_	AG	_	_
-4_113	spielen	_	spielen	_	VVFIN	_	_	-1	99	_	CJ	_	_
-4_114	.	_	--	_	$.	_	_	-1	113	_	--	_	_
-
-5_1	Wir	_	wir	_	PPER	_	nom|pl|*|1	-1	2	_	SB	_	_
-5_2	bekennen	_	bekennen	_	VVFIN	_	pl|1|pres|ind	-1	0	_	--	_	_
-5_3	uns	_	uns	_	PPER	_	acc|pl|1	-1	2	_	OA	_	_
-5_4	erneut	_	erneut	_	ADJD	_	pos	-1	2	_	MO	_	_
-5_5	dazu	_	dazu	_	PROAV	_	_	-1	2	_	OP	_	_
-5_6	,	_	--	_	$,	_	_	-1	5	_	--	_	_
-5_7	alle	_	aller	_	PIAT	_	acc|pl|fem	-1	8	_	NK	_	_
-5_8	Anstrengungen	_	Anstrengung	_	NN	_	acc|pl|fem	-1	10	_	OA	_	_
-5_9	zu	_	zu	_	PTKZU	_	_	-1	10	_	PM	_	_
-5_10	unterstützen	_	unterstützen	_	VVINF	_	_	-1	5	_	RE	_	_
-5_11	,	_	--	_	$,	_	_	-1	10	_	--	_	_
-5_12	die	_	der	_	PRELS	_	nom|pl|neut	-1	84	_	NK	_	_
-5_13	auf	_	auf	_	APPR	_	_	-1	2	_	OP	_	_
-5_14	die	_	der	_	ART	_	acc|sg|fem	-1	15	_	NK	_	_
-5_15	Wahrung	_	Wahrung	_	NN	_	acc|sg|fem	-1	13	_	NK	_	_
-5_16	der	_	der	_	ART	_	gen|sg|fem	-1	18	_	NK	_	_
-5_17	souveränen	_	souverän	_	ADJA	_	gen|sg|fem|pos	-1	18	_	NK	_	_
-5_18	Gleichheit	_	Gleichheit	_	NN	_	gen|sg|fem	-1	15	_	AG	_	_
-5_19	aller	_	aller	_	PIAT	_	gen|pl|masc	-1	20	_	NK	_	_
-5_20	Staaten	_	Staat	_	NN	_	gen|pl|masc	-1	18	_	AG	_	_
-5_21	,	_	--	_	$,	_	_	-1	20	_	--	_	_
-5_22	die	_	der	_	ART	_	acc|sg|fem	-1	23	_	NK	_	_
-5_23	Achtung	_	Achtung	_	NN	_	acc|sg|fem	-1	15	_	CJ	_	_
-5_24	ihrer	_	ihr	_	PPOSAT	_	gen|sg|fem	-1	26	_	NK	_	_
-5_25	territorialen	_	territorial	_	ADJA	_	gen|sg|fem|pos	-1	26	_	NK	_	_
-5_26	Unversehrtheit	_	Unversehrtheit	_	NN	_	gen|sg|fem	-1	23	_	AG	_	_
-5_27	und	_	und	_	KON	_	_	-1	26	_	CD	_	_
-5_28	politischen	_	politisch	_	ADJA	_	gen|sg|fem|pos	-1	29	_	NK	_	_
-5_29	Unabhängigkeit	_	Unabhängigkeit	_	NN	_	gen|sg|fem	-1	27	_	CJ	_	_
-5_30	,	_	--	_	$,	_	_	-1	29	_	--	_	_
-5_31	die	_	der	_	ART	_	acc|sg|fem	-1	32	_	NK	_	_
-5_32	Beilegung	_	Beilegung	_	NN	_	acc|sg|fem	-1	23	_	CJ	_	_
-5_33	von	_	von	_	APPR	_	_	-1	32	_	PG	_	_
-5_34	Streitigkeiten	_	Streitigkeit	_	NN	_	dat|pl|fem	-1	33	_	NK	_	_
-5_35	mit	_	mit	_	APPR	_	_	-1	32	_	MNR	_	_
-5_36	friedlichen	_	friedlich	_	ADJA	_	dat|pl|neut|pos	-1	37	_	NK	_	_
-5_37	Mitteln	_	Mittel	_	NN	_	dat|pl|neut	-1	35	_	NK	_	_
-5_38	und	_	und	_	KON	_	_	-1	35	_	CD	_	_
-5_39	in	_	in	_	APPR	_	_	-1	38	_	CJ	_	_
-5_40	Übereinstimmung	_	Übereinstimmung	_	NN	_	dat|sg|fem	-1	39	_	NK	_	_
-5_41	mit	_	mit	_	APPR	_	_	-1	40	_	OP	_	_
-5_42	den	_	der	_	ART	_	dat|pl|masc	-1	43	_	NK	_	_
-5_43	Grundsätzen	_	Grundsatz	_	NN	_	dat|pl|masc	-1	41	_	NK	_	_
-5_44	der	_	der	_	ART	_	gen|sg|fem	-1	45	_	NK	_	_
-5_45	Gerechtigkeit	_	Gerechtigkeit	_	NN	_	gen|sg|fem	-1	43	_	AG	_	_
-5_46	und	_	und	_	KON	_	_	-1	45	_	CD	_	_
-5_47	des	_	der	_	ART	_	gen|sg|neut	-1	48	_	NK	_	_
-5_48	Völkerrechts	_	Völkerrecht	_	NN	_	gen|sg|neut	-1	46	_	CJ	_	_
-5_49	,	_	--	_	$,	_	_	-1	48	_	--	_	_
-5_50	das	_	der	_	ART	_	nom|sg|neut	-1	51	_	NK	_	_
-5_51	Selbstbestimmungsrecht	_	Selbstbestimmungsrecht	_	NN	_	acc|sg|neut	-1	32	_	CJ	_	_
-5_52	der	_	der	_	ART	_	gen|pl|neut	-1	53	_	NK	_	_
-5_53	Völker	_	Volk	_	NN	_	gen|pl|neut	-1	51	_	AG	_	_
-5_54	,	_	--	_	$,	_	_	-1	53	_	--	_	_
-5_55	die	_	der	_	PRELS	_	nom|pl|neut	-1	64	_	SB	_	_
-5_56	sich	_	sich	_	PRF	_	acc|sg|3	-1	64	_	OA	_	_
-5_57	weiterhin	_	weiterhin	_	ADV	_	_	-1	64	_	MO	_	_
-5_58	unter	_	unter	_	APPR	_	_	-1	64	_	MO	_	_
-5_59	kolonialer	_	kolonial	_	ADJA	_	dat|sg|fem|pos	-1	60	_	NK	_	_
-5_60	Herrschaft	_	Herrschaft	_	NN	_	dat|sg|fem	-1	58	_	NK	_	_
-5_61	und	_	und	_	KON	_	_	-1	60	_	CD	_	_
-5_62	ausländischer	_	ausländisch	_	ADJA	_	dat|sg|fem|pos	-1	63	_	NK	_	_
-5_63	Besetzung	_	Besetzung	_	NN	_	dat|sg|fem	-1	61	_	CJ	_	_
-5_64	befinden	_	befinden	_	VVFIN	_	_	-1	53	_	RC	_	_
-5_65	,	_	--	_	$,	_	_	-1	64	_	--	_	_
-5_66	die	_	der	_	ART	_	acc|sg|fem	-1	67	_	NK	_	_
-5_67	Nichteinmischung	_	Nichteinmischung	_	NN	_	acc|sg|fem	-1	51	_	CJ	_	_
-5_68	in	_	in	_	APPR	_	_	-1	67	_	MNR	_	_
-5_69	die	_	der	_	ART	_	acc|pl|fem	-1	71	_	NK	_	_
-5_70	inneren	_	innerer	_	ADJA	_	acc|pl|fem|pos	-1	71	_	NK	_	_
-5_71	Angelegenheiten	_	Angelegenheit	_	NN	_	acc|pl|fem	-1	68	_	NK	_	_
-5_72	der	_	der	_	ART	_	gen|pl|masc	-1	73	_	NK	_	_
-5_73	Staaten	_	Staat	_	NN	_	gen|pl|masc	-1	71	_	AG	_	_
-5_74	,	_	--	_	$,	_	_	-1	73	_	--	_	_
-5_75	die	_	der	_	ART	_	acc|sg|fem	-1	76	_	NK	_	_
-5_76	Achtung	_	Achtung	_	NN	_	acc|sg|fem	-1	67	_	CJ	_	_
-5_77	der	_	der	_	ART	_	gen|pl|neut	-1	78	_	NK	_	_
-5_78	Menschenrechte	_	Menschenrecht	_	NN	_	gen|pl|neut	-1	76	_	AG	_	_
-5_79	und	_	und	_	KON	_	_	-1	78	_	CD	_	_
-5_80	Grundfreiheiten	_	Grundfreiheit	_	NN	_	gen|pl|fem	-1	79	_	CJ	_	_
-5_81	,	_	--	_	$,	_	_	-1	80	_	--	_	_
-5_82	die	_	der	_	ART	_	nom|sg|fem	-1	83	_	NK	_	_
-5_83	Gleichberechtigung	_	Gleichberechtigung	_	NN	_	nom|sg|fem	-1	76	_	CJ	_	_
-5_84	aller	_	aller	_	PIAT	_	gen|pl|neut	-1	83	_	AG	_	_
-5_85	ohne	_	ohne	_	APPR	_	_	-1	112	_	MO	_	_
-5_86	Unterschied	_	Unterschied	_	NN	_	acc|sg|masc	-1	85	_	NK	_	_
-5_87	nach	_	nach	_	APPR	_	_	-1	86	_	MNR	_	_
-5_88	Rasse	_	Rasse	_	NN	_	dat|sg|fem	-1	87	_	NK	_	_
-5_89	,	_	--	_	$,	_	_	-1	88	_	--	_	_
-5_90	Geschlecht	_	Geschlecht	_	NN	_	dat|sg|neut	-1	88	_	CJ	_	_
-5_91	,	_	--	_	$,	_	_	-1	90	_	--	_	_
-5_92	Sprache	_	Sprache	_	NN	_	dat|sg|fem	-1	90	_	CJ	_	_
-5_93	oder	_	oder	_	KON	_	_	-1	92	_	CD	_	_
-5_94	Religion	_	Religion	_	NN	_	dat|sg|fem	-1	93	_	CJ	_	_
-5_95	und	_	und	_	KON	_	_	-1	76	_	CD	_	_
-5_96	die	_	der	_	ART	_	acc|sg|fem	-1	98	_	NK	_	_
-5_97	internationale	_	international	_	ADJA	_	acc|sg|fem|pos	-1	98	_	NK	_	_
-5_98	Zusammenarbeit	_	Zusammenarbeit	_	NN	_	acc|sg|fem	-1	95	_	CJ	_	_
-5_99	bei	_	bei	_	APPR	_	_	-1	98	_	MNR	_	_
-5_100	der	_	der	_	ART	_	dat|sg|fem	-1	101	_	NK	_	_
-5_101	Lösung	_	Lösung	_	NN	_	dat|sg|fem	-1	99	_	NK	_	_
-5_102	internationaler	_	international	_	ADJA	_	gen|pl|neut|pos	-1	103	_	NK	_	_
-5_103	Probleme	_	Problem	_	NN	_	gen|pl|neut	-1	101	_	AG	_	_
-5_104	wirtschaftlicher	_	wirtschaftlich	_	ADJA	_	gen|pl|masc|pos	-1	111	_	NK	_	_
-5_105	,	_	--	_	$,	_	_	-1	104	_	--	_	_
-5_106	sozialer	_	sozial	_	ADJA	_	dat|sg|fem|pos	-1	104	_	CJ	_	_
-5_107	,	_	--	_	$,	_	_	-1	106	_	--	_	_
-5_108	kultureller	_	kulturell	_	ADJA	_	dat|sg|fem|pos	-1	106	_	CJ	_	_
-5_109	oder	_	oder	_	KON	_	_	-1	108	_	CD	_	_
-5_110	humanitärer	_	humanitär	_	ADJA	_	dat|sg|fem|pos	-1	109	_	CJ	_	_
-5_111	Art	_	Art	_	NN	_	dat|sg|fem	-1	113	_	SB	_	_
-5_112	gerichtet	_	richten	_	VVPP	_	_	-1	113	_	PD	_	_
-5_113	sind	_	sein	_	VAFIN	_	pl|3|pres|ind	-1	103	_	RC	_	_
-5_114	.	_	--	_	$.	_	_	-1	113	_	--	_	_
-
-6_1	Seither	_	seither	_	ADV	_	_	-1	7	_	MO	_	_
-6_2	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
-6_3	die	_	der	_	ART	_	nom|sg|fem	-1	4	_	NK	_	_
-6_4	Geschichte	_	Geschichte	_	NN	_	nom|sg|fem	-1	2	_	SB	_	_
-6_5	ungezählte	_	ungezählt	_	ADJA	_	acc|pl|neut|pos	-1	6	_	NK	_	_
-6_6	Male	_	Mal	_	NN	_	acc|pl|neut	-1	7	_	MO	_	_
-6_7	wiederholt	_	wiederholen	_	VVPP	_	_	-1	8	_	OC	_	_
-6_8	worden	_	werden	_	VAPP	_	_	-1	2	_	OC	_	_
-6_9	,	_	--	_	$,	_	_	-1	8	_	--	_	_
-6_10	in	_	in	_	APPR	_	_	-1	6	_	PAR	_	_
-6_11	ungezählten	_	ungezählt	_	ADJA	_	dat|pl|neut|pos	-1	12	_	NK	_	_
-6_12	Büchern	_	Buch	_	NN	_	dat|pl|neut	-1	10	_	NK	_	_
-6_13	,	_	--	_	$,	_	_	-1	12	_	--	_	_
-6_14	in	_	in	_	APPR	_	_	-1	22	_	MO	_	_
-6_15	denen	_	der	_	PRELS	_	dat|pl|neut	-1	14	_	NK	_	_
-6_16	ganze	_	ganz	_	ADJA	_	acc|sg|fem|pos	-1	18	_	NK	_	_
-6_17	intergalaktische	_	intergalaktisch	_	ADJA	_	acc|pl|fem|pos	-1	18	_	NK	_	_
-6_18	Imperien	_	Imperien	_	NN	_	nom|pl|neut	-1	23	_	SB	_	_
-6_19	nichts	_	nichts	_	PIS	_	*|*|neut	-1	22	_	OA	_	_
-6_20	besser	_	gut	_	ADJD	_	comp	-1	22	_	MO	_	_
-6_21	zu	_	zu	_	PTKZU	_	_	-1	22	_	PM	_	_
-6_22	tun	_	tun	_	VVINF	_	_	-1	23	_	OC	_	_
-6_23	haben	_	haben	_	VAINF	_	_	-1	12	_	RC	_	_
-6_24	,	_	--	_	$,	_	_	-1	23	_	--	_	_
-6_25	als	_	als	_	KOUS	_	_	-1	30	_	CM	_	_
-6_26	ausgerechnet	_	ausgerechnet	_	ADV	_	_	-1	30	_	MO	_	_
-6_27	die	_	der	_	ART	_	acc|sg|fem	-1	28	_	NK	_	_
-6_28	Erde	_	Erde	_	NN	_	acc|sg|fem	-1	30	_	OA	_	_
-6_29	zu	_	zu	_	PTKZU	_	_	-1	30	_	PM	_	_
-6_30	überfallen	_	überfallen	_	VVINF	_	_	-1	20	_	CC	_	_
-6_31	,	_	--	_	$,	_	_	-1	30	_	--	_	_
-6_32	in	_	in	_	APPR	_	_	-1	35	_	MO	_	_
-6_33	Verfilmungen	_	Verfilmung	_	NN	_	dat|pl|fem	-1	32	_	NK	_	_
-6_34	,	_	--	_	$,	_	_	-1	33	_	--	_	_
-6_35	angefangen	_	anfangen	_	VVPP	_	_	-1	12	_	PAR	_	_
-6_36	von	_	von	_	APPR	_	_	-1	35	_	SBP	_	_
-6_37	einer	_	ein	_	ART	_	dat|sg|fem	-1	39	_	NK	_	_
-6_38	schauerlichen	_	schauerlich	_	ADJA	_	dat|sg|fem|pos	-1	39	_	NK	_	_
-6_39	fünfziger-Jahre-Verfilmung	_	fünfziger-jahre-verfilmung	_	NN	_	dat|sg|fem	-1	36	_	NK	_	_
-6_40	des	_	der	_	ART	_	gen|sg|masc	-1	41	_	NK	_	_
-6_41	Kriegs	_	Krieg	_	NN	_	gen|sg|masc	-1	39	_	AG	_	_
-6_42	der	_	der	_	ART	_	gen|pl|fem	-1	43	_	NK	_	_
-6_43	Welten	_	Welt	_	NN	_	gen|pl|fem	-1	41	_	AG	_	_
-6_44	,	_	--	_	$,	_	_	-1	43	_	--	_	_
-6_45	in	_	in	_	APPR	_	_	-1	48	_	MO	_	_
-6_46	denen	_	der	_	PRELS	_	dat|pl|masc	-1	45	_	NK	_	_
-6_47	der	_	der	_	ART	_	nom|sg|masc	-1	48	_	NK	_	_
-6_48	Held	_	Held	_	NN	_	nom|sg|masc	-1	35	_	CJ	_	_
-6_49	,	_	--	_	$,	_	_	-1	48	_	--	_	_
-6_50	der	_	der	_	ART	_	nom|sg|masc	-1	52	_	NK	_	_
-6_51	gutaussehende	_	gutaussehend	_	ADJA	_	nom|sg|masc|pos	-1	52	_	NK	_	_
-6_52	Wissenschaftler	_	Wissenschaftler	_	NN	_	nom|sg|masc	-1	48	_	APP	_	_
-6_53	,	_	--	_	$,	_	_	-1	52	_	--	_	_
-6_54	zusammen	_	zusammen	_	ADV	_	_	-1	55	_	MO	_	_
-6_55	mit	_	mit	_	APPR	_	_	-1	48	_	PAR	_	_
-6_56	der	_	der	_	ART	_	dat|sg|fem	-1	57	_	NK	_	_
-6_57	Heldin	_	Heldin	_	NN	_	dat|sg|fem	-1	55	_	NK	_	_
-6_58	,	_	--	_	$,	_	_	-1	57	_	--	_	_
-6_59	dem	_	der	_	ART	_	dat|sg|neut	-1	61	_	NK	_	_
-6_60	unbedarften	_	unbedarft	_	ADJA	_	dat|sg|neut|sup	-1	61	_	NK	_	_
-6_61	Mädchen	_	Mädchen	_	NN	_	nom|pl|neut	-1	57	_	CJ	_	_
-6_62	,	_	--	_	$,	_	_	-1	61	_	--	_	_
-6_63	in	_	in	_	APPR	_	_	-1	72	_	MO	_	_
-6_64	einem	_	ein	_	ART	_	dat|sg|neut	-1	65	_	NK	_	_
-6_65	Gotteshaus	_	Gotteshaus	_	NN	_	dat|sg|neut	-1	63	_	NK	_	_
-6_66	vor	_	vor	_	APPR	_	_	-1	65	_	MNR	_	_
-6_67	den	_	der	_	ART	_	dat|pl|fem	-1	68	_	NK	_	_
-6_68	Attacken	_	Attacke	_	NN	_	dat|pl|fem	-1	66	_	NK	_	_
-6_69	der	_	der	_	ART	_	gen|sg|fem	-1	71	_	NK	_	_
-6_70	Außerirdischen	_	außerirdisch	_	ADJA	_	gen|sg|fem|pos	-1	71	_	NK	_	_
-6_71	Schutz	_	Schutz	_	NN	_	acc|sg|masc	-1	72	_	OA	_	_
-6_72	suchen	_	suchen	_	VVFIN	_	pl|3|pres|ind	-1	61	_	RC	_	_
-6_73	,	_	--	_	$,	_	_	-1	72	_	--	_	_
-6_74	Vorgänge	_	Vorgang	_	NN	_	nom|pl|masc	-1	61	_	CJ	_	_
-6_75	und	_	und	_	KON	_	_	-1	74	_	CD	_	_
-6_76	Personen	_	Person	_	NN	_	nom|pl|fem	-1	75	_	CJ	_	_
-6_77	,	_	--	_	$,	_	_	-1	76	_	--	_	_
-6_78	von	_	von	_	APPR	_	_	-1	84	_	MO	_	_
-6_79	denen	_	der	_	PRELS	_	dat|pl|masc	-1	78	_	NK	_	_
-6_80	die	_	der	_	ART	_	nom|pl|masc	-1	81	_	NK	_	_
-6_81	Vorlage	_	Vorlage	_	NN	_	nom|pl|masc	-1	84	_	OA	_	_
-6_82	glücklicherweise	_	glücklicherweise	_	ADV	_	_	-1	84	_	MO	_	_
-6_83	nichts	_	nichts	_	PIS	_	*|*|neut	-1	84	_	OA	_	_
-6_84	weiß	_	weiß	_	VVFIN	_	sg|3|pres|ind	-1	57	_	RC	_	_
-6_85	,	_	--	_	$,	_	_	-1	84	_	--	_	_
-6_86	bis	_	bis	_	APPR	_	_	-1	87	_	AC	_	_
-6_87	zu	_	zu	_	APPR	_	_	-1	84	_	MO	_	_
-6_88	Roland	_	Roland	_	NE	_	nom|sg|masc	-1	89	_	PNC	_	_
-6_89	Emmerichs	_	Emmerich	_	NE	_	gen|sg|masc	-1	90	_	AG	_	_
-6_90	Effekteorgie	_	Effekteorgie	_	NN	_	nom|sg|fem	-1	87	_	NK	_	_
-6_91	,	_	--	_	$,	_	_	-1	90	_	--	_	_
-6_92	die	_	der	_	PRELS	_	nom|sg|fem	-1	98	_	SB	_	_
-6_93	noch	_	noch	_	ADV	_	_	-1	94	_	MO	_	_
-6_94	nicht	_	nicht	_	PTKNEG	_	_	-1	98	_	NG	_	_
-6_95	einmal	_	einmal	_	ADV	_	_	-1	94	_	MO	_	_
-6_96	darin	_	darin	_	PROAV	_	_	-1	97	_	MO	_	_
-6_97	originell	_	originell	_	ADJD	_	pos	-1	98	_	PD	_	_
-6_98	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	90	_	RC	_	_
-6_99	,	_	--	_	$,	_	_	-1	98	_	--	_	_
-6_100	wie	_	wie	_	PWAV	_	_	-1	105	_	MO	_	_
-6_101	sie	_	sie	_	PPER	_	nom|pl|masc|3	-1	105	_	SB	_	_
-6_102	die	_	der	_	ART	_	acc|pl|masc	-1	103	_	NK	_	_
-6_103	Angreifer	_	Angreifer	_	NN	_	acc|pl|masc	-1	105	_	OA	_	_
-6_104	scheitern	_	scheitern	_	VVINF	_	_	-1	105	_	OC	_	_
-6_105	läßt	_	lassen	_	VVFIN	_	sg|3|pres|ind	-1	96	_	RE	_	_
-6_106	,	_	--	_	$,	_	_	-1	105	_	--	_	_
-6_107	denn	_	denn	_	KON	_	_	-1	84	_	CD	_	_
-6_108	ein	_	ein	_	ART	_	nom|sg|masc	-1	109	_	NK	_	_
-6_109	Virus	_	Virus	_	NN	_	nom|sg|masc	-1	110	_	SB	_	_
-6_110	spielt	_	spielen	_	VVFIN	_	sg|3|pres|ind	-1	107	_	CJ	_	_
-6_111	schon	_	schon	_	ADV	_	_	-1	112	_	MO	_	_
-6_112	bei	_	bei	_	APPR	_	_	-1	110	_	MO	_	_
-6_113	Wells	_	Wells	_	NE	_	dat|sg|neut	-1	112	_	NK	_	_
-6_114	eine	_	ein	_	ART	_	acc|sg|fem	-1	116	_	NK	_	_
-6_115	entscheidende	_	entscheidend	_	ADJA	_	acc|sg|fem|pos	-1	116	_	NK	_	_
-6_116	Rolle	_	Rolle	_	NN	_	acc|sg|fem	-1	110	_	OA	_	_
-6_117	.	_	--	_	$.	_	_	-1	116	_	--	_	_
-
-7_1	Besondere	_	besonderer	_	ADJA	_	nom|pl|masc|pos	-1	2	_	NK	_	_
-7_2	Anlässe	_	Anlaß	_	NN	_	nom|pl|masc	-1	14	_	SB	_	_
-7_3	für	_	für	_	APPR	_	_	-1	2	_	MNR	_	_
-7_4	eine	_	ein	_	ART	_	acc|sg|fem	-1	5	_	NK	_	_
-7_5	Betreuung	_	Betreuung	_	NN	_	acc|sg|fem	-1	3	_	NK	_	_
-7_6	durch	_	durch	_	APPR	_	_	-1	5	_	MNR	_	_
-7_7	den	_	der	_	ART	_	acc|sg|masc	-1	8	_	NK	_	_
-7_8	Betriebsarzt	_	Betriebsarzt	_	NN	_	acc|sg|masc	-1	6	_	NK	_	_
-7_9	und	_	und	_	KON	_	_	-1	5	_	CD	_	_
-7_10	die	_	der	_	ART	_	acc|sg|fem	-1	11	_	NK	_	_
-7_11	Fachkraft	_	Fachkraft	_	NN	_	acc|sg|fem	-1	9	_	CJ	_	_
-7_12	für	_	für	_	APPR	_	_	-1	11	_	MNR	_	_
-7_13	Arbeitssicherheit	_	Arbeitssicherheit	_	NN	_	acc|sg|fem	-1	12	_	NK	_	_
-7_14	können	_	können	_	VMFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
-7_15	unter	_	unter	_	APPR	_	_	-1	17	_	MO	_	_
-7_16	anderem	_	anderer	_	PIS	_	dat|sg|neut	-1	15	_	NK	_	_
-7_17	sein	_	sein	_	VAINF	_	_	-1	14	_	OC	_	_
-7_18	die	_	der	_	ART	_	acc|sg|fem	-1	19	_	NK	_	_
-7_19	Planung	_	Planung	_	NN	_	acc|sg|fem	-1	11	_	CJ	_	_
-7_20	,	_	--	_	$,	_	_	-1	19	_	--	_	_
-7_21	Errichtung	_	Errichtung	_	NN	_	dat|sg|fem	-1	19	_	CJ	_	_
-7_22	und	_	und	_	KON	_	_	-1	21	_	CD	_	_
-7_23	Änderung	_	Änderung	_	NN	_	dat|sg|fem	-1	22	_	CJ	_	_
-7_24	von	_	von	_	APPR	_	_	-1	21	_	PG	_	_
-7_25	Betriebsanlagen	_	Betriebsanlage	_	NN	_	dat|pl|fem	-1	24	_	NK	_	_
-7_26	,	_	--	_	$,	_	_	-1	25	_	--	_	_
-7_27	Betriebsstätten	_	Betriebsstätte	_	NN	_	dat|pl|fem	-1	25	_	CJ	_	_
-7_28	oder	_	oder	_	KON	_	_	-1	27	_	CD	_	_
-7_29	der	_	der	_	ART	_	dat|sg|fem	-1	30	_	NK	_	_
-7_30	Betriebsorganisation	_	Betriebsorganisation	_	NN	_	dat|sg|fem	-1	28	_	CJ	_	_
-7_31	,	_	--	_	$,	_	_	-1	30	_	--	_	_
-7_32	Einführung	_	Einführung	_	NN	_	acc|sg|fem	-1	21	_	CJ	_	_
-7_33	neuer	_	neu	_	ADJA	_	gen|pl|fem|pos	-1	36	_	NK	_	_
-7_34	oder	_	oder	_	KON	_	_	-1	33	_	CD	_	_
-7_35	grundlegende	_	grundlegend	_	ADJA	_	acc|sg|fem|pos	-1	34	_	CJ	_	_
-7_36	Veränderung	_	Veränderung	_	NN	_	acc|sg|fem	-1	32	_	MNR	_	_
-7_37	vorhandener	_	vorhanden	_	ADJA	_	gen|pl|neut|pos	-1	38	_	NK	_	_
-7_38	Arbeitsmittel	_	Arbeitsmittel	_	NN	_	gen|pl|neut	-1	36	_	AG	_	_
-7_39	,	_	--	_	$,	_	_	-1	38	_	--	_	_
-7_40	die	_	der	_	PRELS	_	nom|pl|*	-1	46	_	SB	_	_
-7_41	ein	_	ein	_	ART	_	acc|sg|neut	-1	43	_	NK	_	_
-7_42	erhöhtes	_	erhöht	_	ADJA	_	acc|sg|neut|pos	-1	43	_	NK	_	_
-7_43	Gefährdungspotential	_	Gefährdungspotential	_	NN	_	acc|sg|neut	-1	46	_	OA	_	_
-7_44	zur	_	zu	_	APPRART	_	dat|sg|fem	-1	46	_	CVC	_	_
-7_45	Folge	_	Folge	_	NN	_	dat|sg|fem	-1	44	_	NK	_	_
-7_46	haben	_	haben	_	VAINF	_	_	-1	38	_	RC	_	_
-7_47	,	_	--	_	$,	_	_	-1	46	_	--	_	_
-7_48	grundlegende	_	grundlegend	_	ADJA	_	nom|sg|fem|pos	-1	49	_	NK	_	_
-7_49	Änderung	_	Änderung	_	NN	_	nom|sg|fem	-1	36	_	CJ	_	_
-7_50	von	_	von	_	APPR	_	_	-1	49	_	PG	_	_
-7_51	Arbeitsverfahren	_	Arbeitsverfahr	_	NN	_	dat|pl|neut	-1	50	_	NK	_	_
-7_52	,	_	--	_	$,	_	_	-1	51	_	--	_	_
-7_53	Einführung	_	Einführung	_	NN	_	acc|sg|fem	-1	49	_	CJ	_	_
-7_54	neuer	_	neu	_	ADJA	_	gen|pl|fem|pos	-1	55	_	NK	_	_
-7_55	Arbeitsverfahren	_	Arbeitsverfahr	_	NN	_	gen|pl|fem	-1	53	_	AG	_	_
-7_56	,	_	--	_	$,	_	_	-1	55	_	--	_	_
-7_57	Gestaltung	_	Gestaltung	_	NN	_	acc|sg|fem	-1	53	_	CJ	_	_
-7_58	neuer	_	neu	_	ADJA	_	gen|pl|fem|pos	-1	63	_	NK	_	_
-7_59	bzw.	_	bzw.	_	KON	_	_	-1	58	_	CD	_	_
-7_60	grundlegende	_	grundlegend	_	ADJA	_	acc|sg|fem|pos	-1	61	_	NK	_	_
-7_61	Veränderung	_	Veränderung	_	NN	_	acc|sg|fem	-1	62	_	OA	_	_
-7_62	vorhandener	_	vorhanden	_	ADJA	_	gen|pl|masc|pos	-1	59	_	CJ	_	_
-7_63	Arbeitsplätze	_	Arbeitsplatz	_	NN	_	gen|pl|masc	-1	57	_	AG	_	_
-7_64	und	_	und	_	KON	_	_	-1	63	_	CD	_	_
-7_65	-abläufe	_	-ablauf	_	NN	_	gen|pl|masc	-1	64	_	CJ	_	_
-7_66	,	_	--	_	$,	_	_	-1	65	_	--	_	_
-7_67	Einführung	_	Einführung	_	NN	_	acc|sg|fem	-1	57	_	CJ	_	_
-7_68	neuer	_	neu	_	ADJA	_	gen|pl|masc|pos	-1	69	_	NK	_	_
-7_69	Arbeitsstoffe	_	Arbeitsstoff	_	NN	_	gen|pl|masc	-1	67	_	AG	_	_
-7_70	bzw.	_	bzw.	_	KON	_	_	-1	69	_	CD	_	_
-7_71	Gefahrstoffe	_	Gefahrstoff	_	NN	_	nom|pl|masc	-1	70	_	CJ	_	_
-7_72	,	_	--	_	$,	_	_	-1	71	_	--	_	_
-7_73	die	_	der	_	PRELS	_	nom|pl|masc	-1	79	_	SB	_	_
-7_74	ein	_	ein	_	ART	_	acc|sg|neut	-1	76	_	NK	_	_
-7_75	erhöhtes	_	erhöht	_	ADJA	_	acc|sg|neut|pos	-1	76	_	NK	_	_
-7_76	Gefährdungspotential	_	Gefährdungspotential	_	NN	_	acc|sg|neut	-1	79	_	OA	_	_
-7_77	zur	_	zu	_	APPRART	_	dat|sg|fem	-1	79	_	CVC	_	_
-7_78	Folge	_	Folge	_	NN	_	dat|sg|fem	-1	77	_	NK	_	_
-7_79	haben	_	haben	_	VAINF	_	_	-1	69	_	RC	_	_
-7_80	,	_	--	_	$,	_	_	-1	79	_	--	_	_
-7_81	Einführung	_	Einführung	_	NN	_	dat|sg|fem	-1	67	_	CJ	_	_
-7_82	oder	_	oder	_	KON	_	_	-1	81	_	CD	_	_
-7_83	Erprobung	_	Erprobung	_	NN	_	dat|sg|fem	-1	82	_	CJ	_	_
-7_84	von	_	von	_	APPR	_	_	-1	81	_	PG	_	_
-7_85	Körperschutzmitteln	_	Körperschutzmittel	_	NN	_	dat|pl|neut	-1	84	_	NK	_	_
-7_86	,	_	--	_	$,	_	_	-1	85	_	--	_	_
-7_87	Beratung	_	Beratung	_	NN	_	dat|sg|fem	-1	81	_	CJ	_	_
-7_88	der	_	der	_	ART	_	gen|pl|*	-1	89	_	NK	_	_
-7_89	Beschäftigten	_	beschäftigter	_	NN	_	gen|pl|*	-1	87	_	AG	_	_
-7_90	über	_	über	_	APPR	_	_	-1	89	_	MNR	_	_
-7_91	besondere	_	besonderer	_	ADJA	_	acc|pl|fem|pos	-1	94	_	NK	_	_
-7_92	Unfall-	_	Unfall	_	TRUNC	_	_	-1	93	_	CJ	_	_
-7_93	und	_	und	_	KON	_	_	-1	94	_	CD	_	_
-7_94	Gesundheitsgefahren	_	Gesundheitsgefahren	_	NN	_	dat|pl|neut	-1	90	_	NK	_	_
-7_95	bei	_	bei	_	APPR	_	_	-1	87	_	MNR	_	_
-7_96	der	_	der	_	ART	_	dat|sg|fem	-1	97	_	NK	_	_
-7_97	Arbeit	_	Arbeit	_	NN	_	dat|sg|fem	-1	95	_	NK	_	_
-7_98	,	_	--	_	$,	_	_	-1	97	_	--	_	_
-7_99	Untersuchung	_	Untersuchung	_	NN	_	dat|sg|fem	-1	87	_	CJ	_	_
-7_100	von	_	von	_	APPR	_	_	-1	99	_	PG	_	_
-7_101	meldepflichtigen	_	meldepflichtig	_	ADJA	_	dat|pl|masc|pos	-1	102	_	NK	_	_
-7_102	Unfällen	_	Unfall	_	NN	_	dat|pl|masc	-1	100	_	NK	_	_
-7_103	und	_	und	_	KON	_	_	-1	102	_	CD	_	_
-7_104	anzuzeigenden	_	anzuzeigend	_	ADJA	_	dat|pl|fem|pos	-1	105	_	NK	_	_
-7_105	Berufskrankheiten	_	Berufskrankheit	_	NN	_	dat|pl|fem	-1	103	_	CJ	_	_
-7_106	,	_	--	_	$,	_	_	-1	105	_	--	_	_
-7_107	Erstellung	_	Erstellung	_	NN	_	dat|sg|fem	-1	99	_	CJ	_	_
-7_108	von	_	von	_	APPR	_	_	-1	107	_	PG	_	_
-7_109	Notfall-	_	Notfall	_	TRUNC	_	_	-1	110	_	CJ	_	_
-7_110	und	_	und	_	KON	_	_	-1	111	_	CD	_	_
-7_111	Alarmplänen	_	Alarmplan	_	NN	_	dat|pl|masc	-1	108	_	NK	_	_
-7_112	.	_	--	_	$.	_	_	-1	111	_	--	_	_
-
-8_1	Eingebettet	_	einbetten	_	VVPP	_	_	-1	10	_	PD	_	_
-8_2	in	_	in	_	APPR	_	_	-1	1	_	MO	_	_
-8_3	den	_	der	_	ART	_	acc|sg|masc	-1	4	_	NK	_	_
-8_4	Schmerz	_	Schmerz	_	NN	_	acc|sg|masc	-1	2	_	NK	_	_
-8_5	und	_	und	_	KON	_	_	-1	4	_	CD	_	_
-8_6	die	_	der	_	ART	_	acc|sg|fem	-1	7	_	NK	_	_
-8_7	Trauer	_	Trauer	_	NN	_	nom|sg|fem	-1	5	_	CJ	_	_
-8_8	dieser	_	dieser	_	PDAT	_	gen|pl|masc	-1	9	_	NK	_	_
-8_9	Tage	_	Tag	_	NN	_	gen|pl|masc	-1	7	_	AG	_	_
-8_10	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
-8_11	unsere	_	unser	_	PPOSAT	_	nom|sg|fem	-1	12	_	NK	_	_
-8_12	Dankbarkeit	_	Dankbarkeit	_	NN	_	nom|sg|fem	-1	10	_	PD	_	_
-8_13	für	_	für	_	APPR	_	_	-1	12	_	MNR	_	_
-8_14	das	_	der	_	ART	_	acc|sg|neut	-1	16	_	NK	_	_
-8_15	aufopferungsvolle	_	aufopferungsvoll	_	ADJA	_	acc|sg|neut|pos	-1	16	_	NK	_	_
-8_16	Engagement	_	Engagement	_	NN	_	acc|sg|neut	-1	13	_	NK	_	_
-8_17	des	_	der	_	ART	_	gen|sg|masc	-1	18	_	NK	_	_
-8_18	Verstorbenen	_	verstorbener	_	NN	_	gen|sg|*	-1	16	_	AG	_	_
-8_19	für	_	für	_	APPR	_	_	-1	16	_	MNR	_	_
-8_20	die	_	der	_	ART	_	acc|sg|fem	-1	21	_	NK	_	_
-8_21	Universität	_	Universität	_	NN	_	acc|sg|fem	-1	19	_	NK	_	_
-8_22	in	_	in	_	APPR	_	_	-1	21	_	MNR	_	_
-8_23	einer	_	ein	_	ART	_	dat|sg|fem	-1	26	_	NK	_	_
-8_24	besonders	_	besonders	_	ADV	_	_	-1	25	_	MO	_	_
-8_25	schwierigen	_	schwierig	_	ADJA	_	dat|sg|fem|pos	-1	26	_	NK	_	_
-8_26	Zeit	_	Zeit	_	NN	_	dat|sg|fem	-1	22	_	NK	_	_
-8_27	ihrer	_	ihr	_	PPOSAT	_	gen|sg|fem	-1	29	_	NK	_	_
-8_28	langen	_	lang	_	ADJA	_	gen|sg|fem|pos	-1	29	_	NK	_	_
-8_29	Geschichte	_	Geschichte	_	NN	_	gen|sg|fem	-1	26	_	AG	_	_
-8_30	,	_	--	_	$,	_	_	-1	29	_	--	_	_
-8_31	insbesondere	_	insbesondere	_	ADV	_	_	-1	33	_	MO	_	_
-8_32	aber	_	aber	_	ADV	_	_	-1	33	_	MO	_	_
-8_33	für	_	für	_	APPR	_	_	-1	26	_	MNR	_	_
-8_34	seinen	_	sein	_	PPOSAT	_	acc|sg|masc	-1	36	_	NK	_	_
-8_35	unermüdlichen	_	unermüdlich	_	ADJA	_	acc|sg|masc|pos	-1	36	_	NK	_	_
-8_36	Einsatz	_	Einsatz	_	NN	_	acc|sg|masc	-1	33	_	NK	_	_
-8_37	für	_	für	_	APPR	_	_	-1	36	_	MNR	_	_
-8_38	die	_	der	_	ART	_	acc|sg|fem	-1	40	_	NK	_	_
-8_39	Medizinische	_	medizinisch	_	ADJA	_	acc|sg|fem|pos	-1	40	_	NK	_	_
-8_40	Fakultät	_	Fakultät	_	NN	_	acc|sg|fem	-1	37	_	NK	_	_
-8_41	und	_	und	_	KON	_	_	-1	40	_	CD	_	_
-8_42	das	_	der	_	ART	_	nom|sg|neut	-1	43	_	NK	_	_
-8_43	Universitätsklinikum	_	Universitätsklinikum	_	NN	_	nom|sg|neut	-1	41	_	CJ	_	_
-8_44	,	_	--	_	$,	_	_	-1	43	_	--	_	_
-8_45	für	_	für	_	APPR	_	_	-1	33	_	CJ	_	_
-8_46	sein	_	sein	_	PPOSAT	_	acc|sg|neut	-1	51	_	NK	_	_
-8_47	von	_	von	_	APPR	_	_	-1	50	_	SBP	_	_
-8_48	innerer	_	innerer	_	ADJA	_	dat|sg|fem|pos	-1	49	_	NK	_	_
-8_49	Berufung	_	Berufung	_	NN	_	dat|sg|fem	-1	47	_	NK	_	_
-8_50	getragenes	_	getragen	_	ADJA	_	acc|sg|neut|pos	-1	51	_	NK	_	_
-8_51	Wirken	_	wirken	_	NN	_	acc|sg|neut	-1	45	_	NK	_	_
-8_52	als	_	als	_	APPR	_	_	-1	51	_	MNR	_	_
-8_53	Hochschullehrer	_	Hochschullehrer	_	NN	_	nom|sg|masc	-1	52	_	NK	_	_
-8_54	,	_	--	_	$,	_	_	-1	53	_	--	_	_
-8_55	mit	_	mit	_	APPR	_	_	-1	61	_	MO	_	_
-8_56	dem	_	der	_	PRELS	_	dat|sg|masc	-1	55	_	NK	_	_
-8_57	er	_	er	_	PPER	_	nom|sg|masc|3	-1	62	_	SB	_	_
-8_58	Generationen	_	Generation	_	NN	_	acc|pl|fem	-1	61	_	OA	_	_
-8_59	von	_	von	_	APPR	_	_	-1	61	_	SBP	_	_
-8_60	Medizinstudenten	_	Medizinstudent	_	NN	_	dat|pl|neut	-1	59	_	NK	_	_
-8_61	geprägt	_	prägen	_	VVPP	_	_	-1	62	_	OC	_	_
-8_62	hat	_	haben	_	VAFIN	_	sg|3|pres|ind	-1	53	_	RC	_	_
-8_63	,	_	--	_	$,	_	_	-1	62	_	--	_	_
-8_64	für	_	für	_	APPR	_	_	-1	45	_	CJ	_	_
-8_65	seine	_	sein	_	PPOSAT	_	acc|sg|fem	-1	67	_	NK	_	_
-8_66	verständnisvolle	_	verständnisvoll	_	ADJA	_	acc|sg|fem|pos	-1	67	_	NK	_	_
-8_67	Verbundenheit	_	Verbundenheit	_	NN	_	acc|sg|fem	-1	64	_	NK	_	_
-8_68	und	_	und	_	KON	_	_	-1	67	_	CD	_	_
-8_69	Fürsorge	_	Fürsorge	_	NN	_	acc|sg|fem	-1	68	_	CJ	_	_
-8_70	für	_	für	_	APPR	_	_	-1	67	_	MNR	_	_
-8_71	seine	_	sein	_	PPOSAT	_	acc|pl|masc	-1	72	_	NK	_	_
-8_72	Mitarbeiter	_	Mitarbeiter	_	NN	_	acc|pl|masc	-1	70	_	NK	_	_
-8_73	im	_	in	_	APPRART	_	dat|sg|neut	-1	72	_	MNR	_	_
-8_74	Institut	_	Institut	_	NN	_	dat|sg|neut	-1	73	_	NK	_	_
-8_75	und	_	und	_	KON	_	_	-1	64	_	CD	_	_
-8_76	auf	_	auf	_	APPR	_	_	-1	75	_	CJ	_	_
-8_77	den	_	der	_	ART	_	dat|pl|fem	-1	78	_	NK	_	_
-8_78	Stationen	_	Station	_	NN	_	dat|pl|fem	-1	76	_	NK	_	_
-8_79	seines	_	sein	_	PPOSAT	_	gen|sg|masc	-1	81	_	NK	_	_
-8_80	beruflichen	_	beruflich	_	ADJA	_	gen|sg|masc|pos	-1	81	_	NK	_	_
-8_81	Weges	_	Weg	_	NN	_	gen|sg|masc	-1	78	_	AG	_	_
-8_82	und	_	und	_	KON	_	_	-1	76	_	CD	_	_
-8_83	nicht	_	nicht	_	PTKNEG	_	_	-1	84	_	NG	_	_
-8_84	zuletzt	_	zuletzt	_	ADV	_	_	-1	85	_	MO	_	_
-8_85	für	_	für	_	APPR	_	_	-1	82	_	CJ	_	_
-8_86	sein	_	sein	_	PPOSAT	_	acc|sg|neut	-1	88	_	NK	_	_
-8_87	wissenschaftliches	_	wissenschaftlich	_	ADJA	_	acc|sg|neut|pos	-1	88	_	NK	_	_
-8_88	Lebenswerk	_	Lebenswerk	_	NN	_	acc|sg|neut	-1	85	_	NK	_	_
-8_89	,	_	--	_	$,	_	_	-1	88	_	--	_	_
-8_90	mit	_	mit	_	APPR	_	_	-1	111	_	MO	_	_
-8_91	dem	_	der	_	PRELS	_	dat|sg|neut	-1	90	_	NK	_	_
-8_92	er	_	er	_	PPER	_	nom|sg|masc|3	-1	112	_	SB	_	_
-8_93	weit	_	weit	_	ADJD	_	pos	-1	111	_	MO	_	_
-8_94	über	_	über	_	APPR	_	_	-1	111	_	MO	_	_
-8_95	seinen	_	sein	_	PPOSAT	_	acc|sg|masc	-1	96	_	NK	_	_
-8_96	Wirkungskreis	_	Wirkungskreis	_	NN	_	acc|sg|masc	-1	94	_	NK	_	_
-8_97	an	_	an	_	APPR	_	_	-1	96	_	MNR	_	_
-8_98	der	_	der	_	ART	_	dat|sg|fem	-1	99	_	NK	_	_
-8_99	Universität	_	Universität	_	NN	_	dat|sg|fem	-1	97	_	NK	_	_
-8_100	hinaus	_	hinaus	_	APZR	_	_	-1	94	_	AC	_	_
-8_101	Bleibendes	_	Bleibend	_	NN	_	gen|sg|neut	-1	111	_	OA	_	_
-8_102	zur	_	zu	_	APPRART	_	dat|sg|fem	-1	101	_	MNR	_	_
-8_103	Entwicklung	_	Entwicklung	_	NN	_	dat|sg|fem	-1	102	_	NK	_	_
-8_104	seines	_	sein	_	PPOSAT	_	gen|sg|neut	-1	105	_	NK	_	_
-8_105	Fachgebietes	_	Fachgebiet	_	NN	_	gen|sg|neut	-1	103	_	AG	_	_
-8_106	und	_	und	_	KON	_	_	-1	105	_	CD	_	_
-8_107	der	_	der	_	ART	_	gen|sg|fem	-1	109	_	NK	_	_
-8_108	medizinischen	_	medizinisch	_	ADJA	_	gen|sg|fem|pos	-1	109	_	NK	_	_
-8_109	Wissenschaft	_	Wissenschaft	_	NN	_	gen|sg|fem	-1	106	_	CJ	_	_
-8_110	überhaupt	_	überhaupt	_	ADV	_	_	-1	111	_	MO	_	_
-8_111	geleistet	_	leisten	_	VVPP	_	_	-1	112	_	OC	_	_
-8_112	hat	_	haben	_	VAFIN	_	sg|3|pres|ind	-1	88	_	RC	_	_
-8_113	.	_	--	_	$.	_	_	-1	112	_	--	_	_
-
-9_1	Zu	_	zu	_	APPR	_	_	-1	15	_	MO	_	_
-9_2	dem	_	der	_	ART	_	dat|sg|masc	-1	3	_	NK	_	_
-9_3	Begriff	_	Begriff	_	NN	_	dat|sg|masc	-1	1	_	NK	_	_
-9_4	der	_	der	_	ART	_	gen|sg|fem	-1	6	_	NK	_	_
-9_5	organisierten	_	organisiert	_	ADJA	_	gen|sg|fem|pos	-1	6	_	NK	_	_
-9_6	Kriminalität	_	Kriminalität	_	NN	_	gen|sg|fem	-1	3	_	AG	_	_
-9_7	,	_	--	_	$,	_	_	-1	6	_	--	_	_
-9_8	der	_	der	_	PRELS	_	nom|sg|masc	-1	13	_	SB	_	_
-9_9	diesen	_	dieser	_	PDAT	_	acc|sg|masc	-1	10	_	NK	_	_
-9_10	Abkommen	_	Abkommen	_	NN	_	dat|pl|neut	-1	12	_	OA	_	_
-9_11	zugrunde	_	zugrunde	_	ADV	_	_	-1	12	_	MO	_	_
-9_12	gelegt	_	legen	_	VVPP	_	_	-1	13	_	OC	_	_
-9_13	wird	_	werden	_	VAFIN	_	sg|3|pres|ind	-1	3	_	RC	_	_
-9_14	,	_	--	_	$,	_	_	-1	13	_	--	_	_
-9_15	führte	_	führen	_	VVFIN	_	sg|3|past|ind	-1	0	_	--	_	_
-9_16	sie	_	sie	_	PPER	_	nom|sg|fem|3	-1	15	_	SB	_	_
-9_17	im	_	in	_	APPRART	_	dat|sg|masc	-1	15	_	MO	_	_
-9_18	Rahmen	_	Rahmen	_	NN	_	dat|sg|masc	-1	17	_	NK	_	_
-9_19	einer	_	ein	_	ART	_	gen|sg|fem	-1	21	_	NK	_	_
-9_20	Kleinen	_	klein	_	ADJA	_	gen|sg|fem|pos	-1	21	_	NK	_	_
-9_21	Anfrage	_	Anfrage	_	NN	_	gen|sg|fem	-1	18	_	AG	_	_
-9_22	zu	_	zu	_	APPR	_	_	-1	15	_	MO	_	_
-9_23	den	_	der	_	ART	_	dat|pl|fem	-1	24	_	NK	_	_
-9_24	Verhandlungen	_	Verhandlung	_	NN	_	dat|pl|fem	-1	22	_	NK	_	_
-9_25	zwischen	_	zwischen	_	APPR	_	_	-1	24	_	MNR	_	_
-9_26	der	_	der	_	ART	_	dat|sg|fem	-1	27	_	NK	_	_
-9_27	Bundesrepublik	_	Bundesrepublik	_	NN	_	dat|sg|fem	-1	25	_	NK	_	_
-9_28	Deutschland	_	Deutschland	_	NE	_	nom|sg|neut	-1	27	_	NK	_	_
-9_29	und	_	und	_	KON	_	_	-1	27	_	CD	_	_
-9_30	der	_	der	_	ART	_	dat|sg|fem	-1	32	_	NK	_	_
-9_31	Sozialistischen	_	sozialistisch	_	ADJA	_	dat|sg|fem|pos	-1	32	_	NK	_	_
-9_32	Republik	_	Republik	_	NN	_	dat|sg|fem	-1	29	_	CJ	_	_
-9_33	Vietnam	_	Vietnam	_	NE	_	nom|sg|neut	-1	32	_	NK	_	_
-9_34	über	_	über	_	APPR	_	_	-1	24	_	OP	_	_
-9_35	die	_	der	_	ART	_	acc|sg|fem	-1	38	_	NK	_	_
-9_36	gemeinsame	_	gemeinsam	_	ADJA	_	acc|sg|fem|pos	-1	38	_	NK	_	_
-9_37	polizeiliche	_	polizeilich	_	ADJA	_	acc|sg|fem|pos	-1	38	_	NK	_	_
-9_38	Verbrechensvorbeugung	_	Verbrechensvorbeugung	_	NN	_	acc|sg|fem	-1	34	_	NK	_	_
-9_39	und	_	und	_	KON	_	_	-1	38	_	CD	_	_
-9_40	-bekämpfung	_	-bekämpfung	_	NN	_	acc|sg|fem	-1	39	_	CJ	_	_
-9_41	385	_	385	_	CARD	_	_	-1	40	_	NK	_	_
-9_42	aus	_	aus	_	PTKVZ	_	_	-1	15	_	SVP	_	_
-9_43	,	_	--	_	$,	_	_	-1	42	_	--	_	_
-9_44	er	_	er	_	PPER	_	nom|sg|masc|3	-1	45	_	SB	_	_
-9_45	umfasse	_	umfassen	_	VVFIN	_	sg|3|pres|subj	-1	15	_	OC	_	_
-9_46	,	_	--	_	$,	_	_	-1	45	_	--	_	_
-9_47	sofern	_	sofern	_	KOUS	_	_	-1	54	_	CP	_	_
-9_48	organisierte	_	organisiert	_	ADJA	_	nom|pl|fem|pos	-1	49	_	NK	_	_
-9_49	Strukturen	_	Struktur	_	NN	_	nom|pl|fem	-1	54	_	SB	_	_
-9_50	bei	_	bei	_	APPR	_	_	-1	49	_	MNR	_	_
-9_51	der	_	der	_	ART	_	dat|sg|fem	-1	52	_	NK	_	_
-9_52	Tatbegehung	_	Tatbegehung	_	NN	_	dat|sg|fem	-1	50	_	NK	_	_
-9_53	erkennbar	_	erkennbar	_	ADJD	_	pos	-1	54	_	PD	_	_
-9_54	seien	_	sein	_	VAFIN	_	pl|3|pres|subj	-1	45	_	OC	_	_
-9_55	,	_	--	_	$,	_	_	-1	54	_	--	_	_
-9_56	die	_	der	_	ART	_	nom|pl|fem	-1	58	_	NK	_	_
-9_57	folgenden	_	folgend	_	ADJA	_	acc|pl|neut|pos	-1	58	_	NK	_	_
-9_58	Deliktsbereiche	_	Deliktsbereiche	_	NN	_	acc|pl|masc	-1	54	_	SB	_	_
-9_59	:	_	--	_	$.	_	_	-1	58	_	--	_	_
-9_60	Drogenhandel	_	Drogenhandel	_	NN	_	nom|sg|masc	-1	58	_	PAR	_	_
-9_61	,	_	--	_	$,	_	_	-1	60	_	--	_	_
-9_62	Geldwäsche	_	Geldwäsche	_	NN	_	nom|sg|fem	-1	60	_	CJ	_	_
-9_63	,	_	--	_	$,	_	_	-1	62	_	--	_	_
-9_64	Terrorismus	_	Terrorismus	_	NN	_	nom|sg|masc	-1	62	_	CJ	_	_
-9_65	,	_	--	_	$,	_	_	-1	64	_	--	_	_
-9_66	Schlepperkriminalität	_	Schlepperkriminalität	_	NN	_	nom|sg|fem	-1	64	_	CJ	_	_
-9_67	,	_	--	_	$,	_	_	-1	66	_	--	_	_
-9_68	Waffenhandel	_	Waffenhandel	_	NN	_	nom|sg|masc	-1	66	_	CJ	_	_
-9_69	,	_	--	_	$,	_	_	-1	68	_	--	_	_
-9_70	Zuhälterei	_	Zuhälterei	_	NN	_	dat|sg|masc	-1	68	_	CJ	_	_
-9_71	und	_	und	_	KON	_	_	-1	70	_	CD	_	_
-9_72	Menschenhandel	_	Menschenhandel	_	NN	_	dat|sg|masc	-1	71	_	CJ	_	_
-9_73	,	_	--	_	$,	_	_	-1	72	_	--	_	_
-9_74	Falschspiel	_	Falschspiel	_	NN	_	dat|sg|neut	-1	68	_	CJ	_	_
-9_75	und	_	und	_	KON	_	_	-1	74	_	CD	_	_
-9_76	unerlaubtes	_	unerlaubt	_	ADJA	_	nom|sg|neut|pos	-1	77	_	NK	_	_
-9_77	Glücksspiel	_	Glücksspiel	_	NN	_	nom|sg|neut	-1	75	_	CJ	_	_
-9_78	,	_	--	_	$,	_	_	-1	77	_	--	_	_
-9_79	Schutzgelderpressung	_	Schutzgelderpressung	_	NN	_	nom|sg|fem	-1	77	_	CJ	_	_
-9_80	,	_	--	_	$,	_	_	-1	79	_	--	_	_
-9_81	Herstellung	_	Herstellung	_	NN	_	dat|sg|fem	-1	79	_	CJ	_	_
-9_82	und	_	und	_	KON	_	_	-1	81	_	CD	_	_
-9_83	Verbreitung	_	Verbreitung	_	NN	_	dat|sg|fem	-1	82	_	CJ	_	_
-9_84	von	_	von	_	APPR	_	_	-1	81	_	PG	_	_
-9_85	Falschgeld	_	Falschgeld	_	NN	_	dat|sg|neut	-1	84	_	NK	_	_
-9_86	,	_	--	_	$,	_	_	-1	85	_	--	_	_
-9_87	Eigentums-	_	Eigentum	_	TRUNC	_	_	-1	88	_	CJ	_	_
-9_88	und	_	und	_	KON	_	_	-1	89	_	CD	_	_
-9_89	Vermögensstraftaten	_	Vermögensstraftat	_	NN	_	dat|pl|neut	-1	81	_	CJ	_	_
-9_90	,	_	--	_	$,	_	_	-1	89	_	--	_	_
-9_91	Scheck-	_	Scheck	_	TRUNC	_	_	-1	92	_	CJ	_	_
-9_92	und	_	und	_	KON	_	_	-1	93	_	CD	_	_
-9_93	Kreditkartenfälschung	_	Kreditkartenfälschung	_	NN	_	nom|sg|fem	-1	89	_	CJ	_	_
-9_94	,	_	--	_	$,	_	_	-1	93	_	--	_	_
-9_95	Straftaten	_	Straftat	_	NN	_	nom|pl|fem	-1	93	_	CJ	_	_
-9_96	gegen	_	gegen	_	APPR	_	_	-1	95	_	MNR	_	_
-9_97	die	_	der	_	ART	_	acc|sg|fem	-1	98	_	NK	_	_
-9_98	Umwelt	_	Umwelt	_	NN	_	acc|sg|fem	-1	96	_	NK	_	_
-9_99	,	_	--	_	$,	_	_	-1	98	_	--	_	_
-9_100	unerlaubten	_	unerlaubt	_	ADJA	_	acc|sg|masc|pos	-1	101	_	NK	_	_
-9_101	Handel	_	Handel	_	NN	_	acc|sg|masc	-1	95	_	CJ	_	_
-9_102	mit	_	mit	_	APPR	_	_	-1	101	_	MNR	_	_
-9_103	radioaktiven	_	radioaktiv	_	ADJA	_	dat|pl|neut|pos	-1	106	_	NK	_	_
-9_104	und	_	und	_	KON	_	_	-1	103	_	CD	_	_
-9_105	nuklearen	_	nuklear	_	ADJA	_	dat|pl|fem|pos	-1	104	_	CJ	_	_
-9_106	Materialien	_	Material	_	NN	_	dat|pl|fem	-1	102	_	NK	_	_
-9_107	und	_	und	_	KON	_	_	-1	101	_	CD	_	_
-9_108	den	_	der	_	ART	_	acc|sg|masc	-1	110	_	NK	_	_
-9_109	unerlaubten	_	unerlaubt	_	ADJA	_	acc|sg|masc|pos	-1	110	_	NK	_	_
-9_110	Handel	_	Handel	_	NN	_	acc|sg|masc	-1	107	_	CJ	_	_
-9_111	mit	_	mit	_	APPR	_	_	-1	110	_	MNR	_	_
-9_112	Kulturgut	_	Kulturgut	_	NN	_	dat|sg|fem	-1	111	_	NK	_	_
-9_113	.	_	--	_	$.	_	_	-1	112	_	--	_	_
-
-10_1	Dienstleistung	_	Dienstleistung	_	NN	_	nom|sg|fem	-1	9	_	SB	_	_
-10_2	,	_	--	_	$,	_	_	-1	1	_	--	_	_
-10_3	Entwicklungsforschung	_	Entwicklungsforschung	_	NN	_	nom|sg|fem	-1	1	_	CJ	_	_
-10_4	,	_	--	_	$,	_	_	-1	3	_	--	_	_
-10_5	Vernetzung	_	Vernetzung	_	NN	_	nom|sg|fem	-1	3	_	CJ	_	_
-10_6	und	_	und	_	KON	_	_	-1	5	_	CD	_	_
-10_7	internationale	_	international	_	ADJA	_	nom|pl|fem|pos	-1	8	_	NK	_	_
-10_8	Aktivitäten	_	Aktivität	_	NN	_	nom|pl|fem	-1	6	_	CJ	_	_
-10_9	sind	_	sein	_	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
-10_10	die	_	der	_	ART	_	nom|pl|masc	-1	11	_	NK	_	_
-10_11	Eckpfeiler	_	Eckpfeiler	_	NN	_	nom|pl|masc	-1	9	_	SB	_	_
-10_12	der	_	der	_	ART	_	gen|sg|fem	-1	13	_	NK	_	_
-10_13	Institutsarbeit	_	Institutsarbeit	_	NN	_	gen|sg|fem	-1	11	_	AG	_	_
-10_14	,	_	--	_	$,	_	_	-1	13	_	--	_	_
-10_15	mit	_	mit	_	APPR	_	_	-1	30	_	MO	_	_
-10_16	der	_	der	_	PRELS	_	dat|sg|fem	-1	15	_	NK	_	_
-10_17	das	_	der	_	ART	_	nom|sg|neut	-1	18	_	NK	_	_
-10_18	DIE	_	Der	_	NE	_	acc|sg|neut	-1	30	_	SB	_	_
-10_19	in	_	in	_	APPR	_	_	-1	30	_	MO	_	_
-10_20	Form	_	Form	_	NN	_	dat|sg|fem	-1	19	_	NK	_	_
-10_21	von	_	von	_	APPR	_	_	-1	20	_	PG	_	_
-10_22	Publikationen	_	Publikation	_	NN	_	dat|pl|fem	-1	21	_	NK	_	_
-10_23	,	_	--	_	$,	_	_	-1	22	_	--	_	_
-10_24	Konferenzen	_	Konferenz	_	NN	_	dat|pl|fem	-1	22	_	CJ	_	_
-10_25	,	_	--	_	$,	_	_	-1	24	_	--	_	_
-10_26	Projekten	_	Projekt	_	NN	_	dat|pl|neut	-1	24	_	CJ	_	_
-10_27	und	_	und	_	KON	_	_	-1	26	_	CD	_	_
-10_28	Dokumentationen	_	Dokumentation	_	NN	_	dat|pl|fem	-1	27	_	CJ	_	_
-10_29	dazu	_	dazu	_	PROAV	_	_	-1	30	_	MO	_	_
-10_30	beiträgt	_	beitragen	_	VVFIN	_	sg|3|pres|ind	-1	13	_	RC	_	_
-10_31	,	_	--	_	$,	_	_	-1	30	_	--	_	_
-10_32	Menschen	_	Mensch	_	NN	_	nom|pl|masc	-1	37	_	OA	_	_
-10_33	zum	_	zu	_	APPRART	_	dat|sg|neut	-1	37	_	MO	_	_
-10_34	lebenslangen	_	lebenslang	_	ADJA	_	dat|sg|neut|pos	-1	35	_	NK	_	_
-10_35	Lernen	_	lernen	_	NN	_	dat|sg|neut	-1	33	_	NK	_	_
-10_36	zu	_	zu	_	PTKZU	_	_	-1	37	_	PM	_	_
-10_37	motivieren	_	motivieren	_	VVINF	_	_	-1	29	_	RE	_	_
-10_38	,	_	--	_	$,	_	_	-1	37	_	--	_	_
-10_39	eine	_	ein	_	ART	_	nom|sg|fem	-1	46	_	NK	_	_
-10_40	an	_	an	_	APPR	_	_	-1	45	_	OP	_	_
-10_41	den	_	der	_	ART	_	dat|pl|neut	-1	42	_	NK	_	_
-10_42	Bedürfnissen	_	Bedürfnis	_	NN	_	dat|pl|neut	-1	40	_	NK	_	_
-10_43	der	_	der	_	ART	_	gen|pl|fem	-1	44	_	NK	_	_
-10_44	Lernenden	_	lernend	_	NN	_	gen|sg|*	-1	42	_	AG	_	_
-10_45	orientierte	_	orientiert	_	ADJA	_	nom|sg|fem|pos	-1	46	_	NK	_	_
-10_46	Weiterbildung	_	Weiterbildung	_	NN	_	acc|sg|fem	-1	48	_	OA	_	_
-10_47	zu	_	zu	_	PTKZU	_	_	-1	48	_	PM	_	_
-10_48	fördern	_	fördern	_	VVINF	_	_	-1	37	_	CJ	_	_
-10_49	,	_	--	_	$,	_	_	-1	48	_	--	_	_
-10_50	Rahmenpläne	_	Rahmenplan	_	NN	_	acc|pl|masc	-1	54	_	OA	_	_
-10_51	und	_	und	_	KON	_	_	-1	50	_	CD	_	_
-10_52	Fortbildungsmodule	_	Fortbildungsmodule	_	NN	_	acc|sg|fem	-1	51	_	CJ	_	_
-10_53	zu	_	zu	_	PTKZU	_	_	-1	54	_	PM	_	_
-10_54	konzipieren	_	konzipieren	_	VVINF	_	_	-1	48	_	CJ	_	_
-10_55	und	_	und	_	KON	_	_	-1	54	_	CD	_	_
-10_56	zu	_	zu	_	PTKZU	_	_	-1	57	_	PM	_	_
-10_57	erproben	_	erproben	_	VVINF	_	_	-1	55	_	CJ	_	_
-10_58	,	_	--	_	$,	_	_	-1	57	_	--	_	_
-10_59	wissenschaftliche	_	wissenschaftlich	_	ADJA	_	acc|sg|fem|pos	-1	60	_	NK	_	_
-10_60	Fortbildung	_	Fortbildung	_	NN	_	acc|sg|fem	-1	64	_	OA	_	_
-10_61	und	_	und	_	KON	_	_	-1	60	_	CD	_	_
-10_62	Beratung	_	Beratung	_	NN	_	acc|sg|fem	-1	61	_	CJ	_	_
-10_63	zu	_	zu	_	PTKZU	_	_	-1	64	_	PM	_	_
-10_64	organisieren	_	organisieren	_	VVINF	_	_	-1	57	_	CJ	_	_
-10_65	und	_	und	_	KON	_	_	-1	64	_	CD	_	_
-10_66	zu	_	zu	_	PTKZU	_	_	-1	67	_	PM	_	_
-10_67	evaluieren	_	evaluieren	_	VVINF	_	_	-1	65	_	CJ	_	_
-10_68	,	_	--	_	$,	_	_	-1	67	_	--	_	_
-10_69	Zertifikate	_	Zertifikat	_	NN	_	acc|pl|neut	-1	80	_	OA	_	_
-10_70	und	_	und	_	KON	_	_	-1	69	_	CD	_	_
-10_71	Curricula	_	Curricula	_	NE	_	dat|sg|neut	-1	70	_	CJ	_	_
-10_72	unter	_	unter	_	APPR	_	_	-1	80	_	MO	_	_
-10_73	dem	_	der	_	ART	_	dat|sg|masc	-1	74	_	NK	_	_
-10_74	Aspekt	_	Aspekt	_	NN	_	dat|sg|masc	-1	72	_	NK	_	_
-10_75	von	_	von	_	APPR	_	_	-1	74	_	PG	_	_
-10_76	Qualität	_	Qualität	_	NN	_	dat|sg|fem	-1	75	_	NK	_	_
-10_77	und	_	und	_	KON	_	_	-1	76	_	CD	_	_
-10_78	Professionalität	_	Professionalität	_	NN	_	dat|sg|fem	-1	77	_	CJ	_	_
-10_79	zu	_	zu	_	PTKZU	_	_	-1	80	_	PM	_	_
-10_80	entwickeln	_	entwickeln	_	VVINF	_	_	-1	67	_	CJ	_	_
-10_81	,	_	--	_	$,	_	_	-1	80	_	--	_	_
-10_82	mit	_	mit	_	APPR	_	_	-1	91	_	MO	_	_
-10_83	Institutionen	_	Institution	_	NN	_	dat|pl|fem	-1	82	_	NK	_	_
-10_84	aus	_	aus	_	APPR	_	_	-1	83	_	MNR	_	_
-10_85	Wissenschaft	_	Wissenschaft	_	NN	_	dat|sg|fem	-1	84	_	NK	_	_
-10_86	,	_	--	_	$,	_	_	-1	85	_	--	_	_
-10_87	Politik	_	Politik	_	NN	_	dat|sg|fem	-1	85	_	CJ	_	_
-10_88	und	_	und	_	KON	_	_	-1	87	_	CD	_	_
-10_89	Verwaltung	_	Verwaltung	_	NN	_	dat|sg|fem	-1	88	_	CJ	_	_
-10_90	zu	_	zu	_	PTKZU	_	_	-1	91	_	PM	_	_
-10_91	kooperieren	_	kooperieren	_	VVINF	_	_	-1	80	_	CJ	_	_
-10_92	,	_	--	_	$,	_	_	-1	91	_	--	_	_
-10_93	Grundlagen	_	Grundlage	_	NN	_	acc|pl|fem	-1	99	_	OA	_	_
-10_94	für	_	für	_	APPR	_	_	-1	93	_	MNR	_	_
-10_95	Lehre	_	Lehre	_	NN	_	acc|sg|fem	-1	94	_	NK	_	_
-10_96	und	_	und	_	KON	_	_	-1	95	_	CD	_	_
-10_97	Forschung	_	Forschung	_	NN	_	acc|sg|fem	-1	96	_	CJ	_	_
-10_98	zu	_	zu	_	PTKZU	_	_	-1	99	_	PM	_	_
-10_99	liefern	_	liefern	_	VVINF	_	_	-1	91	_	CJ	_	_
-10_100	,	_	--	_	$,	_	_	-1	99	_	--	_	_
-10_101	Modellversuche	_	Modellversuch	_	NN	_	acc|pl|masc	-1	103	_	OA	_	_
-10_102	zu	_	zu	_	PTKZU	_	_	-1	103	_	PM	_	_
-10_103	entwickeln	_	entwickeln	_	VVINF	_	_	-1	99	_	CJ	_	_
-10_104	und	_	und	_	KON	_	_	-1	103	_	CD	_	_
-10_105	wissenschaftlich	_	wissenschaftlich	_	ADJD	_	pos	-1	107	_	MO	_	_
-10_106	zu	_	zu	_	PTKZU	_	_	-1	107	_	PM	_	_
-10_107	begleiten	_	begleiten	_	VVINF	_	_	-1	104	_	CJ	_	_
-10_108	,	_	--	_	$,	_	_	-1	107	_	--	_	_
-10_109	Systeme	_	System	_	NN	_	acc|pl|neut	-1	115	_	OA	_	_
-10_110	und	_	und	_	KON	_	_	-1	109	_	CD	_	_
-10_111	Supportstrukturen	_	Supportstruktur	_	NN	_	acc|pl|fem	-1	110	_	CJ	_	_
-10_112	der	_	der	_	ART	_	gen|sg|fem	-1	113	_	NK	_	_
-10_113	Erwachsenenbildung	_	Erwachsenenbildung	_	NN	_	gen|sg|fem	-1	109	_	AG	_	_
-10_114	zu	_	zu	_	PTKZU	_	_	-1	115	_	PM	_	_
-10_115	evaluieren	_	evaluieren	_	VVINF	_	_	-1	107	_	CJ	_	_
-10_116	und	_	und	_	KON	_	_	-1	115	_	CD	_	_
-10_117	zu	_	zu	_	PTKZU	_	_	-1	118	_	PM	_	_
-10_118	analysieren	_	analysieren	_	VVINF	_	_	-1	116	_	CJ	_	_
-10_119	.	_	--	_	$.	_	_	-1	118	_	--	_	_
-
-11_1	Meine	_	mein	_	PPOSAT	_	nom|pl|*	-1	2	_	NK	_	_
-11_2	Damen	_	Dame	_	NN	_	nom|pl|fem	-1	62	_	SB	_	_
-11_3	und	_	und	_	KON	_	_	-1	2	_	CD	_	_
-11_4	Herren	_	Herr	_	NN	_	nom|pl|masc	-1	3	_	CJ	_	_
-11_5	,	_	--	_	$,	_	_	-1	4	_	--	_	_
-11_6	in	_	in	_	APPR	_	_	-1	2	_	MNR	_	_
-11_7	Bezug	_	Bezug	_	NN	_	dat|sg|masc	-1	6	_	NK	_	_
-11_8	auf	_	auf	_	APPR	_	_	-1	7	_	OP	_	_
-11_9	die	_	der	_	ART	_	acc|sg|fem	-1	10	_	NK	_	_
-11_10	Vertiefung	_	Vertiefung	_	NN	_	acc|sg|fem	-1	8	_	NK	_	_
-11_11	der	_	der	_	ART	_	gen|sg|fem	-1	13	_	NK	_	_
-11_12	Europäischen	_	europäisch	_	ADJA	_	gen|sg|fem|pos	-1	13	_	NK	_	_
-11_13	Union	_	Union	_	NN	_	gen|sg|fem	-1	10	_	AG	_	_
-11_14	in	_	in	_	APPR	_	_	-1	10	_	MNR	_	_
-11_15	einem	_	ein	_	ART	_	dat|sg|neut	-1	16	_	NK	_	_
-11_16	Moment	_	Moment	_	NN	_	dat|sg|neut	-1	14	_	NK	_	_
-11_17	,	_	--	_	$,	_	_	-1	16	_	--	_	_
-11_18	in	_	in	_	APPR	_	_	-1	27	_	MO	_	_
-11_19	dem	_	der	_	PRELS	_	dat|sg|neut	-1	18	_	NK	_	_
-11_20	die	_	der	_	ART	_	nom|sg|fem	-1	21	_	NK	_	_
-11_21	Erweiterung	_	Erweiterung	_	NN	_	nom|sg|fem	-1	27	_	SB	_	_
-11_22	um	_	um	_	APPR	_	_	-1	27	_	MO	_	_
-11_23	zehn	_	zehn	_	CARD	_	_	-1	24	_	NK	_	_
-11_24	Mitgliedstaaten	_	Mitgliedstaat	_	NN	_	dat|pl|masc	-1	22	_	NK	_	_
-11_25	im	_	in	_	APPRART	_	dat|sg|masc	-1	24	_	MNR	_	_
-11_26	Gange	_	Gang	_	NN	_	dat|sg|masc	-1	25	_	NK	_	_
-11_27	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	16	_	RC	_	_
-11_28	,	_	--	_	$,	_	_	-1	27	_	--	_	_
-11_29	hat	_	haben	_	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
-11_30	Kollege	_	Kollege	_	NN	_	nom|sg|masc	-1	29	_	SB	_	_
-11_31	Schäuble	_	Schäuble	_	NE	_	nom|sg|masc	-1	30	_	NK	_	_
-11_32	vorhin	_	vorhin	_	ADV	_	_	-1	36	_	MO	_	_
-11_33	zu	_	zu	_	APPR	_	_	-1	36	_	MO	_	_
-11_34	Recht	_	Recht	_	NN	_	dat|sg|neut	-1	33	_	NK	_	_
-11_35	darauf	_	darauf	_	PROAV	_	_	-1	36	_	OP	_	_
-11_36	hingewiesen	_	hinweisen	_	VVPP	_	_	-1	29	_	OC	_	_
-11_37	,	_	--	_	$,	_	_	-1	36	_	--	_	_
-11_38	dass	_	dass	_	KOUS	_	_	-1	48	_	CP	_	_
-11_39	wir	_	wir	_	PPER	_	nom|pl|*|1	-1	48	_	SB	_	_
-11_40	dieses	_	dieser	_	PDAT	_	acc|sg|neut	-1	42	_	NK	_	_
-11_41	größere	_	groß	_	ADJA	_	acc|sg|neut|pos	-1	42	_	NK	_	_
-11_42	Europa	_	Europa	_	NE	_	acc|sg|neut	-1	47	_	OA	_	_
-11_43	der	_	der	_	ART	_	nom|sg|masc	-1	45	_	NK	_	_
-11_44	25	_	25	_	CARD	_	_	-1	45	_	NK	_	_
-11_45	Staaten	_	Staat	_	NN	_	dat|pl|masc	-1	42	_	AG	_	_
-11_46	nur	_	nur	_	ADV	_	_	-1	47	_	MO	_	_
-11_47	zusammenhalten	_	zusammhalten	_	VVPP	_	_	-1	48	_	OC	_	_
-11_48	werden	_	werden	_	VAINF	_	_	-1	35	_	RE	_	_
-11_49	,	_	--	_	$,	_	_	-1	48	_	--	_	_
-11_50	wenn	_	wenn	_	KOUS	_	_	-1	58	_	CP	_	_
-11_51	wir	_	wir	_	PPER	_	nom|pl|*|1	-1	58	_	SB	_	_
-11_52	gleichzeitig	_	gleichzeitig	_	ADJD	_	pos	-1	58	_	MO	_	_
-11_53	alles	_	alle	_	PIS	_	acc|sg|neut	-1	58	_	OA	_	_
-11_54	für	_	für	_	APPR	_	_	-1	58	_	MO	_	_
-11_55	die	_	der	_	ART	_	acc|sg|fem	-1	57	_	NK	_	_
-11_56	transatlantische	_	transatlantisch	_	ADJA	_	acc|sg|fem|pos	-1	57	_	NK	_	_
-11_57	Partnerschaft	_	Partnerschaft	_	NN	_	acc|sg|fem	-1	54	_	NK	_	_
-11_58	tun	_	tun	_	VVINF	_	_	-1	36	_	MO	_	_
-11_59	und	_	und	_	KON	_	_	-1	58	_	CD	_	_
-11_60	verstehen	_	verstehen	_	VVINF	_	_	-1	59	_	CJ	_	_
-11_61	,	_	--	_	$,	_	_	-1	60	_	--	_	_
-11_62	dass	_	dass	_	KOUS	_	_	-1	60	_	CD	_	_
-11_63	Litauen	_	Litauen	_	NE	_	nom|sg|neut	-1	62	_	NK	_	_
-11_64	,	_	--	_	$,	_	_	-1	63	_	--	_	_
-11_65	Estland	_	Estland	_	NE	_	nom|sg|neut	-1	63	_	CJ	_	_
-11_66	,	_	--	_	$,	_	_	-1	65	_	--	_	_
-11_67	Lettland	_	Lettland	_	NE	_	nom|sg|neut	-1	65	_	CJ	_	_
-11_68	,	_	--	_	$,	_	_	-1	67	_	--	_	_
-11_69	Polen	_	Polen	_	NE	_	dat|sg|neut	-1	67	_	CJ	_	_
-11_70	,	_	--	_	$,	_	_	-1	69	_	--	_	_
-11_71	Ungarn	_	Ungarn	_	NE	_	dat|sg|neut	-1	69	_	CJ	_	_
-11_72	,	_	--	_	$,	_	_	-1	71	_	--	_	_
-11_73	die	_	der	_	ART	_	nom|sg|fem	-1	74	_	NK	_	_
-11_74	Slowakei	_	Slowakei	_	NE	_	nom|sg|fem	-1	71	_	CJ	_	_
-11_75	und	_	und	_	KON	_	_	-1	74	_	CD	_	_
-11_76	viele	_	vieler	_	PIAT	_	nom|pl|*	-1	77	_	NK	_	_
-11_77	andere	_	anderer	_	PIS	_	nom|pl|*	-1	75	_	CJ	_	_
-11_78	von	_	von	_	APPR	_	_	-1	77	_	PG	_	_
-11_79	denen	_	der	_	PDS	_	dat|pl|*	-1	78	_	NK	_	_
-11_80	,	_	--	_	$,	_	_	-1	79	_	--	_	_
-11_81	die	_	der	_	PRELS	_	nom|pl|*	-1	84	_	SB	_	_
-11_82	zu	_	zu	_	APPR	_	_	-1	84	_	MO	_	_
-11_83	uns	_	uns	_	PPER	_	dat|pl|*|1	-1	82	_	NK	_	_
-11_84	kommen	_	kommen	_	VVFIN	_	pl|3|pres|ind	-1	79	_	RC	_	_
-11_85	,	_	--	_	$,	_	_	-1	84	_	--	_	_
-11_86	die	_	der	_	ART	_	acc|sg|fem	-1	87	_	NK	_	_
-11_87	Sicherheitskomponente	_	Sicherheitskomponent	_	NN	_	acc|sg|fem	-1	97	_	OA	_	_
-11_88	als	_	als	_	APPR	_	_	-1	97	_	MO	_	_
-11_89	ein	_	ein	_	ART	_	acc|sg|neut	-1	91	_	NK	_	_
-11_90	wesentliches	_	wesentlich	_	ADJA	_	acc|sg|neut|pos	-1	91	_	NK	_	_
-11_91	Motiv	_	Motiv	_	NN	_	acc|sg|neut	-1	88	_	NK	_	_
-11_92	für	_	für	_	APPR	_	_	-1	91	_	MNR	_	_
-11_93	ihre	_	ihr	_	PPOSAT	_	acc|sg|fem	-1	94	_	NK	_	_
-11_94	Hinwendung	_	Hinwendung	_	NN	_	acc|sg|fem	-1	92	_	NK	_	_
-11_95	zum	_	zu	_	APPRART	_	dat|sg|masc	-1	94	_	MNR	_	_
-11_96	Westen	_	Westen	_	NN	_	dat|sg|masc	-1	95	_	NK	_	_
-11_97	betrachten	_	betrachten	_	VVINF	_	_	-1	84	_	CJ	_	_
-11_98	und	_	und	_	KON	_	_	-1	97	_	CD	_	_
-11_99	sich	_	sich	_	PRF	_	acc|pl|3	-1	104	_	OA	_	_
-11_100	nie	_	nie	_	ADV	_	_	-1	104	_	MO	_	_
-11_101	auf	_	auf	_	APPR	_	_	-1	104	_	OP	_	_
-11_102	eine	_	ein	_	ART	_	acc|sg|fem	-1	103	_	NK	_	_
-11_103	Politik	_	Politik	_	NN	_	acc|sg|fem	-1	101	_	NK	_	_
-11_104	einlassen	_	einlassen	_	VVINF	_	_	-1	105	_	OC	_	_
-11_105	werden	_	werden	_	VAFIN	_	pl|3|pres|ind	-1	98	_	CJ	_	_
-11_106	,	_	--	_	$,	_	_	-1	105	_	--	_	_
-11_107	die	_	der	_	ART	_	acc|sg|fem	-1	114	_	SB	_	_
-11_108	europäische	_	europäisch	_	ADJA	_	acc|sg|fem|pos	-1	109	_	NK	_	_
-11_109	Einigung	_	Einigung	_	NN	_	acc|sg|fem	-1	114	_	OA	_	_
-11_110	und	_	und	_	KON	_	_	-1	109	_	CD	_	_
-11_111	transatlantische	_	transatlantisch	_	ADJA	_	acc|sg|fem|pos	-1	112	_	NK	_	_
-11_112	Partnerschaft	_	Partnerschaft	_	NN	_	acc|sg|fem	-1	110	_	CJ	_	_
-11_113	gegeneinander	_	gegeneinander	_	ADV	_	_	-1	114	_	MO	_	_
-11_114	ausspielt	_	ausspielen	_	VVFIN	_	sg|3|pres|ind	-1	103	_	RC	_	_
-11_115	.	_	--	_	$.	_	_	-1	114	_	--	_	_
-
-12_1	Wie	_	wie	_	KOKOM	_	_	-1	6	_	MO	_	_
-12_2	alle	_	aller	_	PIAT	_	nom|pl|masc	-1	3	_	NK	_	_
-12_3	Sender	_	Sender	_	NN	_	nom|pl|masc	-1	6	_	SB	_	_
-12_4	auf	_	auf	_	APPR	_	_	-1	6	_	MO	_	_
-12_5	Dauernachrichten	_	Dauernachricht	_	NN	_	acc|pl|fem	-1	4	_	NK	_	_
-12_6	umstellten	_	umstellen	_	VVFIN	_	pl|3|past|ind	-1	0	_	--	_	_
-12_7	,	_	--	_	$,	_	_	-1	6	_	--	_	_
-12_8	wie	_	wie	_	PWAV	_	_	-1	19	_	MO	_	_
-12_9	in	_	in	_	APPR	_	_	-1	19	_	MO	_	_
-12_10	Ermangelung	_	Ermangelung	_	NN	_	dat|sg|fem	-1	9	_	NK	_	_
-12_11	von	_	von	_	APPR	_	_	-1	10	_	PG	_	_
-12_12	Korrespondenten	_	Korrespondent	_	NN	_	dat|pl|masc	-1	11	_	NK	_	_
-12_13	Praktikanten	_	Praktikant	_	NN	_	dat|pl|masc	-1	20	_	SB	_	_
-12_14	und	_	und	_	KON	_	_	-1	13	_	CD	_	_
-12_15	Austauschschüler	_	Austauschschüler	_	NN	_	nom|pl|masc	-1	14	_	CJ	_	_
-12_16	vor	_	vor	_	APPR	_	_	-1	19	_	MO	_	_
-12_17	die	_	der	_	ART	_	acc|sg|fem	-1	18	_	NK	_	_
-12_18	Kameras	_	Kamera	_	NN	_	acc|sg|fem	-1	16	_	NK	_	_
-12_19	gezerrt	_	zerren	_	VVPP	_	_	-1	20	_	OC	_	_
-12_20	wurden	_	werden	_	VAFIN	_	pl|3|past|ind	-1	6	_	CJ	_	_
-12_21	,	_	--	_	$,	_	_	-1	20	_	--	_	_
-12_22	wie	_	wie	_	PWAV	_	_	-1	36	_	MO	_	_
-12_23	eine	_	ein	_	ART	_	nom|sg|fem	-1	25	_	NK	_	_
-12_24	krude	_	krude	_	ADJA	_	nom|sg|fem|pos	-1	25	_	NK	_	_
-12_25	Mischung	_	Mischung	_	NN	_	nom|sg|fem	-1	36	_	SB	_	_
-12_26	aus	_	aus	_	APPR	_	_	-1	25	_	MNR	_	_
-12_27	selbst	_	selbst	_	ADV	_	_	-1	28	_	MO	_	_
-12_28	ernannten	_	ernannt	_	ADJA	_	dat|pl|fem|pos	-1	31	_	NK	_	_
-12_29	und	_	und	_	KON	_	_	-1	28	_	CD	_	_
-12_30	ausgewiesenen	_	ausgewiesen	_	ADJA	_	dat|pl|masc|pos	-1	29	_	CJ	_	_
-12_31	Experten	_	Experte	_	NN	_	gen|pl|masc	-1	26	_	NK	_	_
-12_32	ins	_	in	_	APPRART	_	acc|sg|neut	-1	36	_	MO	_	_
-12_33	Licht	_	Licht	_	NN	_	acc|sg|neut	-1	32	_	NK	_	_
-12_34	der	_	der	_	ART	_	gen|sg|fem	-1	35	_	NK	_	_
-12_35	Öffentlichkeit	_	Öffentlichkeit	_	NN	_	gen|sg|fem	-1	33	_	AG	_	_
-12_36	trat	_	treten	_	VVFIN	_	sg|3|past|ind	-1	20	_	CJ	_	_
-12_37	,	_	--	_	$,	_	_	-1	36	_	--	_	_
-12_38	wie	_	wie	_	PWAV	_	_	-1	40	_	MO	_	_
-12_39	Meldungen	_	Meldung	_	NN	_	nom|pl|fem	-1	40	_	SB	_	_
-12_40	auftauchten	_	auftauchten	_	VVFIN	_	pl|3|past|ind	-1	36	_	OC	_	_
-12_41	und	_	und	_	KON	_	_	-1	40	_	CD	_	_
-12_42	spurlos	_	spurlos	_	ADJD	_	pos	-1	44	_	MO	_	_
-12_43	wieder	_	wieder	_	ADV	_	_	-1	44	_	MO	_	_
-12_44	verschwanden	_	verschwinden	_	VVPP	_	_	-1	41	_	CJ	_	_
-12_45	,	_	--	_	$,	_	_	-1	44	_	--	_	_
-12_46	wie	_	wie	_	PWAV	_	_	-1	54	_	MO	_	_
-12_47	sich	_	sich	_	PRF	_	acc|pl|3	-1	54	_	OA	_	_
-12_48	schnell	_	schnell	_	ADJD	_	pos	-1	54	_	MO	_	_
-12_49	das	_	der	_	ART	_	acc|sg|neut	-1	50	_	NK	_	_
-12_50	Profil	_	Profil	_	NN	_	acc|sg|neut	-1	54	_	OA	_	_
-12_51	der	_	der	_	ART	_	gen|pl|masc	-1	53	_	NK	_	_
-12_52	einzelnen	_	einzeln	_	ADJA	_	gen|pl|masc|pos	-1	53	_	NK	_	_
-12_53	Sender	_	Sender	_	NN	_	gen|pl|masc	-1	50	_	AG	_	_
-12_54	abzeichnete	_	abzeichnen	_	VVFIN	_	sg|3|past|ind	-1	44	_	OC	_	_
-12_55	,	_	--	_	$,	_	_	-1	54	_	--	_	_
-12_56	der	_	der	_	PRELS	_	nom|sg|masc	-1	62	_	SB	_	_
-12_57	eine	_	ein	_	ART	_	acc|sg|fem	-1	61	_	NK	_	_
-12_58	verstärkt	_	verstärkt	_	ADJD	_	pos	-1	62	_	MO	_	_
-12_59	auf	_	auf	_	APPR	_	_	-1	62	_	OP	_	_
-12_60	emotionale	_	emotional	_	ADJA	_	acc|pl|masc|pos	-1	61	_	NK	_	_
-12_61	Anreize	_	Anreiz	_	NN	_	acc|pl|masc	-1	59	_	NK	_	_
-12_62	setzte	_	setzen	_	VVFIN	_	sg|3|past|ind	-1	50	_	RC	_	_
-12_63	,	_	--	_	$,	_	_	-1	62	_	--	_	_
-12_64	der	_	der	_	ART	_	nom|sg|masc	-1	65	_	NK	_	_
-12_65	andere	_	anderer	_	PIS	_	nom|sg|masc	-1	73	_	SB	_	_
-12_66	sich	_	sich	_	PRF	_	acc|sg|3	-1	73	_	OA	_	_
-12_67	mehr	_	mehr	_	ADV	_	_	-1	73	_	MO	_	_
-12_68	auf	_	auf	_	APPR	_	_	-1	73	_	MO	_	_
-12_69	die	_	der	_	ART	_	acc|sg|fem	-1	70	_	NK	_	_
-12_70	Erörterung	_	Erörterung	_	NN	_	acc|sg|fem	-1	68	_	NK	_	_
-12_71	von	_	von	_	APPR	_	_	-1	70	_	PG	_	_
-12_72	Strategien	_	Strategie	_	NN	_	dat|pl|fem	-1	71	_	NK	_	_
-12_73	verlegte	_	verlegen	_	VVFIN	_	sg|3|past|ind	-1	62	_	CJ	_	_
-12_74	,	_	--	_	$,	_	_	-1	73	_	--	_	_
-12_75	wie	_	wie	_	PWAV	_	_	-1	79	_	MO	_	_
-12_76	CNN	_	CNN	_	NE	_	nom|sg|*	-1	79	_	SB	_	_
-12_77	sich	_	sich	_	PRF	_	acc|sg|3	-1	79	_	OA	_	_
-12_78	fast	_	fast	_	ADV	_	_	-1	79	_	MO	_	_
-12_79	verliert	_	verlieren	_	VVFIN	_	sg|3|pres|ind	-1	73	_	MO	_	_
-12_80	in	_	in	_	APPR	_	_	-1	79	_	MO	_	_
-12_81	der	_	der	_	ART	_	dat|sg|fem	-1	83	_	NK	_	_
-12_82	steten	_	stet	_	ADJA	_	dat|sg|fem|pos	-1	83	_	NK	_	_
-12_83	Selbstbestätigung	_	Selbstbestätigung	_	NN	_	dat|sg|fem	-1	80	_	NK	_	_
-12_84	des	_	der	_	ART	_	gen|sg|neut	-1	85	_	NK	_	_
-12_85	Vorortseins	_	Vorortsein	_	NN	_	gen|sg|neut	-1	83	_	AG	_	_
-12_86	,	_	--	_	$,	_	_	-1	85	_	--	_	_
-12_87	während	_	während	_	KOUS	_	_	-1	94	_	CP	_	_
-12_88	die	_	der	_	ART	_	nom|sg|fem	-1	89	_	NK	_	_
-12_89	BBC	_	BBC	_	NE	_	nom|sg|fem	-1	94	_	SB	_	_
-12_90	noch	_	noch	_	ADV	_	_	-1	89	_	CD	_	_
-12_91	ein	_	ein	_	ART	_	acc|sg|neut	-1	93	_	NK	_	_
-12_92	altes	_	alt	_	ADJA	_	acc|sg|neut|pos	-1	93	_	NK	_	_
-12_93	Journalisten-Ethos	_	Journalisten-Ethos	_	NN	_	acc|sg|neut	-1	90	_	CJ	_	_
-12_94	hochhält	_	hochhalten	_	VVFIN	_	sg|3|pres|ind	-1	79	_	MO	_	_
-12_95	mit	_	mit	_	APPR	_	_	-1	94	_	MO	_	_
-12_96	durchformulierten	_	durchformuliert	_	ADJA	_	dat|pl|masc|pos	-1	97	_	NK	_	_
-12_97	Beiträgen	_	Beitrag	_	NN	_	dat|pl|masc	-1	95	_	NK	_	_
-12_98	,	_	--	_	$,	_	_	-1	97	_	--	_	_
-12_99	die	_	der	_	PRELS	_	nom|pl|masc	-1	104	_	SB	_	_
-12_100	sich	_	sich	_	PRF	_	acc|pl|3	-1	104	_	OA	_	_
-12_101	um	_	um	_	APPR	_	_	-1	104	_	OP	_	_
-12_102	sachliche	_	sachlich	_	ADJA	_	acc|sg|fem|pos	-1	103	_	NK	_	_
-12_103	Distanz	_	Distanz	_	NN	_	acc|sg|fem	-1	101	_	NK	_	_
-12_104	bemühen	_	bemühen	_	VVINF	_	pl|3|pres|ind	-1	97	_	RC	_	_
-12_105	und	_	und	_	KON	_	_	-1	104	_	CD	_	_
-12_106	gleichzeitig	_	gleichzeitig	_	ADJD	_	pos	-1	109	_	MO	_	_
-12_107	Pathos	_	Pathos	_	NN	_	acc|sg|neut	-1	109	_	OA	_	_
-12_108	nicht	_	nicht	_	PTKNEG	_	_	-1	109	_	NG	_	_
-12_109	scheuen	_	scheuen	_	VVINF	_	_	-1	105	_	CJ	_	_
-12_110	.	_	--	_	$.	_	_	-1	109	_	--	_	_
-
-13_1	Der	_	der	_	ART	_	nom|sg|masc	-1	2	_	NK	_	_
-13_2	Betriebsrat	_	Betriebsrat	_	NN	_	nom|sg|masc	-1	3	_	SB	_	_
-13_3	besteht	_	bestehen	_	VVFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
-13_4	in	_	in	_	APPR	_	_	-1	3	_	MO	_	_
-13_5	Betrieben	_	Betrieb	_	NN	_	dat|pl|masc	-1	4	_	NK	_	_
-13_6	mit	_	mit	_	PTKVZ	_	_	-1	5	_	MNR	_	_
-13_7	in	_	in	_	APPR	_	_	-1	13	_	MO	_	_
-13_8	der	_	der	_	ART	_	dat|sg|fem	-1	9	_	NK	_	_
-13_9	Regel	_	Regel	_	NN	_	dat|sg|fem	-1	7	_	NK	_	_
-13_10	5	_	5	_	CARD	_	_	-1	14	_	NK	_	_
-13_11	bis	_	bis	_	KON	_	_	-1	10	_	CD	_	_
-13_12	20	_	20	_	CARD	_	_	-1	11	_	CJ	_	_
-13_13	wahlberechtigten	_	wahlberechtigt	_	ADJA	_	dat|pl|masc|pos	-1	14	_	NK	_	_
-13_14	Arbeitnehmern	_	Arbeitnehmer	_	NN	_	dat|pl|masc	-1	6	_	NK	_	_
-13_15	aus	_	aus	_	APPR	_	_	-1	14	_	MNR	_	_
-13_16	einer	_	ein	_	ART	_	dat|sg|fem	-1	17	_	NK	_	_
-13_17	Person	_	Person	_	NN	_	dat|sg|fem	-1	15	_	NK	_	_
-13_18	,	_	--	_	$,	_	_	-1	17	_	--	_	_
-13_19	21	_	21	_	CARD	_	_	-1	23	_	NK	_	_
-13_20	bis	_	bis	_	KON	_	_	-1	19	_	CD	_	_
-13_21	50	_	50	_	CARD	_	_	-1	20	_	CJ	_	_
-13_22	wahlberechtigten	_	wahlberechtigt	_	ADJA	_	dat|pl|masc|pos	-1	23	_	NK	_	_
-13_23	Arbeitnehmern	_	Arbeitnehmer	_	NN	_	dat|pl|masc	-1	14	_	CJ	_	_
-13_24	aus	_	aus	_	APPR	_	_	-1	23	_	MNR	_	_
-13_25	3	_	3	_	CARD	_	_	-1	26	_	NK	_	_
-13_26	Mitgliedern	_	Mitglied	_	NN	_	dat|pl|neut	-1	24	_	NK	_	_
-13_27	,	_	--	_	$,	_	_	-1	26	_	--	_	_
-13_28	51	_	51	_	CARD	_	_	-1	30	_	NK	_	_
-13_29	wahlberechtigten	_	wahlberechtigt	_	ADJA	_	dat|pl|masc|pos	-1	30	_	NK	_	_
-13_30	Arbeitnehmern	_	Arbeitnehmer	_	NN	_	dat|pl|masc	-1	23	_	APP	_	_
-13_31	bis	_	bis	_	APPR	_	_	-1	30	_	CD	_	_
-13_32	150	_	150	_	CARD	_	_	-1	33	_	NK	_	_
-13_33	Arbeitnehmern	_	Arbeitnehmer	_	NN	_	dat|pl|masc	-1	31	_	NK	_	_
-13_34	aus	_	aus	_	APPR	_	_	-1	33	_	MNR	_	_
-13_35	5	_	5	_	CARD	_	_	-1	36	_	NK	_	_
-13_36	Mitgliedern	_	Mitglied	_	NN	_	dat|pl|neut	-1	34	_	NK	_	_
-13_37	,	_	--	_	$,	_	_	-1	36	_	--	_	_
-13_38	151	_	151	_	CARD	_	_	-1	41	_	NK	_	_
-13_39	bis	_	bis	_	KON	_	_	-1	38	_	CD	_	_
-13_40	300	_	300	_	CARD	_	_	-1	39	_	CJ	_	_
-13_41	Arbeitnehmern	_	Arbeitnehmer	_	NN	_	dat|pl|masc	-1	33	_	CJ	_	_
-13_42	aus	_	aus	_	APPR	_	_	-1	41	_	MNR	_	_
-13_43	7	_	7	_	CARD	_	_	-1	44	_	NK	_	_
-13_44	Mitgliedern	_	Mitglied	_	NN	_	dat|pl|neut	-1	42	_	NK	_	_
-13_45	,	_	--	_	$,	_	_	-1	44	_	--	_	_
-13_46	301	_	301	_	CARD	_	_	-1	49	_	NK	_	_
-13_47	bis	_	bis	_	KON	_	_	-1	46	_	CD	_	_
-13_48	600	_	600	_	CARD	_	_	-1	47	_	CJ	_	_
-13_49	Arbeitnehmern	_	Arbeitnehmer	_	NN	_	dat|pl|masc	-1	41	_	CJ	_	_
-13_50	aus	_	aus	_	APPR	_	_	-1	49	_	MNR	_	_
-13_51	9	_	9	_	CARD	_	_	-1	52	_	NK	_	_
-13_52	Mitgliedern	_	Mitglied	_	NN	_	dat|pl|neut	-1	50	_	NK	_	_
-13_53	,	_	--	_	$,	_	_	-1	52	_	--	_	_
-13_54	601	_	601	_	CARD	_	_	-1	57	_	NK	_	_
-13_55	bis	_	bis	_	KON	_	_	-1	54	_	CD	_	_
-13_56	1.000	_	1.000	_	CARD	_	_	-1	55	_	CJ	_	_
-13_57	Arbeitnehmern	_	Arbeitnehmer	_	NN	_	dat|pl|masc	-1	49	_	CJ	_	_
-13_58	aus	_	aus	_	APPR	_	_	-1	57	_	MNR	_	_
-13_59	11	_	11	_	CARD	_	_	-1	60	_	NK	_	_
-13_60	Mitgliedern	_	Mitglied	_	NN	_	dat|pl|neut	-1	58	_	NK	_	_
-13_61	,	_	--	_	$,	_	_	-1	60	_	--	_	_
-13_62	1.001	_	1.001	_	CARD	_	_	-1	65	_	NK	_	_
-13_63	bis	_	bis	_	KON	_	_	-1	62	_	CD	_	_
-13_64	2.000	_	2.000	_	CARD	_	_	-1	63	_	CJ	_	_
-13_65	Arbeitnehmern	_	Arbeitnehmer	_	NN	_	dat|pl|masc	-1	57	_	CJ	_	_
-13_66	aus	_	aus	_	APPR	_	_	-1	65	_	MNR	_	_
-13_67	15	_	15	_	CARD	_	_	-1	68	_	NK	_	_
-13_68	Mitgliedern	_	Mitglied	_	NN	_	dat|pl|neut	-1	66	_	NK	_	_
-13_69	,	_	--	_	$,	_	_	-1	68	_	--	_	_
-13_70	2.001	_	2.001	_	CARD	_	_	-1	73	_	NK	_	_
-13_71	bis	_	bis	_	KON	_	_	-1	70	_	CD	_	_
-13_72	3.000	_	3.000	_	CARD	_	_	-1	71	_	CJ	_	_
-13_73	Arbeitnehmern	_	Arbeitnehmer	_	NN	_	dat|pl|masc	-1	65	_	CJ	_	_
-13_74	aus	_	aus	_	APPR	_	_	-1	73	_	MNR	_	_
-13_75	19	_	19	_	CARD	_	_	-1	76	_	NK	_	_
-13_76	Mitgliedern	_	Mitglied	_	NN	_	dat|pl|neut	-1	74	_	NK	_	_
-13_77	,	_	--	_	$,	_	_	-1	76	_	--	_	_
-13_78	3.001	_	3.001	_	CARD	_	_	-1	81	_	NK	_	_
-13_79	bis	_	bis	_	KON	_	_	-1	78	_	CD	_	_
-13_80	4.000	_	4.000	_	CARD	_	_	-1	79	_	CJ	_	_
-13_81	Arbeitnehmern	_	Arbeitnehmer	_	NN	_	dat|pl|masc	-1	73	_	CJ	_	_
-13_82	aus	_	aus	_	APPR	_	_	-1	81	_	MNR	_	_
-13_83	23	_	23	_	CARD	_	_	-1	84	_	NK	_	_
-13_84	Mitgliedern	_	Mitglied	_	NN	_	dat|pl|neut	-1	82	_	NK	_	_
-13_85	,	_	--	_	$,	_	_	-1	84	_	--	_	_
-13_86	4.001	_	4.001	_	CARD	_	_	-1	89	_	NK	_	_
-13_87	bis	_	bis	_	KON	_	_	-1	86	_	CD	_	_
-13_88	5.000	_	5.000	_	CARD	_	_	-1	87	_	CJ	_	_
-13_89	Arbeitnehmern	_	Arbeitnehmer	_	NN	_	dat|pl|masc	-1	81	_	CJ	_	_
-13_90	aus	_	aus	_	APPR	_	_	-1	89	_	MNR	_	_
-13_91	27	_	27	_	CARD	_	_	-1	92	_	NK	_	_
-13_92	Mitgliedern	_	Mitglied	_	NN	_	dat|pl|neut	-1	90	_	NK	_	_
-13_93	,	_	--	_	$,	_	_	-1	92	_	--	_	_
-13_94	5.001	_	5.001	_	CARD	_	_	-1	97	_	NK	_	_
-13_95	bis	_	bis	_	KON	_	_	-1	94	_	CD	_	_
-13_96	7.000	_	7.000	_	CARD	_	_	-1	95	_	CJ	_	_
-13_97	Arbeitnehmern	_	Arbeitnehmer	_	NN	_	dat|pl|masc	-1	89	_	CJ	_	_
-13_98	aus	_	aus	_	APPR	_	_	-1	97	_	MNR	_	_
-13_99	29	_	29	_	CARD	_	_	-1	100	_	NK	_	_
-13_100	Mitgliedern	_	Mitglied	_	NN	_	dat|pl|neut	-1	98	_	NK	_	_
-13_101	,	_	--	_	$,	_	_	-1	100	_	--	_	_
-13_102	7.001	_	7.001	_	CARD	_	_	-1	105	_	NK	_	_
-13_103	bis	_	bis	_	KON	_	_	-1	102	_	CD	_	_
-13_104	9.000	_	9.000	_	CARD	_	_	-1	103	_	CJ	_	_
-13_105	Arbeitnehmern	_	Arbeitnehmer	_	NN	_	dat|pl|masc	-1	97	_	APP	_	_
-13_106	aus	_	aus	_	APPR	_	_	-1	105	_	MNR	_	_
-13_107	31	_	31	_	CARD	_	_	-1	108	_	NK	_	_
-13_108	Mitgliedern	_	Mitglied	_	NN	_	dat|pl|neut	-1	106	_	NK	_	_
-13_109	.	_	--	_	$.	_	_	-1	108	_	--	_	_
-
-14_1	Recht	_	Recht	_	NN	_	nom|sg|neut	-1	0	_	--	_	_
-14_2	auf	_	auf	_	APPR	_	_	-1	1	_	MNR	_	_
-14_3	Auskunft	_	Auskunft	_	NN	_	acc|sg|fem	-1	2	_	NK	_	_
-14_4	über	_	über	_	APPR	_	_	-1	3	_	MNR	_	_
-14_5	die	_	der	_	ART	_	acc|sg|fem	-1	10	_	NK	_	_
-14_6	zu	_	zu	_	APPR	_	_	-1	9	_	MO	_	_
-14_7	seiner	_	sein	_	PPOSAT	_	dat|sg|fem	-1	8	_	NK	_	_
-14_8	Person	_	Person	_	NN	_	dat|sg|fem	-1	6	_	NK	_	_
-14_9	gespeicherten	_	gespeichert	_	ADJA	_	gen|pl|masc|pos	-1	10	_	NK	_	_
-14_10	Daten	_	Datum	_	NN	_	gen|pl|neut	-1	4	_	NK	_	_
-14_11	,	_	--	_	$,	_	_	-1	10	_	--	_	_
-14_12	Recht	_	Recht	_	NN	_	dat|sg|neut	-1	1	_	CJ	_	_
-14_13	auf	_	auf	_	APPR	_	_	-1	12	_	MNR	_	_
-14_14	Berichtigung	_	Berichtigung	_	NN	_	acc|sg|fem	-1	13	_	NK	_	_
-14_15	,	_	--	_	$,	_	_	-1	14	_	--	_	_
-14_16	wenn	_	wenn	_	KOUS	_	_	-1	21	_	CP	_	_
-14_17	die	_	der	_	ART	_	nom|pl|neut	-1	18	_	NK	_	_
-14_18	Daten	_	Datum	_	NN	_	nom|pl|neut	-1	21	_	SB	_	_
-14_19	unrichtig	_	unrichtig	_	ADJD	_	pos	-1	20	_	MO	_	_
-14_20	gespeichert	_	speichern	_	VVPP	_	_	-1	21	_	PD	_	_
-14_21	sind	_	sein	_	VAFIN	_	pl|3|pres|ind	-1	13	_	MO	_	_
-14_22	,	_	--	_	$,	_	_	-1	21	_	--	_	_
-14_23	Recht	_	Recht	_	NN	_	nom|sg|neut	-1	12	_	CJ	_	_
-14_24	auf	_	auf	_	APPR	_	_	-1	23	_	MNR	_	_
-14_25	Sperrung	_	Sperrung	_	NN	_	acc|sg|fem	-1	24	_	NK	_	_
-14_26	,	_	--	_	$,	_	_	-1	25	_	--	_	_
-14_27	wenn	_	wenn	_	KOUS	_	_	-1	31	_	CP	_	_
-14_28	er	_	er	_	PPER	_	nom|sg|masc|3	-1	31	_	SB	_	_
-14_29	die	_	der	_	ART	_	acc|sg|fem	-1	30	_	NK	_	_
-14_30	Richtigkeit	_	Richtigkeit	_	NN	_	acc|sg|fem	-1	31	_	OA	_	_
-14_31	bestreitet	_	bestreiten	_	VVFIN	_	sg|3|pres|ind	-1	20	_	MO	_	_
-14_32	und	_	und	_	KON	_	_	-1	31	_	CD	_	_
-14_33	sich	_	sich	_	PRF	_	acc|sg|3	-1	40	_	DA	_	_
-14_34	weder	_	weder	_	KON	_	_	-1	36	_	CD	_	_
-14_35	die	_	der	_	ART	_	acc|sg|fem	-1	36	_	NK	_	_
-14_36	Richtigkeit	_	Richtigkeit	_	NN	_	acc|sg|fem	-1	40	_	OA	_	_
-14_37	noch	_	noch	_	KON	_	_	-1	36	_	CD	_	_
-14_38	die	_	der	_	ART	_	acc|sg|fem	-1	39	_	NK	_	_
-14_39	Unrichtigkeit	_	Unrichtigkeit	_	NN	_	acc|sg|fem	-1	37	_	CJ	_	_
-14_40	feststellen	_	feststellen	_	VVINF	_	_	-1	41	_	OC	_	_
-14_41	läßt	_	lassen	_	VVFIN	_	sg|3|pres|ind	-1	32	_	CJ	_	_
-14_42	,	_	--	_	$,	_	_	-1	41	_	--	_	_
-14_43	Recht	_	Recht	_	NN	_	acc|sg|neut	-1	23	_	CJ	_	_
-14_44	auf	_	auf	_	APPR	_	_	-1	43	_	MNR	_	_
-14_45	Löschung	_	Löschung	_	NN	_	acc|sg|fem	-1	44	_	NK	_	_
-14_46	,	_	--	_	$,	_	_	-1	45	_	--	_	_
-14_47	insbesondere	_	insbesondere	_	ADV	_	_	-1	52	_	MO	_	_
-14_48	wenn	_	wenn	_	KOUS	_	_	-1	52	_	CP	_	_
-14_49	die	_	der	_	ART	_	nom|sg|fem	-1	50	_	NK	_	_
-14_50	Speicherung	_	Speicherung	_	NN	_	nom|sg|fem	-1	52	_	SB	_	_
-14_51	unzulässig	_	unzulässig	_	ADJD	_	pos	-1	52	_	PD	_	_
-14_52	war	_	sein	_	VAFIN	_	sg|3|past|ind	-1	44	_	MO	_	_
-14_53	,	_	--	_	$,	_	_	-1	52	_	--	_	_
-14_54	Recht	_	Recht	_	NN	_	nom|sg|neut	-1	43	_	CJ	_	_
-14_55	auf	_	auf	_	APPR	_	_	-1	54	_	MNR	_	_
-14_56	Folgenbeseitigung	_	Folgenbeseitigung	_	NN	_	dat|sg|fem	-1	55	_	NK	_	_
-14_57	,	_	--	_	$,	_	_	-1	56	_	--	_	_
-14_58	Recht	_	Recht	_	NN	_	dat|sg|neut	-1	54	_	CJ	_	_
-14_59	auf	_	auf	_	APPR	_	_	-1	58	_	MNR	_	_
-14_60	Widerspruch	_	Widerspruch	_	NN	_	acc|sg|masc	-1	59	_	NK	_	_
-14_61	gegen	_	gegen	_	APPR	_	_	-1	60	_	MNR	_	_
-14_62	die	_	der	_	ART	_	acc|sg|fem	-1	63	_	NK	_	_
-14_63	Verarbeitung	_	Verarbeitung	_	NN	_	acc|sg|fem	-1	61	_	NK	_	_
-14_64	seiner	_	sein	_	PPOSAT	_	gen|pl|neut	-1	66	_	NK	_	_
-14_65	personenbezogenen	_	personenbezogen	_	ADJA	_	gen|pl|neut|pos	-1	66	_	NK	_	_
-14_66	Daten	_	Datum	_	NN	_	gen|pl|neut	-1	63	_	AG	_	_
-14_67	,	_	--	_	$,	_	_	-1	66	_	--	_	_
-14_68	Recht	_	Recht	_	NN	_	dat|sg|neut	-1	58	_	CJ	_	_
-14_69	auf	_	auf	_	APPR	_	_	-1	68	_	MNR	_	_
-14_70	Schadensersatz	_	Schadensersatz	_	NN	_	acc|sg|masc	-1	69	_	NK	_	_
-14_71	,	_	--	_	$,	_	_	-1	70	_	--	_	_
-14_72	das	_	der	_	ART	_	acc|sg|neut	-1	73	_	NK	_	_
-14_73	Recht	_	Recht	_	NN	_	acc|sg|neut	-1	70	_	CJ	_	_
-14_74	,	_	--	_	$,	_	_	-1	73	_	--	_	_
-14_75	sich	_	sich	_	PRF	_	acc|pl|3	-1	88	_	OA	_	_
-14_76	an	_	an	_	APPR	_	_	-1	88	_	MO	_	_
-14_77	den	_	der	_	ART	_	dat|pl|*	-1	78	_	NK	_	_
-14_78	Bundesbeauftragten	_	Bundesbeauftragter	_	NN	_	dat|pl|*	-1	76	_	NK	_	_
-14_79	bzw.	_	bzw.	_	KON	_	_	-1	68	_	CD	_	_
-14_80	den	_	der	_	ART	_	dat|pl|*	-1	83	_	NK	_	_
-14_81	jeweils	_	jeweils	_	ADV	_	_	-1	82	_	MO	_	_
-14_82	zuständigen	_	zuständig	_	ADJA	_	dat|pl|*|pos	-1	83	_	NK	_	_
-14_83	Landesbeauftragten	_	Landesbeauftragter	_	NN	_	dat|pl|*	-1	79	_	CJ	_	_
-14_84	für	_	für	_	APPR	_	_	-1	83	_	MNR	_	_
-14_85	den	_	der	_	ART	_	acc|sg|masc	-1	86	_	NK	_	_
-14_86	Datenschutz	_	Datenschutz	_	NN	_	acc|sg|masc	-1	84	_	NK	_	_
-14_87	zu	_	zu	_	PTKZU	_	_	-1	88	_	PM	_	_
-14_88	wenden	_	wenden	_	VVINF	_	_	-1	73	_	OC	_	_
-14_89	,	_	--	_	$,	_	_	-1	88	_	--	_	_
-14_90	wenn	_	wenn	_	KOUS	_	_	-1	94	_	CP	_	_
-14_91	er	_	er	_	PPER	_	nom|sg|masc|3	-1	94	_	SB	_	_
-14_92	der	_	der	_	ART	_	dat|sg|fem	-1	93	_	NK	_	_
-14_93	Ansicht	_	Ansicht	_	NN	_	dat|sg|fem	-1	94	_	PD	_	_
-14_94	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	88	_	MO	_	_
-14_95	,	_	--	_	$,	_	_	-1	94	_	--	_	_
-14_96	bei	_	bei	_	APPR	_	_	-1	105	_	MO	_	_
-14_97	der	_	der	_	ART	_	dat|sg|fem	-1	98	_	NK	_	_
-14_98	Verarbeitung	_	Verarbeitung	_	NN	_	dat|sg|fem	-1	96	_	NK	_	_
-14_99	seiner	_	sein	_	PPOSAT	_	gen|pl|neut	-1	101	_	NK	_	_
-14_100	personenbezogenen	_	personenbezogen	_	ADJA	_	gen|pl|neut|pos	-1	101	_	NK	_	_
-14_101	Daten	_	Datum	_	NN	_	gen|pl|neut	-1	98	_	AG	_	_
-14_102	in	_	in	_	APPR	_	_	-1	105	_	MO	_	_
-14_103	seinen	_	sein	_	PPOSAT	_	dat|pl|neut	-1	104	_	NK	_	_
-14_104	Rechten	_	Recht	_	NN	_	dat|pl|neut	-1	102	_	NK	_	_
-14_105	verletzt	_	verletzen	_	VVPP	_	_	-1	107	_	OC	_	_
-14_106	zu	_	zu	_	PTKZU	_	_	-1	107	_	PM	_	_
-14_107	sein	_	sein	_	VAINF	_	_	-1	93	_	OC	_	_
-14_108	.	_	--	_	$.	_	_	-1	107	_	--	_	_
-
-15_1	Denn	_	denn	_	KON	_	_	-1	3	_	JU	_	_
-15_2	es	_	es	_	PPER	_	nom|sg|neut|3	-1	3	_	SB	_	_
-15_3	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
-15_4	eine	_	einer	_	PIS	_	nom|sg|fem	-1	3	_	PD	_	_
-15_5	der	_	der	_	ART	_	gen|pl|fem	-1	6	_	NK	_	_
-15_6	Grundanschauungen	_	Grundanschauung	_	NN	_	gen|pl|fem	-1	4	_	AG	_	_
-15_7	der	_	der	_	ART	_	gen|sg|fem	-1	9	_	NK	_	_
-15_8	freiheitlichen	_	freiheitlich	_	ADJA	_	gen|sg|fem|pos	-1	9	_	NK	_	_
-15_9	Demokratie	_	Demokratie	_	NN	_	gen|sg|fem	-1	6	_	AG	_	_
-15_10	,	_	--	_	$,	_	_	-1	9	_	--	_	_
-15_11	daß	_	daß	_	KOUS	_	_	-1	16	_	CP	_	_
-15_12	nur	_	nur	_	ADV	_	_	-1	16	_	MO	_	_
-15_13	die	_	der	_	ART	_	nom|sg|fem	-1	16	_	NK	_	_
-15_14	ständige	_	ständig	_	ADJA	_	nom|sg|fem|pos	-1	16	_	NK	_	_
-15_15	geistige	_	geistig	_	ADJA	_	nom|sg|fem|pos	-1	16	_	NK	_	_
-15_16	Auseinandersetzung	_	Auseinandersetzung	_	NN	_	nom|sg|fem	-1	44	_	CJ	_	_
-15_17	zwischen	_	zwischen	_	APPR	_	_	-1	16	_	MNR	_	_
-15_18	den	_	der	_	ART	_	dat|pl|masc	-1	22	_	NK	_	_
-15_19	einander	_	einander	_	PRF	_	_	-1	20	_	OA	_	_
-15_20	begegnenden	_	begegnend	_	ADJA	_	dat|pl|fem|pos	-1	22	_	NK	_	_
-15_21	sozialen	_	sozial	_	ADJA	_	dat|pl|fem|pos	-1	22	_	NK	_	_
-15_22	Kräften	_	Kraft	_	NN	_	dat|pl|fem	-1	17	_	NK	_	_
-15_23	und	_	und	_	KON	_	_	-1	22	_	CD	_	_
-15_24	Interessen	_	Interesse	_	NN	_	dat|pl|neut	-1	23	_	CJ	_	_
-15_25	,	_	--	_	$,	_	_	-1	24	_	--	_	_
-15_26	den	_	der	_	ART	_	dat|pl|fem	-1	28	_	NK	_	_
-15_27	politischen	_	politisch	_	ADJA	_	dat|pl|*|pos	-1	28	_	NK	_	_
-15_28	Ideen	_	Idee	_	NN	_	dat|pl|fem	-1	16	_	CJ	_	_
-15_29	und	_	und	_	KON	_	_	-1	28	_	CD	_	_
-15_30	damit	_	damit	_	PROAV	_	_	-1	36	_	MO	_	_
-15_31	auch	_	auch	_	ADV	_	_	-1	36	_	MO	_	_
-15_32	den	_	der	_	ART	_	acc|sg|masc	-1	36	_	NK	_	_
-15_33	sie	_	sie	_	PPER	_	nom|pl|masc|3	-1	11	_	SB	_	_
-15_34	vertretenden	_	vertretend	_	ADJA	_	gen|pl|fem|pos	-1	36	_	NK	_	_
-15_35	politischen	_	politisch	_	ADJA	_	gen|pl|fem|pos	-1	36	_	NK	_	_
-15_36	Parteien	_	Partei	_	NN	_	gen|pl|fem	-1	29	_	CJ	_	_
-15_37	der	_	der	_	ART	_	gen|sg|fem	-1	39	_	NK	_	_
-15_38	richtige	_	richtig	_	ADJA	_	nom|sg|masc|pos	-1	39	_	NK	_	_
-15_39	Weg	_	Weg	_	NN	_	nom|sg|masc	-1	44	_	SB	_	_
-15_40	zur	_	zu	_	APPRART	_	dat|sg|fem	-1	39	_	MNR	_	_
-15_41	Bildung	_	Bildung	_	NN	_	dat|sg|fem	-1	40	_	NK	_	_
-15_42	des	_	der	_	ART	_	gen|sg|neut	-1	43	_	NK	_	_
-15_43	Staatswillens	_	Staatswillen	_	NN	_	gen|sg|neut	-1	41	_	AG	_	_
-15_44	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	3	_	CJ	_	_
-15_45	-	_	--	_	$(	_	_	-1	44	_	--	_	_
-15_46	nicht	_	nicht	_	PTKNEG	_	_	-1	44	_	NG	_	_
-15_47	in	_	in	_	APPR	_	_	-1	44	_	MO	_	_
-15_48	dem	_	der	_	ART	_	dat|sg|masc	-1	49	_	NK	_	_
-15_49	Sinne	_	Sinn	_	NN	_	dat|sg|masc	-1	47	_	NK	_	_
-15_50	,	_	--	_	$,	_	_	-1	49	_	--	_	_
-15_51	daß	_	daß	_	KOUS	_	_	-1	57	_	CP	_	_
-15_52	er	_	er	_	PPER	_	nom|sg|masc|3	-1	57	_	SB	_	_
-15_53	immer	_	immer	_	ADV	_	_	-1	57	_	MO	_	_
-15_54	objektiv	_	objektiv	_	ADJD	_	pos	-1	57	_	MO	_	_
-15_55	richtige	_	richtig	_	ADJA	_	acc|pl|neut|pos	-1	56	_	NK	_	_
-15_56	Ergebnisse	_	Ergebnis	_	NN	_	acc|pl|neut	-1	57	_	OA	_	_
-15_57	liefere	_	liefern	_	VVFIN	_	sg|3|pres|subj	-1	44	_	SB	_	_
-15_58	,	_	--	_	$,	_	_	-1	57	_	--	_	_
-15_59	denn	_	denn	_	KON	_	_	-1	44	_	CD	_	_
-15_60	dieser	_	dieser	_	PDAT	_	nom|sg|masc	-1	61	_	NK	_	_
-15_61	Weg	_	Weg	_	NN	_	nom|sg|masc	-1	62	_	SB	_	_
-15_62	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	59	_	CJ	_	_
-15_63	a	_	--	_	NE	_	_	-1	62	_	DA	_	_
-15_64	process	_	process	_	NE	_	_	-1	63	_	UC	_	_
-15_65	of	_	of	_	NE	_	_	-1	63	_	UC	_	_
-15_66	trial	_	trial	_	ADJD	_	_	-1	63	_	UC	_	_
-15_67	and	_	and	_	FM	_	_	-1	63	_	UC	_	_
-15_68	error	_	error	_	FM	_	_	-1	63	_	UC	_	_
-15_69	(	_	--	_	$(	_	_	-1	68	_	--	_	_
-15_70	I.	_	I.	_	ADJA	_	dat|sg|masc|pos	-1	72	_	PNC	_	_
-15_71	B.	_	B.	_	NN	_	dat|sg|neut	-1	72	_	PNC	_	_
-15_72	Talmon	_	Talmon	_	NE	_	nom|sg|neut	-1	63	_	PAR	_	_
-15_73	)	_	--	_	$(	_	_	-1	72	_	--	_	_
-15_74	,	_	--	_	$,	_	_	-1	73	_	--	_	_
-15_75	aber	_	aber	_	KON	_	_	-1	62	_	CD	_	_
-15_76	doch	_	doch	_	ADV	_	_	-1	77	_	MO	_	_
-15_77	so	_	so	_	ADV	_	_	-1	75	_	CJ	_	_
-15_78	,	_	--	_	$,	_	_	-1	77	_	--	_	_
-15_79	daß	_	daß	_	KOUS	_	_	-1	110	_	CP	_	_
-15_80	er	_	er	_	PPER	_	nom|sg|masc|3	-1	110	_	SB	_	_
-15_81	durch	_	durch	_	APPR	_	_	-1	110	_	MO	_	_
-15_82	die	_	der	_	ART	_	acc|sg|fem	-1	85	_	NK	_	_
-15_83	ständige	_	ständig	_	ADJA	_	acc|sg|fem|pos	-1	85	_	NK	_	_
-15_84	gegenseitige	_	gegenseitig	_	ADJA	_	acc|sg|fem|pos	-1	85	_	NK	_	_
-15_85	Kontrolle	_	Kontrolle	_	NN	_	acc|sg|fem	-1	81	_	NK	_	_
-15_86	und	_	und	_	KON	_	_	-1	85	_	CD	_	_
-15_87	Kritik	_	Kritik	_	NN	_	acc|sg|fem	-1	86	_	CJ	_	_
-15_88	die	_	der	_	ART	_	acc|sg|fem	-1	90	_	NK	_	_
-15_89	beste	_	gut	_	ADJA	_	acc|sg|fem|sup	-1	90	_	NK	_	_
-15_90	Gewähr	_	Gewähr	_	NN	_	nom|sg|fem	-1	110	_	OA	_	_
-15_91	für	_	für	_	APPR	_	_	-1	90	_	MNR	_	_
-15_92	eine	_	ein	_	ART	_	acc|sg|fem	-1	98	_	NK	_	_
-15_93	(	_	--	_	$(	_	_	-1	92	_	--	_	_
-15_94	relativ	_	relativ	_	ADJD	_	pos	-1	96	_	MO	_	_
-15_95	)	_	--	_	$(	_	_	-1	94	_	--	_	_
-15_96	richtige	_	richtig	_	ADJA	_	acc|sg|fem|pos	-1	98	_	NK	_	_
-15_97	politische	_	politisch	_	ADJA	_	acc|sg|fem|pos	-1	98	_	NK	_	_
-15_98	Linie	_	Linie	_	NN	_	acc|sg|fem	-1	91	_	NK	_	_
-15_99	als	_	als	_	APPR	_	_	-1	110	_	MO	_	_
-15_100	Resultante	_	Resultante	_	NN	_	acc|sg|fem	-1	99	_	NK	_	_
-15_101	und	_	und	_	KON	_	_	-1	100	_	CD	_	_
-15_102	Ausgleich	_	Ausgleich	_	NN	_	acc|sg|masc	-1	101	_	CJ	_	_
-15_103	zwischen	_	zwischen	_	APPR	_	_	-1	102	_	MNR	_	_
-15_104	den	_	der	_	ART	_	dat|pl|masc	-1	109	_	NK	_	_
-15_105	im	_	in	_	APPRART	_	dat|sg|masc	-1	107	_	MO	_	_
-15_106	Staat	_	Staat	_	NN	_	dat|sg|masc	-1	105	_	NK	_	_
-15_107	wirksamen	_	wirksam	_	ADJA	_	dat|sg|neut|pos	-1	109	_	NK	_	_
-15_108	politischen	_	politisch	_	ADJA	_	dat|sg|neut|pos	-1	109	_	NK	_	_
-15_109	Kräften	_	Kraft	_	NN	_	dat|pl|fem	-1	103	_	NK	_	_
-15_110	gibt	_	geben	_	VVFIN	_	sg|3|pres|ind	-1	77	_	CC	_	_
-15_111	.	_	--	_	$.	_	_	-1	110	_	--	_	_
-
-16_1	Vom	_	von	_	APPRART	_	dat|sg|neut	-1	7	_	OP	_	_
-16_2	Amt	_	Amt	_	NN	_	dat|sg|neut	-1	1	_	NK	_	_
-16_3	des	_	der	_	ART	_	gen|sg|masc	-1	5	_	NK	_	_
-16_4	ehrenamtlichen	_	ehrenamtlich	_	ADJA	_	gen|sg|masc|pos	-1	5	_	NK	_	_
-16_5	Richters	_	Richter	_	NN	_	gen|sg|masc	-1	2	_	AG	_	_
-16_6	sind	_	sein	_	VAFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
-16_7	ausgeschlossen	_	ausschließen	_	VVPP	_	_	-1	6	_	PD	_	_
-16_8	Personen	_	Person	_	NN	_	nom|pl|fem	-1	7	_	SB	_	_
-16_9	,	_	--	_	$,	_	_	-1	8	_	--	_	_
-16_10	die	_	der	_	PRELS	_	nom|pl|masc	-1	20	_	SB	_	_
-16_11	infolge	_	infolge	_	APPR	_	_	-1	20	_	MO	_	_
-16_12	Richterspruchs	_	Richterspruch	_	NN	_	gen|sg|masc	-1	11	_	NK	_	_
-16_13	die	_	der	_	ART	_	acc|sg|fem	-1	14	_	NK	_	_
-16_14	Fähigkeit	_	Fähigkeit	_	NN	_	acc|sg|fem	-1	20	_	OA	_	_
-16_15	zur	_	zu	_	APPRART	_	dat|sg|fem	-1	14	_	MNR	_	_
-16_16	Bekleidung	_	Bekleidung	_	NN	_	dat|sg|fem	-1	15	_	NK	_	_
-16_17	öffentlicher	_	öffentlich	_	ADJA	_	gen|pl|masc|pos	-1	18	_	NK	_	_
-16_18	Ämter	_	Ämt	_	NN	_	gen|pl|masc	-1	16	_	AG	_	_
-16_19	nicht	_	nicht	_	PTKNEG	_	_	-1	20	_	NG	_	_
-16_20	besitzen	_	besitzen	_	VVFIN	_	pl|3|pres|ind	-1	8	_	RC	_	_
-16_21	oder	_	oder	_	KON	_	_	-1	20	_	CD	_	_
-16_22	wegen	_	wegen	_	APPR	_	_	-1	45	_	MO	_	_
-16_23	einer	_	ein	_	ART	_	*|sg|fem	-1	25	_	NK	_	_
-16_24	vorsätzlichen	_	vorsätzlich	_	ADJA	_	*|sg|fem|pos	-1	25	_	NK	_	_
-16_25	Tat	_	Tat	_	NN	_	*|sg|fem	-1	22	_	NK	_	_
-16_26	zu	_	zu	_	APPR	_	_	-1	45	_	OP	_	_
-16_27	einer	_	ein	_	ART	_	dat|sg|fem	-1	28	_	NK	_	_
-16_28	Freiheitsstrafe	_	Freiheitsstrafe	_	NN	_	dat|sg|fem	-1	26	_	NK	_	_
-16_29	von	_	von	_	APPR	_	_	-1	28	_	MNR	_	_
-16_30	mehr	_	mehr	_	PIAT	_	*|*|*	-1	33	_	NK	_	_
-16_31	als	_	als	_	KOKOM	_	_	-1	32	_	CM	_	_
-16_32	sechs	_	sechs	_	CARD	_	_	-1	30	_	CC	_	_
-16_33	Monaten	_	Monat	_	NN	_	dat|pl|masc	-1	29	_	NK	_	_
-16_34	oder	_	oder	_	KON	_	_	-1	26	_	CD	_	_
-16_35	innerhalb	_	innerhalb	_	APPR	_	_	-1	34	_	CJ	_	_
-16_36	der	_	der	_	ART	_	gen|pl|neut	-1	39	_	NK	_	_
-16_37	letzten	_	letzter	_	ADJA	_	gen|pl|neut|pos	-1	39	_	NK	_	_
-16_38	zehn	_	zehn	_	CARD	_	_	-1	39	_	NK	_	_
-16_39	Jahre	_	Jahr	_	NN	_	gen|pl|neut	-1	35	_	NK	_	_
-16_40	wegen	_	wegen	_	APPR	_	_	-1	45	_	MO	_	_
-16_41	einer	_	ein	_	ART	_	*|sg|fem	-1	44	_	NK	_	_
-16_42	Steuer-	_	Steuer	_	TRUNC	_	_	-1	43	_	CJ	_	_
-16_43	oder	_	oder	_	KON	_	_	-1	44	_	CD	_	_
-16_44	Monopolstraftat	_	Monopolstraftat	_	NN	_	*|sg|fem	-1	40	_	NK	_	_
-16_45	verurteilt	_	verurteilen	_	VVPP	_	_	-1	46	_	OC	_	_
-16_46	worden	_	werden	_	VAPP	_	_	-1	47	_	OC	_	_
-16_47	sind	_	sein	_	VAFIN	_	pl|3|pres|ind	-1	21	_	CJ	_	_
-16_48	,	_	--	_	$,	_	_	-1	47	_	--	_	_
-16_49	soweit	_	soweit	_	KOUS	_	_	-1	56	_	CP	_	_
-16_50	es	_	es	_	PPER	_	nom|sg|neut|3	-1	56	_	EP	_	_
-16_51	sich	_	sich	_	PRF	_	acc|sg|3	-1	56	_	OA	_	_
-16_52	nicht	_	nicht	_	PTKNEG	_	_	-1	56	_	NG	_	_
-16_53	um	_	um	_	APPR	_	_	-1	56	_	OP	_	_
-16_54	eine	_	ein	_	ART	_	acc|sg|fem	-1	55	_	NK	_	_
-16_55	Tat	_	Tat	_	NN	_	acc|sg|fem	-1	53	_	NK	_	_
-16_56	handelt	_	handeln	_	VVFIN	_	sg|3|pres|ind	-1	45	_	MO	_	_
-16_57	,	_	--	_	$,	_	_	-1	56	_	--	_	_
-16_58	für	_	für	_	APPR	_	_	-1	69	_	MO	_	_
-16_59	die	_	der	_	PRELS	_	acc|pl|fem	-1	58	_	NK	_	_
-16_60	das	_	der	_	ART	_	nom|sg|neut	-1	65	_	NK	_	_
-16_61	nach	_	nach	_	APPR	_	_	-1	64	_	MO	_	_
-16_62	der	_	der	_	ART	_	dat|sg|fem	-1	63	_	NK	_	_
-16_63	Verurteilung	_	Verurteilung	_	NN	_	dat|sg|fem	-1	61	_	NK	_	_
-16_64	geltende	_	geltend	_	ADJA	_	acc|sg|neut|pos	-1	65	_	NK	_	_
-16_65	Gesetz	_	Gesetz	_	NN	_	acc|sg|neut	-1	69	_	SB	_	_
-16_66	nur	_	nur	_	ADV	_	_	-1	68	_	MO	_	_
-16_67	noch	_	noch	_	ADV	_	_	-1	66	_	MO	_	_
-16_68	Geldbuße	_	Geldbuße	_	NN	_	acc|sg|fem	-1	69	_	OA	_	_
-16_69	androht	_	androhen	_	VVPP	_	_	-1	7	_	PAR	_	_
-16_70	,	_	--	_	$,	_	_	-1	69	_	--	_	_
-16_71	Personen	_	Person	_	NN	_	nom|pl|fem	-1	68	_	APP	_	_
-16_72	,	_	--	_	$,	_	_	-1	71	_	--	_	_
-16_73	gegen	_	gegen	_	APPR	_	_	-1	79	_	MO	_	_
-16_74	die	_	der	_	ART	_	acc|sg|fem	-1	75	_	NK	_	_
-16_75	Anklage	_	Anklage	_	NN	_	acc|sg|fem	-1	80	_	SB	_	_
-16_76	wegen	_	wegen	_	APPR	_	_	-1	79	_	MO	_	_
-16_77	einer	_	ein	_	ART	_	*|sg|fem	-1	78	_	NK	_	_
-16_78	Tat	_	Tat	_	NN	_	*|sg|fem	-1	76	_	NK	_	_
-16_79	erhoben	_	erheben	_	VVPP	_	_	-1	80	_	PD	_	_
-16_80	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	71	_	RC	_	_
-16_81	,	_	--	_	$,	_	_	-1	80	_	--	_	_
-16_82	die	_	der	_	PRELS	_	nom|sg|fem	-1	94	_	SB	_	_
-16_83	den	_	der	_	ART	_	acc|sg|masc	-1	84	_	NK	_	_
-16_84	Verlust	_	Verlust	_	NN	_	acc|sg|masc	-1	93	_	OA	_	_
-16_85	der	_	der	_	ART	_	gen|sg|fem	-1	86	_	NK	_	_
-16_86	Fähigkeit	_	Fähigkeit	_	NN	_	gen|sg|fem	-1	84	_	AG	_	_
-16_87	zur	_	zu	_	APPRART	_	dat|sg|fem	-1	86	_	MNR	_	_
-16_88	Bekleidung	_	Bekleidung	_	NN	_	dat|sg|fem	-1	87	_	NK	_	_
-16_89	öffentlicher	_	öffentlich	_	ADJA	_	gen|pl|masc|pos	-1	90	_	NK	_	_
-16_90	Ämter	_	Ämt	_	NN	_	gen|pl|masc	-1	88	_	AG	_	_
-16_91	zur	_	zu	_	APPRART	_	dat|sg|fem	-1	93	_	CVC	_	_
-16_92	Folge	_	Folge	_	NN	_	dat|sg|fem	-1	91	_	NK	_	_
-16_93	haben	_	haben	_	VAINF	_	_	-1	94	_	OC	_	_
-16_94	kann	_	können	_	VMFIN	_	sg|3|pres|ind	-1	68	_	RC	_	_
-16_95	,	_	--	_	$,	_	_	-1	94	_	--	_	_
-16_96	Personen	_	Person	_	NN	_	dat|pl|fem	-1	90	_	APP	_	_
-16_97	,	_	--	_	$,	_	_	-1	96	_	--	_	_
-16_98	die	_	der	_	PRELS	_	nom|pl|fem	-1	108	_	SB	_	_
-16_99	nicht	_	nicht	_	PTKNEG	_	_	-1	108	_	NG	_	_
-16_100	das	_	der	_	ART	_	acc|sg|neut	-1	101	_	NK	_	_
-16_101	Wahlrecht	_	Wahlrecht	_	NN	_	acc|sg|neut	-1	108	_	OA	_	_
-16_102	zu	_	zu	_	APPR	_	_	-1	101	_	MNR	_	_
-16_103	den	_	der	_	ART	_	dat|pl|fem	-1	105	_	NK	_	_
-16_104	gesetzgebenden	_	gesetzgebend	_	ADJA	_	dat|pl|fem|pos	-1	105	_	NK	_	_
-16_105	Körperschaften	_	Körperschaft	_	NN	_	dat|pl|fem	-1	102	_	NK	_	_
-16_106	des	_	der	_	ART	_	gen|sg|neut	-1	107	_	NK	_	_
-16_107	Landes	_	Land	_	NN	_	gen|sg|neut	-1	105	_	AG	_	_
-16_108	besitzen	_	besitzen	_	VVFIN	_	pl|3|pres|ind	-1	96	_	RC	_	_
-16_109	.	_	--	_	$.	_	_	-1	108	_	--	_	_
-
-17_1	Obgleich	_	obgleich	_	KOUS	_	_	-1	9	_	CP	_	_
-17_2	man	_	man	_	PIS	_	nom|sg|*	-1	9	_	SB	_	_
-17_3	nun	_	nun	_	ADV	_	_	-1	9	_	MO	_	_
-17_4	solchen	_	solcher	_	PIS	_	dat|pl|fem	-1	6	_	NK	_	_
-17_5	eiteln	_	eiteln	_	VVINF	_	pl|3|pres|ind	-1	6	_	NK	_	_
-17_6	Leuten	_	Leute	_	NN	_	dat|pl|*	-1	8	_	OA	_	_
-17_7	nicht	_	nicht	_	PTKNEG	_	_	-1	9	_	NG	_	_
-17_8	schmeicheln	_	schmeicheln	_	VVINF	_	_	-1	9	_	OC	_	_
-17_9	soll	_	sollen	_	VMFIN	_	sg|3|pres|ind	-1	11	_	RE	_	_
-17_10	,	_	--	_	$,	_	_	-1	9	_	--	_	_
-17_11	so	_	so	_	ADV	_	_	-1	12	_	MO	_	_
-17_12	hat	_	haben	_	VAFIN	_	sg|3|pres|ind	-1	0	_	--	_	_
-17_13	doch	_	doch	_	ADV	_	_	-1	12	_	MO	_	_
-17_14	auch	_	auch	_	ADV	_	_	-1	17	_	MO	_	_
-17_15	nicht	_	nicht	_	PTKNEG	_	_	-1	17	_	NG	_	_
-17_16	jeder	_	jeder	_	PIAT	_	nom|sg|masc	-1	17	_	NK	_	_
-17_17	Beruf	_	Beruf	_	NN	_	acc|sg|masc	-1	12	_	OA	_	_
-17_18	,	_	--	_	$,	_	_	-1	17	_	--	_	_
-17_19	sie	_	sie	_	PPER	_	acc|pl|fem|3	-1	21	_	OA	_	_
-17_20	zu	_	zu	_	PTKZU	_	_	-1	21	_	PM	_	_
-17_21	bessern	_	bessern	_	VVINF	_	_	-1	12	_	OC	_	_
-17_22	,	_	--	_	$,	_	_	-1	21	_	--	_	_
-17_23	zum	_	zu	_	APPRART	_	dat|sg|masc	-1	28	_	MO	_	_
-17_24	Pädagogen	_	Pädagogen	_	NN	_	dat|sg|masc	-1	23	_	NK	_	_
-17_25	an	_	an	_	APPR	_	_	-1	24	_	MNR	_	_
-17_26	ihnen	_	ihnen	_	PPER	_	dat|pl|*|3	-1	25	_	NK	_	_
-17_27	zu	_	zu	_	PTKZU	_	_	-1	28	_	PM	_	_
-17_28	werden	_	werden	_	VAINF	_	_	-1	11	_	RE	_	_
-17_29	,	_	--	_	$,	_	_	-1	28	_	--	_	_
-17_30	besonders	_	besonders	_	ADV	_	_	-1	31	_	MO	_	_
-17_31	nicht	_	nicht	_	PTKNEG	_	_	-1	34	_	NG	_	_
-17_32	an	_	an	_	APPR	_	_	-1	23	_	CJ	_	_
-17_33	solchen	_	solcher	_	PIAT	_	dat|pl|masc	-1	34	_	NK	_	_
-17_34	Menschen	_	Mensch	_	NN	_	dat|pl|masc	-1	32	_	NK	_	_
-17_35	,	_	--	_	$,	_	_	-1	34	_	--	_	_
-17_36	die	_	der	_	PRELS	_	nom|pl|masc	-1	43	_	SB	_	_
-17_37	mit	_	mit	_	APPR	_	_	-1	43	_	MO	_	_
-17_38	ihm	_	ihm	_	PPER	_	dat|sg|masc|3	-1	37	_	NK	_	_
-17_39	in	_	in	_	APPR	_	_	-1	43	_	CVC	_	_
-17_40	gar	_	gar	_	ADV	_	_	-1	41	_	MO	_	_
-17_41	keiner	_	kein	_	PIAT	_	dat|sg|fem	-1	42	_	NK	_	_
-17_42	Verbindung	_	Verbindung	_	NN	_	dat|sg|fem	-1	39	_	NK	_	_
-17_43	stehen	_	stehen	_	VVFIN	_	pl|3|pres|ind	-1	34	_	RC	_	_
-17_44	,	_	--	_	$,	_	_	-1	43	_	--	_	_
-17_45	ihnen	_	ihnen	_	PPER	_	dat|pl|masc|3	-1	51	_	DA	_	_
-17_46	auf	_	auf	_	APPR	_	_	-1	51	_	MO	_	_
-17_47	ungeschliffene	_	ungeschliffen	_	ADJA	_	acc|sg|fem|pos	-1	48	_	NK	_	_
-17_48	Art	_	Art	_	NN	_	acc|sg|fem	-1	46	_	NK	_	_
-17_49	den	_	der	_	ART	_	acc|sg|masc	-1	50	_	NK	_	_
-17_50	Text	_	Text	_	NN	_	acc|sg|masc	-1	51	_	OA	_	_
-17_51	lesen	_	lesen	_	VVINF	_	_	-1	28	_	CJ	_	_
-17_52	,	_	--	_	$,	_	_	-1	51	_	--	_	_
-17_53	sie	_	sie	_	PPER	_	acc|pl|fem|3	-1	55	_	OA	_	_
-17_54	zu	_	zu	_	PTKZU	_	_	-1	55	_	PM	_	_
-17_55	demütigen	_	demütigen	_	VVINF	_	_	-1	51	_	CJ	_	_
-17_56	oder	_	oder	_	KON	_	_	-1	55	_	CD	_	_
-17_57	weniger	_	weniger	_	PIAT	_	*|*|*	-1	58	_	NK	_	_
-17_58	Höflichkeit	_	Höflichkeit	_	NN	_	nom|sg|fem	-1	64	_	OA	_	_
-17_59	und	_	und	_	KON	_	_	-1	58	_	CD	_	_
-17_60	Gefälligkeit	_	Gefälligkeit	_	NN	_	acc|sg|fem	-1	59	_	CJ	_	_
-17_61	gegen	_	gegen	_	APPR	_	_	-1	64	_	MO	_	_
-17_62	sie	_	sie	_	PPER	_	acc|pl|*|3	-1	61	_	NK	_	_
-17_63	zu	_	zu	_	PTKZU	_	_	-1	64	_	PM	_	_
-17_64	üben	_	üben	_	VVINF	_	_	-1	56	_	CJ	_	_
-17_65	,	_	--	_	$,	_	_	-1	64	_	--	_	_
-17_66	als	_	als	_	KOUS	_	_	-1	71	_	CM	_	_
-17_67	man	_	man	_	PIS	_	nom|sg|*	-1	71	_	SB	_	_
-17_68	jedem	_	jeder	_	PIAT	_	dat|sg|*	-1	69	_	NK	_	_
-17_69	andern	_	anderer	_	PIS	_	nom|pl|*	-1	71	_	SB	_	_
-17_70	widmen	_	widmen	_	VVINF	_	_	-1	71	_	OC	_	_
-17_71	würde	_	werden	_	VAFIN	_	sg|3|past|subj	-1	57	_	CC	_	_
-17_72	,	_	--	_	$,	_	_	-1	71	_	--	_	_
-17_73	und	_	und	_	KON	_	_	-1	71	_	CD	_	_
-17_74	es	_	es	_	PPER	_	nom|sg|neut|3	-1	75	_	SB	_	_
-17_75	ist	_	sein	_	VAFIN	_	sg|3|pres|ind	-1	73	_	CJ	_	_
-17_76	unbillig	_	unbillig	_	ADJD	_	pos	-1	75	_	PD	_	_
-17_77	,	_	--	_	$,	_	_	-1	76	_	--	_	_
-17_78	wenn	_	wenn	_	KOUS	_	_	-1	91	_	CP	_	_
-17_79	diejenigen	_	derjenige	_	PDS	_	nom|pl|*	-1	91	_	SB	_	_
-17_80	,	_	--	_	$,	_	_	-1	79	_	--	_	_
-17_81	welche	_	welcher	_	PRELS	_	nom|pl|*	-1	86	_	SB	_	_
-17_82	täglich	_	täglich	_	ADJD	_	pos	-1	85	_	MO	_	_
-17_83	mit	_	mit	_	APPR	_	_	-1	85	_	MO	_	_
-17_84	ihnen	_	ihnen	_	PPER	_	dat|pl|*|3	-1	83	_	NK	_	_
-17_85	leben	_	leben	_	VVINF	_	_	-1	86	_	OC	_	_
-17_86	müssen	_	müssen	_	VMFIN	_	pl|3|pres|ind	-1	79	_	RC	_	_
-17_87	,	_	--	_	$,	_	_	-1	86	_	--	_	_
-17_88	dies	_	dieser	_	PDS	_	nom|sg|neut	-1	91	_	OA	_	_
-17_89	von	_	von	_	APPR	_	_	-1	91	_	MO	_	_
-17_90	uns	_	uns	_	PPER	_	dat|pl|*|1	-1	89	_	NK	_	_
-17_91	verlangen	_	verlangen	_	VVINF	_	_	-1	74	_	RE	_	_
-17_92	,	_	--	_	$,	_	_	-1	91	_	--	_	_
-17_93	wenn	_	wenn	_	KOUS	_	_	-1	95	_	CP	_	_
-17_94	sie	_	sie	_	PPER	_	nom|pl|masc|3	-1	95	_	SB	_	_
-17_95	fordern	_	fordern	_	VVFIN	_	pl|3|pres|ind	-1	86	_	MO	_	_
-17_96	,	_	--	_	$,	_	_	-1	95	_	--	_	_
-17_97	daß	_	daß	_	KOUS	_	_	-1	102	_	CP	_	_
-17_98	wir	_	wir	_	PPER	_	nom|pl|*|1	-1	102	_	SB	_	_
-17_99	mit	_	mit	_	APPR	_	_	-1	101	_	MO	_	_
-17_100	Hand	_	Hand	_	NN	_	dat|sg|fem	-1	99	_	NK	_	_
-17_101	anlegen	_	anlegen	_	VVINF	_	_	-1	102	_	OC	_	_
-17_102	sollen	_	sollen	_	VMFIN	_	pl|3|pres|ind	-1	95	_	OC	_	_
-17_103	,	_	--	_	$,	_	_	-1	102	_	--	_	_
-17_104	ihre	_	ihr	_	PPOSAT	_	acc|pl|masc	-1	106	_	NK	_	_
-17_105	verzogenen	_	verzogen	_	ADJA	_	acc|pl|masc|pos	-1	106	_	NK	_	_
-17_106	Freunde	_	Freund	_	NN	_	acc|pl|masc	-1	107	_	OA	_	_
-17_107	umzubilden	_	umbilden	_	VVIZU	_	_	-1	91	_	OC	_	_
-17_108	.	_	--	_	$.	_	_	-1	107	_	--	_	_
-
-18_1	Dabei	_	dabei	_	PROAV	_	_	-1	2	_	MO	_	_
-18_2	verlangen	_	verlangen	_	VVFIN	_	pl|3|pres|ind	-1	0	_	--	_	_
-18_3	die	_	der	_	ART	_	acc|sg|fem	-1	4	_	NK	_	_
-18_4	Ermittlung	_	Ermittlung	_	NN	_	acc|sg|fem	-1	2	_	OA	_	_
-18_5	der	_	der	_	ART	_	gen|pl|neut	-1	6	_	NK	_	_
-18_6	Daten	_	Datum	_	NN	_	gen|pl|neut	-1	4	_	AG	_	_
-18_7	und	_	und	_	KON	_	_	-1	4	_	CD	_	_
-18_8	die	_	der	_	ART	_	acc|sg|fem	-1	9	_	NK	_	_
-18_9	Überprüfung	_	Überprüfung	_	NN	_	acc|sg|fem	-1	7	_	CJ	_	_
-18_10	ihrer	_	ihr	_	PPOSAT	_	gen|sg|fem	-1	11	_	NK	_	_
-18_11	Richtigkeit	_	Richtigkeit	_	NN	_	gen|sg|fem	-1	9	_	AG	_	_
-18_12	im	_	in	_	APPRART	_	dat|sg|masc	-1	11	_	MNR	_	_
-18_13	Zeitpunkt	_	Zeitpunkt	_	NN	_	dat|sg|masc	-1	12	_	NK	_	_
-18_14	der	_	der	_	ART	_	gen|sg|fem	-1	15	_	NK	_	_
-18_15	Erstellung	_	Erstellung	_	NN	_	gen|sg|fem	-1	13	_	AG	_	_
-18_16	der	_	der	_	ART	_	gen|sg|fem	-1	17	_	NK	_	_
-18_17	Datenbank	_	Datenbank	_	NN	_	gen|sg|fem	-1	15	_	AG	_	_
-18_18	von	_	von	_	APPR	_	_	-1	15	_	MNR	_	_
-18_19	der	_	der	_	ART	_	dat|sg|fem	-1	20	_	NK	_	_
-18_20	Person	_	Person	_	NN	_	dat|sg|fem	-1	18	_	NK	_	_
-18_21	,	_	--	_	$,	_	_	-1	20	_	--	_	_
-18_22	die	_	der	_	PRELS	_	nom|sg|fem	-1	25	_	SB	_	_
-18_23	die	_	der	_	ART	_	nom|sg|fem	-1	24	_	NK	_	_
-18_24	Datenbank	_	Datenbank	_	NN	_	nom|sg|fem	-1	25	_	SB	_	_
-18_25	erstellt	_	erstellen	_	VVFIN	_	sg|3|pres|ind	-1	20	_	RC	_	_
-18_26	,	_	--	_	$,	_	_	-1	25	_	--	_	_
-18_27	zwar	_	zwar	_	ADV	_	_	-1	35	_	MO	_	_
-18_28	grundsätzlich	_	grundsätzlich	_	ADJD	_	pos	-1	46	_	MO	_	_
-18_29	nicht	_	nicht	_	PTKNEG	_	_	-1	35	_	NG	_	_
-18_30	,	_	--	_	$,	_	_	-1	29	_	--	_	_
-18_31	dass	_	dass	_	KOUS	_	_	-1	35	_	CP	_	_
-18_32	sie	_	sie	_	PPER	_	nom|pl|fem|3	-1	35	_	SB	_	_
-18_33	besondere	_	besonderer	_	ADJA	_	nom|pl|neut|comp	-1	34	_	NK	_	_
-18_34	Mittel	_	Mittel	_	NN	_	acc|pl|neut	-1	35	_	OA	_	_
-18_35	einsetzt	_	einsetzen	_	VVFIN	_	sg|3|pres|ind	-1	25	_	CJ	_	_
-18_36	,	_	--	_	$,	_	_	-1	35	_	--	_	_
-18_37	da	_	da	_	KOUS	_	_	-1	42	_	CP	_	_
-18_38	es	_	es	_	PPER	_	nom|sg|neut|3	-1	42	_	EP	_	_
-18_39	sich	_	sich	_	PRF	_	acc|sg|3	-1	42	_	OA	_	_
-18_40	um	_	um	_	APPR	_	_	-1	42	_	OP	_	_
-18_41	Daten	_	Datum	_	NN	_	acc|pl|neut	-1	40	_	NK	_	_
-18_42	handelt	_	handeln	_	VVFIN	_	sg|3|pres|ind	-1	35	_	MO	_	_
-18_43	,	_	--	_	$,	_	_	-1	42	_	--	_	_
-18_44	die	_	der	_	PRELS	_	acc|pl|neut	-1	20	_	APP	_	_
-18_45	sie	_	sie	_	PPER	_	nom|sg|fem|3	-1	47	_	SB	_	_
-18_46	erzeugt	_	erzeugen	_	VVPP	_	_	-1	47	_	OC	_	_
-18_47	hat	_	haben	_	VAFIN	_	sg|3|pres|ind	-1	44	_	RC	_	_
-18_48	und	_	und	_	KON	_	_	-1	47	_	CD	_	_
-18_49	die	_	der	_	PRELS	_	nom|sg|fem	-1	53	_	SB	_	_
-18_50	ihr	_	ihr	_	PPER	_	dat|sg|fem|3	-1	53	_	DA	_	_
-18_51	zur	_	zu	_	APPRART	_	dat|sg|fem	-1	53	_	CVC	_	_
-18_52	Verfügung	_	Verfügung	_	NN	_	dat|sg|fem	-1	51	_	NK	_	_
-18_53	stehen	_	stehen	_	VVFIN	_	_	-1	48	_	CJ	_	_
-18_54	,	_	--	_	$,	_	_	-1	53	_	--	_	_
-18_55	die	_	der	_	ART	_	acc|sg|fem	-1	56	_	NK	_	_
-18_56	Zusammenstellung	_	Zusammenstellung	_	NN	_	acc|sg|fem	-1	44	_	APP	_	_
-18_57	dieser	_	dieser	_	PDAT	_	gen|pl|neut	-1	58	_	NK	_	_
-18_58	Daten	_	Datum	_	NN	_	gen|pl|neut	-1	56	_	AG	_	_
-18_59	,	_	--	_	$,	_	_	-1	58	_	--	_	_
-18_60	ihre	_	ihr	_	PPOSAT	_	acc|sg|fem	-1	64	_	NK	_	_
-18_61	systematische	_	systematisch	_	ADJA	_	acc|sg|fem|pos	-1	64	_	NK	_	_
-18_62	oder	_	oder	_	KON	_	_	-1	61	_	CD	_	_
-18_63	methodische	_	methodisch	_	ADJA	_	acc|sg|fem|pos	-1	62	_	CJ	_	_
-18_64	Anordnung	_	Anordnung	_	NN	_	acc|sg|fem	-1	56	_	CJ	_	_
-18_65	innerhalb	_	innerhalb	_	APPR	_	_	-1	64	_	MNR	_	_
-18_66	der	_	der	_	ART	_	gen|sg|fem	-1	67	_	NK	_	_
-18_67	Datenbank	_	Datenbank	_	NN	_	gen|sg|fem	-1	65	_	NK	_	_
-18_68	,	_	--	_	$,	_	_	-1	67	_	--	_	_
-18_69	die	_	der	_	ART	_	nom|sg|fem	-1	70	_	NK	_	_
-18_70	Organisation	_	Organisation	_	NN	_	nom|sg|fem	-1	64	_	CJ	_	_
-18_71	ihrer	_	ihr	_	PPOSAT	_	gen|sg|fem	-1	73	_	NK	_	_
-18_72	individuellen	_	individuell	_	ADJA	_	gen|sg|fem|pos	-1	73	_	NK	_	_
-18_73	Zugänglichkeit	_	Zugänglichkeit	_	NN	_	gen|sg|fem	-1	70	_	AG	_	_
-18_74	und	_	und	_	KON	_	_	-1	70	_	CD	_	_
-18_75	die	_	der	_	ART	_	nom|sg|fem	-1	76	_	NK	_	_
-18_76	Überprüfung	_	Überprüfung	_	NN	_	nom|sg|fem	-1	74	_	CJ	_	_
-18_77	ihrer	_	ihr	_	PPOSAT	_	gen|sg|fem	-1	78	_	NK	_	_
-18_78	Richtigkeit	_	Richtigkeit	_	NN	_	gen|sg|fem	-1	76	_	AG	_	_
-18_79	während	_	während	_	APPR	_	_	-1	76	_	MNR	_	_
-18_80	des	_	der	_	ART	_	gen|sg|masc	-1	82	_	NK	_	_
-18_81	gesamten	_	gesamt	_	ADJA	_	gen|sg|masc|pos	-1	82	_	NK	_	_
-18_82	Zeitraums	_	Zeitraum	_	NN	_	gen|sg|masc	-1	79	_	NK	_	_
-18_83	des	_	der	_	ART	_	gen|sg|masc	-1	84	_	NK	_	_
-18_84	Betriebs	_	Betrieb	_	NN	_	gen|sg|masc	-1	82	_	AG	_	_
-18_85	der	_	der	_	ART	_	gen|sg|fem	-1	86	_	NK	_	_
-18_86	Datenbank	_	Datenbank	_	NN	_	gen|sg|fem	-1	84	_	AG	_	_
-18_87	können	_	können	_	VMFIN	_	pl|3|pres|ind	-1	84	_	CJ	_	_
-18_88	aber	_	aber	_	ADV	_	_	-1	87	_	MO	_	_
-18_89	eine	_	ein	_	ART	_	nom|sg|fem	-1	98	_	NK	_	_
-18_90	in	_	in	_	APPR	_	_	-1	97	_	MO	_	_
-18_91	quantitativer	_	quantitativ	_	ADJA	_	dat|sg|fem|pos	-1	96	_	NK	_	_
-18_92	und	_	und	_	KON	_	_	-1	94	_	CD	_	_
-18_93	/	_	--	_	$(	_	_	-1	92	_	--	_	_
-18_94	oder	_	oder	_	KON	_	_	-1	91	_	CD	_	_
-18_95	qualitativer	_	qualitativ	_	ADJA	_	dat|sg|fem|pos	-1	94	_	CJ	_	_
-18_96	Hinsicht	_	Hinsicht	_	NN	_	dat|sg|fem	-1	90	_	NK	_	_
-18_97	wesentliche	_	wesentlich	_	ADJA	_	acc|sg|fem|pos	-1	98	_	NK	_	_
-18_98	Investition	_	Investition	_	NN	_	nom|sg|fem	-1	108	_	OA	_	_
-18_99	im	_	in	_	APPRART	_	dat|sg|masc	-1	98	_	MNR	_	_
-18_100	Sinne	_	Sinn	_	NN	_	dat|sg|masc	-1	99	_	NK	_	_
-18_101	von	_	von	_	APPR	_	_	-1	100	_	PG	_	_
-18_102	Artikel	_	Artikel	_	NN	_	dat|sg|masc	-1	101	_	NK	_	_
-18_103	7	_	7	_	CARD	_	_	-1	102	_	NK	_	_
-18_104	Absatz	_	Absatz	_	NN	_	dat|sg|masc	-1	102	_	NK	_	_
-18_105	1	_	1	_	CARD	_	_	-1	102	_	NK	_	_
-18_106	der	_	der	_	ART	_	gen|sg|fem	-1	107	_	NK	_	_
-18_107	Richtlinie	_	Richtlinie	_	NN	_	gen|sg|fem	-1	102	_	AG	_	_
-18_108	erfordern	_	erfordern	_	VVINF	_	_	-1	87	_	OC	_	_
-18_109	.	_	--	_	$.	_	_	-1	108	_	--	_	_
+1_1	Sie	sie	PPER	PPER	nom|pl|*|3	2	SB
+1_2	dürfen	dürfen	VMFIN	VMFIN	pl|3|pres|ind	0	--
+1_3	eine	ein	ART	ART	acc|sg|fem	4	NK
+1_4	Kopie	Kopie	NN	NN	acc|sg|fem	12	OA
+1_5	der	der	ART	ART	gen|sg|fem	6	NK
+1_6	Software	Software	NN	NN	gen|sg|fem	4	AG
+1_7	auf	auf	APPR	APPR	_	4	MNR
+1_8	dem	der	ART	ART	dat|sg|masc	9	NK
+1_9	Dateiserver	Dateiserver	NN	NN	dat|sg|masc	7	NK
+1_10	Ihres	ihr	PPOSAT	PPOSAT	gen|sg|masc	11	NK
+1_11	Computers	Computer	NN	NN	gen|sg|masc	9	AG
+1_12	installieren	installieren	VVINF	VVINF	_	2	OC
+1_13	,	--	$,	$,	_	12	--
+1_14	um	um	KOUI	KOUI	_	33	CP
+1_15	die	der	ART	ART	acc|sg|fem	16	NK
+1_16	Software	Software	NN	NN	acc|sg|fem	27	OA
+1_17	auf	auf	APPR	APPR	_	16	MNR
+1_18	andere	anderer	ADJA	ADJA	acc|pl|masc|pos	19	NK
+1_19	Computer	Computer	NN	NN	acc|pl|masc	17	NK
+1_20	Ihres	ihr	PPOSAT	PPOSAT	gen|sg|neut	22	NK
+1_21	internen	intern	ADJA	ADJA	gen|sg|neut|pos	22	NK
+1_22	Netzwerks	Netzwerk	NN	NN	gen|sg|neut	19	AG
+1_23	bis	bis	APPR	APPR	_	24	AC
+1_24	zur	zu	APPRART	APPRART	dat|sg|fem	27	MO
+1_25	zulässigen	zulässig	ADJA	ADJA	dat|sg|fem|pos	26	NK
+1_26	Anzahl	Anzahl	NN	NN	dat|sg|fem	24	NK
+1_27	herunterzuladen	herunterzuladen	VVPP	VVPP	_	33	OC
+1_28	und	und	KON	KON	_	27	CD
+1_29	auf	auf	APPR	APPR	_	31	MO
+1_30	ihnen	ihnen	PPER	PPER	dat|pl|*|3	29	NK
+1_31	installieren	installieren	VVINF	VVINF	_	28	CJ
+1_32	zu	zu	PTKZU	PTKZU	_	33	PM
+1_33	können	können	VMINF	VMINF	_	12	MO
+1_34	und	und	KON	KON	_	33	CD
+1_35	Sie	sie	PPER	PPER	nom|pl|*|3	36	SB
+1_36	dürfen	dürfen	VMFIN	VMFIN	pl|3|pres|ind	34	CJ
+1_37	eine	ein	ART	ART	acc|sg|fem	38	NK
+1_38	Kopie	Kopie	NN	NN	acc|sg|fem	53	OA
+1_39	der	der	ART	ART	gen|sg|fem	40	NK
+1_40	Software	Software	NN	NN	gen|sg|fem	38	AG
+1_41	auf	auf	APPR	APPR	_	38	MNR
+1_42	dem	der	ART	ART	dat|sg|masc	43	NK
+1_43	Dateiserver	Dateiserver	NN	NN	dat|sg|masc	41	NK
+1_44	eines	ein	ART	ART	gen|sg|masc	45	NK
+1_45	Computers	Computer	NN	NN	gen|sg|masc	43	AG
+1_46	innerhalb	innerhalb	APPR	APPR	_	43	MNR
+1_47	Ihres	ihr	PPOSAT	PPOSAT	gen|sg|neut	48	NK
+1_48	Netzwerks	Netzwerk	NN	NN	gen|sg|neut	46	NK
+1_49	nur	nur	ADV	ADV	_	50	MO
+1_50	zu	zu	APPR	APPR	_	53	MO
+1_51	dem	der	ART	ART	dat|sg|masc	52	NK
+1_52	Zweck	Zweck	NN	NN	dat|sg|masc	50	NK
+1_53	installieren	installieren	VVINF	VVINF	_	36	OC
+1_54	,	--	$,	$,	_	53	--
+1_55	um	um	KOUI	KOUI	_	77	CP
+1_56	die	der	ART	ART	acc|sg|fem	57	NK
+1_57	Software	Software	NN	NN	acc|sg|fem	77	OA
+1_58	mittels	mittels	APPR	APPR	_	57	MNR
+1_59	Befehlen	Befehlen	NN	NN	dat|pl|masc	58	NK
+1_60	,	--	$,	$,	_	59	--
+1_61	Daten	Datum	NN	NN	dat|pl|neut	59	CJ
+1_62	oder	oder	KON	KON	_	61	CD
+1_63	Anweisungen	Anweisung	NN	NN	dat|pl|fem	62	CJ
+1_64	(	--	$(	$(	_	63	--
+1_65	z.	z.	APPRART	APPRART	dat|sg|neut	67	MO
+1_66	B.	B.	NN	NN	dat|sg|neut	65	NK
+1_67	Skripten	Skript	NN	NN	nom|pl|masc	63	PAR
+1_68	)	--	$(	$(	_	67	--
+1_69	von	von	APPR	APPR	_	77	MO
+1_70	anderen	anderer	ADJA	ADJA	dat|pl|masc|pos	71	NK
+1_71	Computern	Computer	NN	NN	dat|pl|masc	69	NK
+1_72	aus	aus	APPR	APPR	_	69	AC
+1_73	in	in	APPR	APPR	_	77	MO
+1_74	demselben	derselbe	PDAT	PDAT	dat|sg|neut	75	NK
+1_75	Netzwerk	Netzwerk	NN	NN	dat|sg|neut	73	NK
+1_76	zu	zu	PTKZU	PTKZU	_	77	PM
+1_77	verwenden	verwenden	VVINF	VVINF	_	33	MO
+1_78	,	--	$,	$,	_	77	--
+1_79	unter	unter	APPR	APPR	_	69	CJ
+1_80	der	der	ART	ART	dat|sg|fem	81	NK
+1_81	Voraussetzung	Voraussetzung	NN	NN	dat|sg|fem	79	NK
+1_82	,	--	$,	$,	_	81	--
+1_83	dass	dass	KOUS	KOUS	_	112	CP
+1_84	die	der	ART	ART	nom|sg|fem	86	NK
+1_85	gesamte	gesamt	ADJA	ADJA	nom|sg|fem|pos	86	NK
+1_86	Anzahl	Anzahl	NN	NN	nom|sg|fem	112	SB
+1_87	der	der	ART	ART	gen|pl|masc	88	NK
+1_88	Benutzer	Benutzer	NN	NN	gen|pl|masc	86	AG
+1_89	(	--	$(	$(	_	88	--
+1_90	nicht	nicht	PTKNEG	PTKNEG	_	92	NG
+1_91	die	der	ART	ART	nom|sg|fem	92	NK
+1_92	Anzahl	Anzahl	NN	NN	nom|sg|fem	86	CJ
+1_93	der	der	ART	ART	gen|pl|masc	95	NK
+1_94	gleichzeitigen	gleichzeitig	ADJA	ADJA	gen|pl|masc|pos	95	NK
+1_95	Benutzer	Benutzer	NN	NN	gen|pl|masc	92	AG
+1_96	)	--	$(	$(	_	95	--
+1_97	,	--	$,	$,	_	96	--
+1_98	denen	der	PRELS	PRELS	dat|pl|masc	111	DA
+1_99	der	der	ART	ART	nom|sg|masc	100	NK
+1_100	Zugriff	Zugriff	NN	NN	nom|sg|masc	112	SB
+1_101	auf	auf	APPR	APPR	_	100	MNR
+1_102	die	der	ART	ART	acc|sg|fem	103	NK
+1_103	Software	Software	NN	NN	acc|sg|fem	101	NK
+1_104	des	der	ART	ART	gen|sg|masc	105	NK
+1_105	Dateiservers	Dateiserver	NN	NN	gen|sg|masc	103	AG
+1_106	oder	oder	KON	KON	_	100	CD
+1_107	die	der	ART	ART	nom|sg|fem	108	NK
+1_108	Verwendung	Verwendung	NN	NN	nom|sg|fem	106	CJ
+1_109	der	der	ART	ART	gen|sg|fem	110	NK
+1_110	Software	Software	NN	NN	gen|sg|fem	108	AG
+1_111	gestattet	gestatten	VVPP	VVPP	_	112	OC
+1_112	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	33	MO
+1_113	,	--	$,	$,	_	112	--
+1_114	die	der	ART	ART	acc|sg|fem	116	NK
+1_115	zulässige	zulässig	ADJA	ADJA	acc|sg|fem|pos	116	NK
+1_116	Anzahl	Anzahl	NN	NN	acc|sg|fem	118	OA
+1_117	nicht	nicht	PTKNEG	PTKNEG	_	118	NG
+1_118	überschreitet	überschreiten	VVPP	VVPP	_	33	MO
+1_119	.	--	$.	$.	_	118	--
+							
+2_1	Die	der	ART	ART	nom|pl|masc	2	NK
+2_2	Henker	Henker	NN	NN	nom|pl|masc	10	SB
+2_3	der	der	ART	ART	gen|sg|fem	4	NK
+2_4	Geschichte	Geschichte	NN	NN	gen|sg|fem	2	AG
+2_5	,	--	$,	$,	_	4	--
+2_6	die	der	ART	ART	nom|pl|masc	7	NK
+2_7	Abkömmlinge	Abkömmling	NN	NN	nom|pl|masc	2	APP
+2_8	Kains	Kain	NE	NE	gen|sg|*	7	AG
+2_9	,	--	$,	$,	_	8	--
+2_10	machten	machen	VVFIN	VVFIN	pl|3|past|ind	0	--
+2_11	sich	sich	PRF	PRF	acc|pl|3	10	OA
+2_12	über	über	APPR	APPR	_	10	MO
+2_13	die	der	ART	ART	acc|pl|neut	14	NK
+2_14	Kinder	Kind	NN	NN	acc|pl|neut	12	NK
+2_15	Adams	Adams	NE	NE	acc|pl|neut	14	NK
+2_16	her	her	PTKVZ	PTKVZ	_	10	SVP
+2_17	und	und	KON	KON	_	10	CD
+2_18	spalteten	spalten	VVFIN	VVFIN	pl|3|past|ind	17	CJ
+2_19	die	der	ART	ART	nom|pl|*	25	NK
+2_20	in	in	APPR	APPR	_	24	MO
+2_21	Einheit	Einheit	NN	NN	dat|sg|fem	20	NK
+2_22	und	und	KON	KON	_	21	CD
+2_23	Eintracht	Eintracht	NN	NN	dat|sg|fem	22	CJ
+2_24	lebenden	lebend	ADJA	ADJA	dat|pl|masc|pos	25	NK
+2_25	Menschen	Mensch	NN	NN	gen|pl|masc	18	OA
+2_26	in	in	APPR	APPR	_	25	MNR
+2_27	Herren	Herr	NN	NN	dat|pl|masc	26	NK
+2_28	und	und	KON	KON	_	27	CD
+2_29	Knechte	Knecht	NN	NN	acc|pl|neut	28	CJ
+2_30	,	--	$,	$,	_	29	--
+2_31	Herrscher	Herrscher	NN	NN	nom|pl|masc	29	CJ
+2_32	und	und	KON	KON	_	31	CD
+2_33	Beherrschte	Beherrscht	NN	NN	nom|pl|masc	32	CJ
+2_34	,	--	$,	$,	_	33	--
+2_35	Satte	Satte	NN	NN	nom|pl|masc	31	CJ
+2_36	und	und	KON	KON	_	35	CD
+2_37	Hungrige	hungrige	NN	NN	nom|pl|*	36	CJ
+2_38	,	--	$,	$,	_	37	--
+2_39	Reiche	Reiche	NN	NN	nom|pl|*	35	CJ
+2_40	und	und	KON	KON	_	39	CD
+2_41	Arme	Arm	NN	NN	nom|pl|masc	40	CJ
+2_42	,	--	$,	$,	_	41	--
+2_43	Meister	Meister	NN	NN	nom|pl|masc	39	CJ
+2_44	und	und	KON	KON	_	43	CD
+2_45	Diener	Diener	NN	NN	nom|pl|masc	44	CJ
+2_46	,	--	$,	$,	_	45	--
+2_47	Tyrannen	Tyranne	NN	NN	dat|pl|fem	43	CJ
+2_48	und	und	KON	KON	_	47	CD
+2_49	Unterdrückte	Unterdrückte	NN	NN	acc|pl|*	48	CJ
+2_50	,	--	$,	$,	_	49	--
+2_51	Kolonialherren	Kolonialherr	NN	NN	dat|pl|fem	47	CJ
+2_52	und	und	KON	KON	_	51	CD
+2_53	Kolonisierte	Kolonisiert	NN	NN	dat|pl|fem	52	CJ
+2_54	,	--	$,	$,	_	53	--
+2_55	Ausbeuter	Ausbeuter	NN	NN	dat|sg|masc	51	CJ
+2_56	und	und	KON	KON	_	55	CD
+2_57	Ausgebeutete	ausgebeuteter	NN	NN	acc|pl|*	56	CJ
+2_58	,	--	$,	$,	_	57	--
+2_59	Betrüger	Betrüger	NN	NN	dat|sg|masc	55	CJ
+2_60	und	und	KON	KON	_	59	CD
+2_61	Betrogene	betrogener	NN	NN	dat|sg|fem	60	CJ
+2_62	,	--	$,	$,	_	61	--
+2_63	Starke	Starke	NE	NE	dat|sg|fem	59	CJ
+2_64	und	und	KON	KON	_	63	CD
+2_65	Schwache	Schwache	NN	NN	dat|sg|fem	64	CJ
+2_66	,	--	$,	$,	_	65	--
+2_67	Verführer	Verführer	NN	NN	dat|sg|masc	59	CJ
+2_68	und	und	KON	KON	_	67	CD
+2_69	Verführte	Verführte	NN	NN	acc|pl|*	68	CJ
+2_70	,	--	$,	$,	_	69	--
+2_71	Besitzer	Besitzer	NN	NN	acc|pl|masc	69	CJ
+2_72	und	und	KON	KON	_	71	CD
+2_73	Besitzlose	besitzlose	NN	NN	acc|pl|*	72	CJ
+2_74	,	--	$,	$,	_	73	--
+2_75	Adelige	adelige	NN	NN	nom|pl|*	73	CJ
+2_76	und	und	KON	KON	_	75	CD
+2_77	Bürgerliche	Bürgerliche	NN	NN	nom|pl|masc	76	CJ
+2_78	,	--	$,	$,	_	77	--
+2_79	Geistliche	geistliche	NN	NN	nom|pl|masc	75	CJ
+2_80	und	und	KON	KON	_	79	CD
+2_81	Weltliche	weltliche	NN	NN	nom|pl|masc	80	CJ
+2_82	,	--	$,	$,	_	81	--
+2_83	Auserwählte	auserwählte	NN	NN	nom|pl|masc	79	CJ
+2_84	und	und	KON	KON	_	83	CD
+2_85	Gemeine	Gemein	NN	NN	nom|pl|masc	84	CJ
+2_86	,	--	$,	$,	_	85	--
+2_87	Freie	freie	NN	NN	nom|pl|*	83	CJ
+2_88	und	und	KON	KON	_	87	CD
+2_89	Unfreie	unfreie	NN	NN	dat|sg|fem	88	CJ
+2_90	,	--	$,	$,	_	89	--
+2_91	Arbeitgeber	Arbeitgeber	NN	NN	nom|pl|masc	87	CJ
+2_92	und	und	KON	KON	_	91	CD
+2_93	Arbeitnehmer	Arbeitnehmer	NN	NN	nom|pl|masc	92	CJ
+2_94	,	--	$,	$,	_	93	--
+2_95	Glückliche	glückliche	NN	NN	nom|pl|masc	91	CJ
+2_96	und	und	KON	KON	_	95	CD
+2_97	Unglückliche	unglücklich	NN	NN	acc|pl|*	96	CJ
+2_98	,	--	$,	$,	_	97	--
+2_99	Weiße	weiße	NN	NN	acc|pl|*	87	CJ
+2_100	und	und	KON	KON	_	99	CD
+2_101	Schwarze	schwarze	NN	NN	acc|pl|*	100	CJ
+2_102	,	--	$,	$,	_	101	--
+2_103	Westliche	westliche	NN	NN	nom|pl|masc	99	CJ
+2_104	und	und	KON	KON	_	103	CD
+2_105	Östliche	östliche	NN	NN	nom|pl|masc	104	CJ
+2_106	,	--	$,	$,	_	105	--
+2_107	Zivilisierte	zivilisierte	NN	NN	nom|pl|masc	103	CJ
+2_108	und	und	KON	KON	_	107	CD
+2_109	Unzivilisierte	unzivilisierte	NN	NN	nom|pl|masc	108	CJ
+2_110	,	--	$,	$,	_	109	--
+2_111	Araber	Araber	NN	NN	nom|pl|masc	107	CJ
+2_112	und	und	KON	KON	_	111	CD
+2_113	Nicht-Araber	Nicht-Araber	NN	NN	nom|pl|masc	112	CJ
+2_114	.	--	$.	$.	_	113	--
+							
+3_1	Wenn	wenn	KOUS	KOUS	_	5	CP
+3_2	ich	ich	PPER	PPER	nom|sg|*|1	5	SB
+3_3	dir	dir	PPER	PPER	dat|sg|*|2	5	DA
+3_4	jetzt	jetzt	ADV	ADV	_	5	MO
+3_5	vorschlüge	vorschlug	VVFIN	VVFIN	sg|1|pres|ind	25	MO
+3_6	,	--	$,	$,	_	5	--
+3_7	dich	dich	PRF	PRF	acc|sg|*|2	14	OA
+3_8	in	in	APPR	APPR	_	14	MO
+3_9	die	der	ART	ART	acc|sg|fem	10	NK
+3_10	Zwangsjacke	Zwangsjack	NN	NN	acc|sg|fem	8	NK
+3_11	Ewigen	ewig	NN	NN	*|pl|fem	14	OA
+3_12	Glücks	Glück	NN	NN	gen|sg|neut	11	AG
+3_13	zu	zu	PTKZU	PTKZU	_	14	PM
+3_14	stecken	stecken	VVINF	VVINF	_	5	OC
+3_15	,	--	$,	$,	_	14	--
+3_16	sagen	sagen	VVFIN	VVFIN	pl|1|pres|ind	0	--
+3_17	wir	wir	PPER	PPER	nom|pl|*|1	16	SB
+3_18	,	--	$,	$,	_	17	--
+3_19	ich	ich	PPER	PPER	nom|sg|*|1	20	SB
+3_20	würde	werden	VAFIN	VAFIN	sg|1|past|subj	16	OC
+3_21	dich	dich	PRF	PRF	acc|sg|*|2	25	OA
+3_22	in	in	APPR	APPR	_	25	MO
+3_23	meinen	mein	PPOSAT	PPOSAT	acc|sg|masc	24	NK
+3_24	Eksator	Eksator	NN	NN	acc|sg|masc	22	NK
+3_25	einsperren	einsperren	VVINF	VVINF	_	20	OC
+3_26	,	--	$,	$,	_	25	--
+3_27	damit	damit	KOUS	KOUS	_	41	CP
+3_28	du	du	PPER	PPER	nom|sg|*|2	41	SB
+3_29	dort	dort	ADV	ADV	_	41	MO
+3_30	die	der	ART	ART	acc|pl|fem	33	NK
+3_31	nächsten	nächster	ADJA	ADJA	acc|pl|fem|pos	33	NK
+3_32	einundzwanzig	einundzwanzig	CARD	CARD	_	33	NMC
+3_33	Milliarden	Milliarde	NN	NN	nom|pl|fem	40	OA
+3_34	Jahre	Jahr	NN	NN	acc|pl|neut	33	NK
+3_35	in	in	APPR	APPR	_	40	MO
+3_36	höchster	hoch	ADJA	ADJA	dat|sg|fem|sup	39	NK
+3_37	und	und	KON	KON	_	36	CD
+3_38	reinster	rein	ADJA	ADJA	dat|sg|fem|sup	37	CJ
+3_39	Glückseligkeit	Glückseligkeit	NN	NN	dat|sg|fem	35	NK
+3_40	verbringen	verbringen	VVINF	VVINF	_	41	OC
+3_41	könntest	könntest	VMFIN	VMFIN	sg|3|pres|ind	25	MO
+3_42	,	--	$,	$,	_	41	--
+3_43	statt	statt	KOUI	KOUI	_	50	CP
+3_44	dich	dich	PPER	PPER	acc|sg|*|2	50	OA
+3_45	in	in	APPR	APPR	_	50	MO
+3_46	dunkler	dunkel	ADJA	ADJA	dat|sg|fem|pos	47	NK
+3_47	Nacht	Nacht	NN	NN	dat|sg|fem	45	NK
+3_48	auf	auf	APPR	APPR	_	50	MO
+3_49	Friedhöfen	Friedhof	NN	NN	dat|pl|masc	48	NK
+3_50	herumzudrücken	herumzudrücken	VVINF	VVINF	_	41	MO
+3_51	,	--	$,	$,	_	50	--
+3_52	die	der	ART	ART	acc|sg|fem	53	NK
+3_53	Gebeine	Gebein	NN	NN	acc|sg|fem	61	OA
+3_54	deines	dein	PPOSAT	PPOSAT	gen|sg|masc	55	NK
+3_55	Professors	Professor	NN	NN	gen|sg|masc	53	AG
+3_56	in	in	APPR	APPR	_	61	MO
+3_57	ihrer	ihr	PPOSAT	PPOSAT	dat|sg|fem	59	NK
+3_58	ewigen	ewig	ADJA	ADJA	dat|sg|fem|pos	59	NK
+3_59	Ruhe	Ruhe	NN	NN	dat|sg|fem	56	NK
+3_60	zu	zu	PTKZU	PTKZU	_	61	PM
+3_61	stören	stören	VVINF	VVINF	_	50	CJ
+3_62	und	und	KON	KON	_	61	CD
+3_63	Informationen	Information	NN	NN	acc|pl|fem	67	OA
+3_64	aus	aus	APPR	APPR	_	67	MO
+3_65	Gräbern	Gräber	NN	NN	dat|pl|masc	64	NK
+3_66	zu	zu	PTKZU	PTKZU	_	67	PM
+3_67	stehlen	stehlen	VVINF	VVINF	_	62	CJ
+3_68	,	--	$,	$,	_	67	--
+3_69	wenn	wenn	KOUS	KOUS	_	77	CP
+3_70	du	du	PPER	PPER	nom|sg|*|2	77	SB
+3_71	zudem	zudem	PROAV	PROAV	_	76	MO
+3_72	die	der	ART	ART	acc|sg|fem	73	NK
+3_73	Suppe	Suppe	NN	NN	acc|sg|fem	76	OA
+3_74	nicht	nicht	PTKNEG	PTKNEG	_	76	NG
+3_75	mehr	mehr	ADV	ADV	_	74	MO
+3_76	auszulöffeln	auslöffeln	VVIZU	VVIZU	_	77	OC
+3_77	hättest	hättest	VAFIN	VAFIN	pl|3|past|subj	67	MO
+3_78	,	--	$,	$,	_	77	--
+3_79	die	der	PRELS	PRELS	nom|pl|*	82	OA
+3_80	du	du	PPER	PPER	nom|sg|*|2	83	SB
+3_81	dir	dir	PPER	PPER	dat|sg|*|2	82	DA
+3_82	eingebrockt	einbrocken	VVPP	VVPP	_	83	OC
+3_83	hast	haben	VAFIN	VAFIN	sg|2|pres|ind	73	RC
+3_84	,	--	$,	$,	_	83	--
+3_85	wenn	wenn	KOUS	KOUS	_	88	CP
+3_86	du	du	PPER	PPER	nom|pl|fem|3	88	SB
+3_87	frei	frei	ADJD	ADJD	pos	88	PD
+3_88	wärst	wärst	VAFIN	VAFIN	_	67	MO
+3_89	von	von	APPR	APPR	_	88	PG
+3_90	allen	aller	PIAT	PIAT	dat|pl|fem	92	NK
+3_91	künftigen	künftig	ADJA	ADJA	dat|pl|fem|pos	92	NK
+3_92	Aufgaben	Aufgabe	NN	NN	dat|pl|fem	89	NK
+3_93	,	--	$,	$,	_	92	--
+3_94	Sorgen	Sorge	NN	NN	acc|pl|fem	92	CJ
+3_95	,	--	$,	$,	_	94	--
+3_96	Problemen	Problem	NN	NN	dat|pl|neut	94	CJ
+3_97	und	und	KON	KON	_	96	CD
+3_98	Mühen	Mühe	NN	NN	dat|pl|fem	97	CJ
+3_99	,	--	$,	$,	_	98	--
+3_100	die	der	PRELS	PRELS	nom|pl|masc	104	SB
+3_101	unser	unser	PPOSAT	PPOSAT	nom|sg|neut	103	NK
+3_102	tägliches	täglich	ADJA	ADJA	acc|sg|neut|pos	103	NK
+3_103	Dasein	Dasein	NN	NN	acc|sg|neut	104	OA
+3_104	belasten	belasten	VVINF	VVINF	_	92	RC
+3_105	und	und	KON	KON	_	104	CD
+3_106	bedrücken	bedrücken	VVINF	VVINF	pl|3|pres|ind	105	CJ
+3_107	-	--	$(	$(	_	106	--
+3_108	wärst	wärst	VAFIN	VAFIN	sg|2|pres|ind	106	MO
+3_109	du	du	PPER	PPER	nom|sg|*|2	108	SB
+3_110	dann	dann	ADV	ADV	_	108	MO
+3_111	mit	mit	APPR	APPR	_	114	MO
+3_112	meinem	mein	PPOSAT	PPOSAT	dat|sg|masc	113	NK
+3_113	Vorschlag	Vorschlag	NN	NN	dat|sg|masc	111	NK
+3_114	einverstanden	einverstanden	ADJD	ADJD	pos	108	PD
+3_115	?	--	$.	$.	_	114	--
+							
+4_1	Neben	neben	APPR	APPR	_	10	MO
+4_2	diesen	dieser	PDAT	PDAT	dat|pl|fem	7	NK
+4_3	in	in	APPR	APPR	_	6	MO
+4_4	der	der	ART	ART	dat|sg|fem	5	NK
+4_5	Verfassung	Verfassung	NN	NN	dat|sg|fem	3	NK
+4_6	verankerten	verankert	ADJA	ADJA	gen|pl|fem|pos	7	NK
+4_7	Kompetenzen	Kompetenz	NN	NN	gen|pl|fem	1	NK
+4_8	und	und	KON	KON	_	7	CD
+4_9	Aufgaben	Aufgabe	NN	NN	gen|pl|fem	8	CJ
+4_10	übt	üben	VVFIN	VVFIN	sg|3|pres|ind	0	--
+4_11	der	der	ART	ART	nom|sg|masc	13	NK
+4_12	religiöse	religiös	ADJA	ADJA	nom|sg|masc|pos	13	NK
+4_13	Führer	Führer	NN	NN	nom|sg|masc	10	SB
+4_14	kraft	kraft	APPR	APPR	_	10	MO
+4_15	seiner	sein	PPOSAT	PPOSAT	dat|sg|fem	17	NK
+4_16	religiösen	religiös	ADJA	ADJA	dat|sg|fem|pos	17	NK
+4_17	Autorität	Autorität	NN	NN	dat|sg|fem	14	NK
+4_18	und	und	KON	KON	_	17	CD
+4_19	politischen	politisch	ADJA	ADJA	dat|sg|fem|pos	20	NK
+4_20	Macht	Macht	NN	NN	dat|sg|fem	18	CJ
+4_21	über	über	APPR	APPR	_	20	MNR
+4_22	sein	sein	PPOSAT	PPOSAT	acc|sg|neut	24	NK
+4_23	persönliches	persönlich	ADJA	ADJA	acc|sg|neut|pos	24	NK
+4_24	Büro	Büro	NN	NN	acc|sg|neut	21	NK
+4_25	bzw.	bzw.	KON	KON	_	21	CD
+4_26	durch	durch	APPR	APPR	_	25	CJ
+4_27	seine	sein	PPOSAT	PPOSAT	acc|pl|fem	29	NK
+4_28	persönlichen	persönlich	ADJA	ADJA	acc|pl|*|pos	29	NK
+4_29	Beauftragten	beauftragter	NN	NN	dat|pl|*	26	NK
+4_30	und	und	KON	KON	_	29	CD
+4_31	Vertrauten	Vertraute	NN	NN	dat|pl|masc	30	CJ
+4_32	in	in	APPR	APPR	_	29	MNR
+4_33	allen	aller	PIAT	PIAT	dat|pl|neut	35	NK
+4_34	gesellschaftlichen	gesellschaftlich	ADJA	ADJA	dat|pl|masc|pos	35	NK
+4_35	Bereichen	Bereich	NN	NN	dat|pl|masc	32	NK
+4_36	Einfluß	Einfluß	NN	NN	acc|sg|masc	10	OA
+4_37	aus	aus	PTKVZ	PTKVZ	_	10	SVP
+4_38	und	und	KON	KON	_	10	CD
+4_39	kontrolliert	kontrollieren	VVFIN	VVFIN	sg|3|pres|ind	38	CJ
+4_40	so	so	ADV	ADV	_	39	MO
+4_41	eine	ein	ART	ART	nom|sg|fem	42	NK
+4_42	Reihe	Reihe	NN	NN	nom|sg|fem	39	OA
+4_43	von	von	APPR	APPR	_	42	PG
+4_44	wichtigen	wichtig	ADJA	ADJA	dat|pl|fem|pos	50	NK
+4_45	staatlichen	staatlich	ADJA	ADJA	dat|pl|fem|pos	50	NK
+4_46	,	--	$,	$,	_	45	--
+4_47	halbstaatlichen	halbstaatlich	ADJA	ADJA	dat|pl|fem|pos	45	CJ
+4_48	und	und	KON	KON	_	47	CD
+4_49	nichtstaatlichen	nichtstaatlich	ADJA	ADJA	dat|pl|fem|pos	48	CJ
+4_50	Organisationen	Organisation	NN	NN	dat|pl|fem	43	NK
+4_51	und	und	KON	KON	_	50	CD
+4_52	Institutionen	Institution	NN	NN	dat|pl|fem	51	CJ
+4_53	,	--	$,	$,	_	52	--
+4_54	darunter	darunter	PROAV	PROAV	_	57	MO
+4_55	der	der	ART	ART	nom|sg|masc	57	NK
+4_56	hohe	hoch	ADJA	ADJA	nom|sg|masc|pos	57	NK
+4_57	Rat	Rat	NN	NN	nom|sg|masc	52	PAR
+4_58	der	der	ART	ART	gen|sg|fem	59	NK
+4_59	Kulturrevolution	Kulturrevolution	NN	NN	gen|sg|fem	57	AG
+4_60	,	--	$,	$,	_	59	--
+4_61	das	der	ART	ART	nom|sg|neut	62	NK
+4_62	Imam-Khomeini-Hilfskomitee	Imam-Khomeini-Hilfskomitee	NN	NN	acc|sg|neut	57	APP
+4_63	,	--	$,	$,	_	62	--
+4_64	die	der	ART	ART	acc|sg|fem	65	NK
+4_65	Stiftung	Stiftung	NN	NN	acc|sg|fem	62	CJ
+4_66	des	der	ART	ART	gen|sg|masc	68	NK
+4_67	15.	15.	ADJA	ADJA	gen|sg|masc|pos	68	NK
+4_68	Khordad	Khordad	NE	NE	gen|sg|masc	65	AG
+4_69	,	--	$,	$,	_	68	--
+4_70	die	der	ART	ART	nom|sg|fem	71	NK
+4_71	Märtyrerstiftung	Märtyrerstiftung	NN	NN	acc|sg|fem	65	CJ
+4_72	,	--	$,	$,	_	71	--
+4_73	die	der	ART	ART	nom|sg|fem	74	NK
+4_74	Entmachteten-Stiftung	Entmachteten-Stiftung	NE	NE	acc|sg|fem	71	CJ
+4_75	,	--	$,	$,	_	74	--
+4_76	die	der	ART	ART	nom|sg|fem	77	NK
+4_77	Wohnungsbaustiftung	Wohnungsbaustiftung	NN	NN	acc|sg|fem	74	CJ
+4_78	,	--	$,	$,	_	77	--
+4_79	die	der	ART	ART	nom|sg|fem	81	NK
+4_80	Islamische	islamisch	ADJA	ADJA	nom|sg|fem|pos	81	NK
+4_81	Propagandaorganisation	Propagandaorganisation	NN	NN	nom|sg|fem	77	CJ
+4_82	,	--	$,	$,	_	81	--
+4_83	die	der	ART	ART	nom|sg|fem	84	NK
+4_84	Kommission	Kommission	NN	NN	nom|sg|fem	81	CJ
+4_85	für	für	APPR	APPR	_	84	MNR
+4_86	Landverteilung	Landverteilung	NN	NN	acc|sg|fem	85	NK
+4_87	,	--	$,	$,	_	86	--
+4_88	das	der	ART	ART	nom|sg|neut	89	NK
+4_89	Zentralbüro	Zentralbüro	NN	NN	acc|sg|neut	84	CJ
+4_90	der	der	ART	ART	gen|pl|masc	91	NK
+4_91	Freitags-Imams	Freitags-Imam	NN	NN	gen|pl|masc	89	AG
+4_92	,	--	$,	$,	_	91	--
+4_93	die	der	PRELS	PRELS	nom|pl|masc	98	SB
+4_94	nach	nach	APPR	APPR	_	97	MO
+4_95	der	der	ART	ART	dat|sg|fem	96	NK
+4_96	Revolution	Revolution	NN	NN	dat|sg|fem	94	NK
+4_97	entstanden	entstehen	VVPP	VVPP	_	98	OC
+4_98	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	91	RC
+4_99	und	und	KON	KON	_	98	CD
+4_100	eine	ein	ART	ART	nom|sg|fem	103	NK
+4_101	nicht	nicht	PTKNEG	PTKNEG	_	102	NG
+4_102	unwesentliche	unwesentlich	ADJA	ADJA	acc|sg|fem|pos	103	NK
+4_103	Rolle	Rolle	NN	NN	acc|sg|fem	113	OA
+4_104	im	in	APPRART	APPRART	dat|sg|neut	103	MNR
+4_105	wirtschaftlichen	wirtschaftlich	ADJA	ADJA	dat|sg|neut|pos	110	NK
+4_106	,	--	$,	$,	_	105	--
+4_107	sozialen	sozial	ADJA	ADJA	nom|pl|fem|pos	105	CJ
+4_108	und	und	KON	KON	_	107	CD
+4_109	kulturellen	kulturell	ADJA	ADJA	nom|pl|fem|pos	108	CJ
+4_110	Leben	Leben	NN	NN	acc|sg|neut	104	NK
+4_111	des	der	ART	ART	gen|sg|neut	112	NK
+4_112	Landes	Land	NN	NN	gen|sg|neut	110	AG
+4_113	spielen	spielen	VVFIN	VVFIN	_	99	CJ
+4_114	.	--	$.	$.	_	113	--
+							
+5_1	Wir	wir	PPER	PPER	nom|pl|*|1	2	SB
+5_2	bekennen	bekennen	VVFIN	VVFIN	pl|1|pres|ind	0	--
+5_3	uns	uns	PPER	PPER	acc|pl|1	2	OA
+5_4	erneut	erneut	ADJD	ADJD	pos	2	MO
+5_5	dazu	dazu	PROAV	PROAV	_	2	OP
+5_6	,	--	$,	$,	_	5	--
+5_7	alle	aller	PIAT	PIAT	acc|pl|fem	8	NK
+5_8	Anstrengungen	Anstrengung	NN	NN	acc|pl|fem	10	OA
+5_9	zu	zu	PTKZU	PTKZU	_	10	PM
+5_10	unterstützen	unterstützen	VVINF	VVINF	_	5	RE
+5_11	,	--	$,	$,	_	10	--
+5_12	die	der	PRELS	PRELS	nom|pl|neut	84	NK
+5_13	auf	auf	APPR	APPR	_	2	OP
+5_14	die	der	ART	ART	acc|sg|fem	15	NK
+5_15	Wahrung	Wahrung	NN	NN	acc|sg|fem	13	NK
+5_16	der	der	ART	ART	gen|sg|fem	18	NK
+5_17	souveränen	souverän	ADJA	ADJA	gen|sg|fem|pos	18	NK
+5_18	Gleichheit	Gleichheit	NN	NN	gen|sg|fem	15	AG
+5_19	aller	aller	PIAT	PIAT	gen|pl|masc	20	NK
+5_20	Staaten	Staat	NN	NN	gen|pl|masc	18	AG
+5_21	,	--	$,	$,	_	20	--
+5_22	die	der	ART	ART	acc|sg|fem	23	NK
+5_23	Achtung	Achtung	NN	NN	acc|sg|fem	15	CJ
+5_24	ihrer	ihr	PPOSAT	PPOSAT	gen|sg|fem	26	NK
+5_25	territorialen	territorial	ADJA	ADJA	gen|sg|fem|pos	26	NK
+5_26	Unversehrtheit	Unversehrtheit	NN	NN	gen|sg|fem	23	AG
+5_27	und	und	KON	KON	_	26	CD
+5_28	politischen	politisch	ADJA	ADJA	gen|sg|fem|pos	29	NK
+5_29	Unabhängigkeit	Unabhängigkeit	NN	NN	gen|sg|fem	27	CJ
+5_30	,	--	$,	$,	_	29	--
+5_31	die	der	ART	ART	acc|sg|fem	32	NK
+5_32	Beilegung	Beilegung	NN	NN	acc|sg|fem	23	CJ
+5_33	von	von	APPR	APPR	_	32	PG
+5_34	Streitigkeiten	Streitigkeit	NN	NN	dat|pl|fem	33	NK
+5_35	mit	mit	APPR	APPR	_	32	MNR
+5_36	friedlichen	friedlich	ADJA	ADJA	dat|pl|neut|pos	37	NK
+5_37	Mitteln	Mittel	NN	NN	dat|pl|neut	35	NK
+5_38	und	und	KON	KON	_	35	CD
+5_39	in	in	APPR	APPR	_	38	CJ
+5_40	Übereinstimmung	Übereinstimmung	NN	NN	dat|sg|fem	39	NK
+5_41	mit	mit	APPR	APPR	_	40	OP
+5_42	den	der	ART	ART	dat|pl|masc	43	NK
+5_43	Grundsätzen	Grundsatz	NN	NN	dat|pl|masc	41	NK
+5_44	der	der	ART	ART	gen|sg|fem	45	NK
+5_45	Gerechtigkeit	Gerechtigkeit	NN	NN	gen|sg|fem	43	AG
+5_46	und	und	KON	KON	_	45	CD
+5_47	des	der	ART	ART	gen|sg|neut	48	NK
+5_48	Völkerrechts	Völkerrecht	NN	NN	gen|sg|neut	46	CJ
+5_49	,	--	$,	$,	_	48	--
+5_50	das	der	ART	ART	nom|sg|neut	51	NK
+5_51	Selbstbestimmungsrecht	Selbstbestimmungsrecht	NN	NN	acc|sg|neut	32	CJ
+5_52	der	der	ART	ART	gen|pl|neut	53	NK
+5_53	Völker	Volk	NN	NN	gen|pl|neut	51	AG
+5_54	,	--	$,	$,	_	53	--
+5_55	die	der	PRELS	PRELS	nom|pl|neut	64	SB
+5_56	sich	sich	PRF	PRF	acc|sg|3	64	OA
+5_57	weiterhin	weiterhin	ADV	ADV	_	64	MO
+5_58	unter	unter	APPR	APPR	_	64	MO
+5_59	kolonialer	kolonial	ADJA	ADJA	dat|sg|fem|pos	60	NK
+5_60	Herrschaft	Herrschaft	NN	NN	dat|sg|fem	58	NK
+5_61	und	und	KON	KON	_	60	CD
+5_62	ausländischer	ausländisch	ADJA	ADJA	dat|sg|fem|pos	63	NK
+5_63	Besetzung	Besetzung	NN	NN	dat|sg|fem	61	CJ
+5_64	befinden	befinden	VVFIN	VVFIN	_	53	RC
+5_65	,	--	$,	$,	_	64	--
+5_66	die	der	ART	ART	acc|sg|fem	67	NK
+5_67	Nichteinmischung	Nichteinmischung	NN	NN	acc|sg|fem	51	CJ
+5_68	in	in	APPR	APPR	_	67	MNR
+5_69	die	der	ART	ART	acc|pl|fem	71	NK
+5_70	inneren	innerer	ADJA	ADJA	acc|pl|fem|pos	71	NK
+5_71	Angelegenheiten	Angelegenheit	NN	NN	acc|pl|fem	68	NK
+5_72	der	der	ART	ART	gen|pl|masc	73	NK
+5_73	Staaten	Staat	NN	NN	gen|pl|masc	71	AG
+5_74	,	--	$,	$,	_	73	--
+5_75	die	der	ART	ART	acc|sg|fem	76	NK
+5_76	Achtung	Achtung	NN	NN	acc|sg|fem	67	CJ
+5_77	der	der	ART	ART	gen|pl|neut	78	NK
+5_78	Menschenrechte	Menschenrecht	NN	NN	gen|pl|neut	76	AG
+5_79	und	und	KON	KON	_	78	CD
+5_80	Grundfreiheiten	Grundfreiheit	NN	NN	gen|pl|fem	79	CJ
+5_81	,	--	$,	$,	_	80	--
+5_82	die	der	ART	ART	nom|sg|fem	83	NK
+5_83	Gleichberechtigung	Gleichberechtigung	NN	NN	nom|sg|fem	76	CJ
+5_84	aller	aller	PIAT	PIAT	gen|pl|neut	83	AG
+5_85	ohne	ohne	APPR	APPR	_	112	MO
+5_86	Unterschied	Unterschied	NN	NN	acc|sg|masc	85	NK
+5_87	nach	nach	APPR	APPR	_	86	MNR
+5_88	Rasse	Rasse	NN	NN	dat|sg|fem	87	NK
+5_89	,	--	$,	$,	_	88	--
+5_90	Geschlecht	Geschlecht	NN	NN	dat|sg|neut	88	CJ
+5_91	,	--	$,	$,	_	90	--
+5_92	Sprache	Sprache	NN	NN	dat|sg|fem	90	CJ
+5_93	oder	oder	KON	KON	_	92	CD
+5_94	Religion	Religion	NN	NN	dat|sg|fem	93	CJ
+5_95	und	und	KON	KON	_	76	CD
+5_96	die	der	ART	ART	acc|sg|fem	98	NK
+5_97	internationale	international	ADJA	ADJA	acc|sg|fem|pos	98	NK
+5_98	Zusammenarbeit	Zusammenarbeit	NN	NN	acc|sg|fem	95	CJ
+5_99	bei	bei	APPR	APPR	_	98	MNR
+5_100	der	der	ART	ART	dat|sg|fem	101	NK
+5_101	Lösung	Lösung	NN	NN	dat|sg|fem	99	NK
+5_102	internationaler	international	ADJA	ADJA	gen|pl|neut|pos	103	NK
+5_103	Probleme	Problem	NN	NN	gen|pl|neut	101	AG
+5_104	wirtschaftlicher	wirtschaftlich	ADJA	ADJA	gen|pl|masc|pos	111	NK
+5_105	,	--	$,	$,	_	104	--
+5_106	sozialer	sozial	ADJA	ADJA	dat|sg|fem|pos	104	CJ
+5_107	,	--	$,	$,	_	106	--
+5_108	kultureller	kulturell	ADJA	ADJA	dat|sg|fem|pos	106	CJ
+5_109	oder	oder	KON	KON	_	108	CD
+5_110	humanitärer	humanitär	ADJA	ADJA	dat|sg|fem|pos	109	CJ
+5_111	Art	Art	NN	NN	dat|sg|fem	113	SB
+5_112	gerichtet	richten	VVPP	VVPP	_	113	PD
+5_113	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	103	RC
+5_114	.	--	$.	$.	_	113	--
+							
+6_1	Seither	seither	ADV	ADV	_	7	MO
+6_2	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	0	--
+6_3	die	der	ART	ART	nom|sg|fem	4	NK
+6_4	Geschichte	Geschichte	NN	NN	nom|sg|fem	2	SB
+6_5	ungezählte	ungezählt	ADJA	ADJA	acc|pl|neut|pos	6	NK
+6_6	Male	Mal	NN	NN	acc|pl|neut	7	MO
+6_7	wiederholt	wiederholen	VVPP	VVPP	_	8	OC
+6_8	worden	werden	VAPP	VAPP	_	2	OC
+6_9	,	--	$,	$,	_	8	--
+6_10	in	in	APPR	APPR	_	6	PAR
+6_11	ungezählten	ungezählt	ADJA	ADJA	dat|pl|neut|pos	12	NK
+6_12	Büchern	Buch	NN	NN	dat|pl|neut	10	NK
+6_13	,	--	$,	$,	_	12	--
+6_14	in	in	APPR	APPR	_	22	MO
+6_15	denen	der	PRELS	PRELS	dat|pl|neut	14	NK
+6_16	ganze	ganz	ADJA	ADJA	acc|sg|fem|pos	18	NK
+6_17	intergalaktische	intergalaktisch	ADJA	ADJA	acc|pl|fem|pos	18	NK
+6_18	Imperien	Imperien	NN	NN	nom|pl|neut	23	SB
+6_19	nichts	nichts	PIS	PIS	*|*|neut	22	OA
+6_20	besser	gut	ADJD	ADJD	comp	22	MO
+6_21	zu	zu	PTKZU	PTKZU	_	22	PM
+6_22	tun	tun	VVINF	VVINF	_	23	OC
+6_23	haben	haben	VAINF	VAINF	_	12	RC
+6_24	,	--	$,	$,	_	23	--
+6_25	als	als	KOUS	KOUS	_	30	CM
+6_26	ausgerechnet	ausgerechnet	ADV	ADV	_	30	MO
+6_27	die	der	ART	ART	acc|sg|fem	28	NK
+6_28	Erde	Erde	NN	NN	acc|sg|fem	30	OA
+6_29	zu	zu	PTKZU	PTKZU	_	30	PM
+6_30	überfallen	überfallen	VVINF	VVINF	_	20	CC
+6_31	,	--	$,	$,	_	30	--
+6_32	in	in	APPR	APPR	_	35	MO
+6_33	Verfilmungen	Verfilmung	NN	NN	dat|pl|fem	32	NK
+6_34	,	--	$,	$,	_	33	--
+6_35	angefangen	anfangen	VVPP	VVPP	_	12	PAR
+6_36	von	von	APPR	APPR	_	35	SBP
+6_37	einer	ein	ART	ART	dat|sg|fem	39	NK
+6_38	schauerlichen	schauerlich	ADJA	ADJA	dat|sg|fem|pos	39	NK
+6_39	fünfziger-Jahre-Verfilmung	fünfziger-jahre-verfilmung	NN	NN	dat|sg|fem	36	NK
+6_40	des	der	ART	ART	gen|sg|masc	41	NK
+6_41	Kriegs	Krieg	NN	NN	gen|sg|masc	39	AG
+6_42	der	der	ART	ART	gen|pl|fem	43	NK
+6_43	Welten	Welt	NN	NN	gen|pl|fem	41	AG
+6_44	,	--	$,	$,	_	43	--
+6_45	in	in	APPR	APPR	_	48	MO
+6_46	denen	der	PRELS	PRELS	dat|pl|masc	45	NK
+6_47	der	der	ART	ART	nom|sg|masc	48	NK
+6_48	Held	Held	NN	NN	nom|sg|masc	35	CJ
+6_49	,	--	$,	$,	_	48	--
+6_50	der	der	ART	ART	nom|sg|masc	52	NK
+6_51	gutaussehende	gutaussehend	ADJA	ADJA	nom|sg|masc|pos	52	NK
+6_52	Wissenschaftler	Wissenschaftler	NN	NN	nom|sg|masc	48	APP
+6_53	,	--	$,	$,	_	52	--
+6_54	zusammen	zusammen	ADV	ADV	_	55	MO
+6_55	mit	mit	APPR	APPR	_	48	PAR
+6_56	der	der	ART	ART	dat|sg|fem	57	NK
+6_57	Heldin	Heldin	NN	NN	dat|sg|fem	55	NK
+6_58	,	--	$,	$,	_	57	--
+6_59	dem	der	ART	ART	dat|sg|neut	61	NK
+6_60	unbedarften	unbedarft	ADJA	ADJA	dat|sg|neut|sup	61	NK
+6_61	Mädchen	Mädchen	NN	NN	nom|pl|neut	57	CJ
+6_62	,	--	$,	$,	_	61	--
+6_63	in	in	APPR	APPR	_	72	MO
+6_64	einem	ein	ART	ART	dat|sg|neut	65	NK
+6_65	Gotteshaus	Gotteshaus	NN	NN	dat|sg|neut	63	NK
+6_66	vor	vor	APPR	APPR	_	65	MNR
+6_67	den	der	ART	ART	dat|pl|fem	68	NK
+6_68	Attacken	Attacke	NN	NN	dat|pl|fem	66	NK
+6_69	der	der	ART	ART	gen|sg|fem	71	NK
+6_70	Außerirdischen	außerirdisch	ADJA	ADJA	gen|sg|fem|pos	71	NK
+6_71	Schutz	Schutz	NN	NN	acc|sg|masc	72	OA
+6_72	suchen	suchen	VVFIN	VVFIN	pl|3|pres|ind	61	RC
+6_73	,	--	$,	$,	_	72	--
+6_74	Vorgänge	Vorgang	NN	NN	nom|pl|masc	61	CJ
+6_75	und	und	KON	KON	_	74	CD
+6_76	Personen	Person	NN	NN	nom|pl|fem	75	CJ
+6_77	,	--	$,	$,	_	76	--
+6_78	von	von	APPR	APPR	_	84	MO
+6_79	denen	der	PRELS	PRELS	dat|pl|masc	78	NK
+6_80	die	der	ART	ART	nom|pl|masc	81	NK
+6_81	Vorlage	Vorlage	NN	NN	nom|pl|masc	84	OA
+6_82	glücklicherweise	glücklicherweise	ADV	ADV	_	84	MO
+6_83	nichts	nichts	PIS	PIS	*|*|neut	84	OA
+6_84	weiß	weiß	VVFIN	VVFIN	sg|3|pres|ind	57	RC
+6_85	,	--	$,	$,	_	84	--
+6_86	bis	bis	APPR	APPR	_	87	AC
+6_87	zu	zu	APPR	APPR	_	84	MO
+6_88	Roland	Roland	NE	NE	nom|sg|masc	89	PNC
+6_89	Emmerichs	Emmerich	NE	NE	gen|sg|masc	90	AG
+6_90	Effekteorgie	Effekteorgie	NN	NN	nom|sg|fem	87	NK
+6_91	,	--	$,	$,	_	90	--
+6_92	die	der	PRELS	PRELS	nom|sg|fem	98	SB
+6_93	noch	noch	ADV	ADV	_	94	MO
+6_94	nicht	nicht	PTKNEG	PTKNEG	_	98	NG
+6_95	einmal	einmal	ADV	ADV	_	94	MO
+6_96	darin	darin	PROAV	PROAV	_	97	MO
+6_97	originell	originell	ADJD	ADJD	pos	98	PD
+6_98	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	90	RC
+6_99	,	--	$,	$,	_	98	--
+6_100	wie	wie	PWAV	PWAV	_	105	MO
+6_101	sie	sie	PPER	PPER	nom|pl|masc|3	105	SB
+6_102	die	der	ART	ART	acc|pl|masc	103	NK
+6_103	Angreifer	Angreifer	NN	NN	acc|pl|masc	105	OA
+6_104	scheitern	scheitern	VVINF	VVINF	_	105	OC
+6_105	läßt	lassen	VVFIN	VVFIN	sg|3|pres|ind	96	RE
+6_106	,	--	$,	$,	_	105	--
+6_107	denn	denn	KON	KON	_	84	CD
+6_108	ein	ein	ART	ART	nom|sg|masc	109	NK
+6_109	Virus	Virus	NN	NN	nom|sg|masc	110	SB
+6_110	spielt	spielen	VVFIN	VVFIN	sg|3|pres|ind	107	CJ
+6_111	schon	schon	ADV	ADV	_	112	MO
+6_112	bei	bei	APPR	APPR	_	110	MO
+6_113	Wells	Wells	NE	NE	dat|sg|neut	112	NK
+6_114	eine	ein	ART	ART	acc|sg|fem	116	NK
+6_115	entscheidende	entscheidend	ADJA	ADJA	acc|sg|fem|pos	116	NK
+6_116	Rolle	Rolle	NN	NN	acc|sg|fem	110	OA
+6_117	.	--	$.	$.	_	116	--
+							
+7_1	Besondere	besonderer	ADJA	ADJA	nom|pl|masc|pos	2	NK
+7_2	Anlässe	Anlaß	NN	NN	nom|pl|masc	14	SB
+7_3	für	für	APPR	APPR	_	2	MNR
+7_4	eine	ein	ART	ART	acc|sg|fem	5	NK
+7_5	Betreuung	Betreuung	NN	NN	acc|sg|fem	3	NK
+7_6	durch	durch	APPR	APPR	_	5	MNR
+7_7	den	der	ART	ART	acc|sg|masc	8	NK
+7_8	Betriebsarzt	Betriebsarzt	NN	NN	acc|sg|masc	6	NK
+7_9	und	und	KON	KON	_	5	CD
+7_10	die	der	ART	ART	acc|sg|fem	11	NK
+7_11	Fachkraft	Fachkraft	NN	NN	acc|sg|fem	9	CJ
+7_12	für	für	APPR	APPR	_	11	MNR
+7_13	Arbeitssicherheit	Arbeitssicherheit	NN	NN	acc|sg|fem	12	NK
+7_14	können	können	VMFIN	VMFIN	pl|3|pres|ind	0	--
+7_15	unter	unter	APPR	APPR	_	17	MO
+7_16	anderem	anderer	PIS	PIS	dat|sg|neut	15	NK
+7_17	sein	sein	VAINF	VAINF	_	14	OC
+7_18	die	der	ART	ART	acc|sg|fem	19	NK
+7_19	Planung	Planung	NN	NN	acc|sg|fem	11	CJ
+7_20	,	--	$,	$,	_	19	--
+7_21	Errichtung	Errichtung	NN	NN	dat|sg|fem	19	CJ
+7_22	und	und	KON	KON	_	21	CD
+7_23	Änderung	Änderung	NN	NN	dat|sg|fem	22	CJ
+7_24	von	von	APPR	APPR	_	21	PG
+7_25	Betriebsanlagen	Betriebsanlage	NN	NN	dat|pl|fem	24	NK
+7_26	,	--	$,	$,	_	25	--
+7_27	Betriebsstätten	Betriebsstätte	NN	NN	dat|pl|fem	25	CJ
+7_28	oder	oder	KON	KON	_	27	CD
+7_29	der	der	ART	ART	dat|sg|fem	30	NK
+7_30	Betriebsorganisation	Betriebsorganisation	NN	NN	dat|sg|fem	28	CJ
+7_31	,	--	$,	$,	_	30	--
+7_32	Einführung	Einführung	NN	NN	acc|sg|fem	21	CJ
+7_33	neuer	neu	ADJA	ADJA	gen|pl|fem|pos	36	NK
+7_34	oder	oder	KON	KON	_	33	CD
+7_35	grundlegende	grundlegend	ADJA	ADJA	acc|sg|fem|pos	34	CJ
+7_36	Veränderung	Veränderung	NN	NN	acc|sg|fem	32	MNR
+7_37	vorhandener	vorhanden	ADJA	ADJA	gen|pl|neut|pos	38	NK
+7_38	Arbeitsmittel	Arbeitsmittel	NN	NN	gen|pl|neut	36	AG
+7_39	,	--	$,	$,	_	38	--
+7_40	die	der	PRELS	PRELS	nom|pl|*	46	SB
+7_41	ein	ein	ART	ART	acc|sg|neut	43	NK
+7_42	erhöhtes	erhöht	ADJA	ADJA	acc|sg|neut|pos	43	NK
+7_43	Gefährdungspotential	Gefährdungspotential	NN	NN	acc|sg|neut	46	OA
+7_44	zur	zu	APPRART	APPRART	dat|sg|fem	46	CVC
+7_45	Folge	Folge	NN	NN	dat|sg|fem	44	NK
+7_46	haben	haben	VAINF	VAINF	_	38	RC
+7_47	,	--	$,	$,	_	46	--
+7_48	grundlegende	grundlegend	ADJA	ADJA	nom|sg|fem|pos	49	NK
+7_49	Änderung	Änderung	NN	NN	nom|sg|fem	36	CJ
+7_50	von	von	APPR	APPR	_	49	PG
+7_51	Arbeitsverfahren	Arbeitsverfahr	NN	NN	dat|pl|neut	50	NK
+7_52	,	--	$,	$,	_	51	--
+7_53	Einführung	Einführung	NN	NN	acc|sg|fem	49	CJ
+7_54	neuer	neu	ADJA	ADJA	gen|pl|fem|pos	55	NK
+7_55	Arbeitsverfahren	Arbeitsverfahr	NN	NN	gen|pl|fem	53	AG
+7_56	,	--	$,	$,	_	55	--
+7_57	Gestaltung	Gestaltung	NN	NN	acc|sg|fem	53	CJ
+7_58	neuer	neu	ADJA	ADJA	gen|pl|fem|pos	63	NK
+7_59	bzw.	bzw.	KON	KON	_	58	CD
+7_60	grundlegende	grundlegend	ADJA	ADJA	acc|sg|fem|pos	61	NK
+7_61	Veränderung	Veränderung	NN	NN	acc|sg|fem	62	OA
+7_62	vorhandener	vorhanden	ADJA	ADJA	gen|pl|masc|pos	59	CJ
+7_63	Arbeitsplätze	Arbeitsplatz	NN	NN	gen|pl|masc	57	AG
+7_64	und	und	KON	KON	_	63	CD
+7_65	-abläufe	-ablauf	NN	NN	gen|pl|masc	64	CJ
+7_66	,	--	$,	$,	_	65	--
+7_67	Einführung	Einführung	NN	NN	acc|sg|fem	57	CJ
+7_68	neuer	neu	ADJA	ADJA	gen|pl|masc|pos	69	NK
+7_69	Arbeitsstoffe	Arbeitsstoff	NN	NN	gen|pl|masc	67	AG
+7_70	bzw.	bzw.	KON	KON	_	69	CD
+7_71	Gefahrstoffe	Gefahrstoff	NN	NN	nom|pl|masc	70	CJ
+7_72	,	--	$,	$,	_	71	--
+7_73	die	der	PRELS	PRELS	nom|pl|masc	79	SB
+7_74	ein	ein	ART	ART	acc|sg|neut	76	NK
+7_75	erhöhtes	erhöht	ADJA	ADJA	acc|sg|neut|pos	76	NK
+7_76	Gefährdungspotential	Gefährdungspotential	NN	NN	acc|sg|neut	79	OA
+7_77	zur	zu	APPRART	APPRART	dat|sg|fem	79	CVC
+7_78	Folge	Folge	NN	NN	dat|sg|fem	77	NK
+7_79	haben	haben	VAINF	VAINF	_	69	RC
+7_80	,	--	$,	$,	_	79	--
+7_81	Einführung	Einführung	NN	NN	dat|sg|fem	67	CJ
+7_82	oder	oder	KON	KON	_	81	CD
+7_83	Erprobung	Erprobung	NN	NN	dat|sg|fem	82	CJ
+7_84	von	von	APPR	APPR	_	81	PG
+7_85	Körperschutzmitteln	Körperschutzmittel	NN	NN	dat|pl|neut	84	NK
+7_86	,	--	$,	$,	_	85	--
+7_87	Beratung	Beratung	NN	NN	dat|sg|fem	81	CJ
+7_88	der	der	ART	ART	gen|pl|*	89	NK
+7_89	Beschäftigten	beschäftigter	NN	NN	gen|pl|*	87	AG
+7_90	über	über	APPR	APPR	_	89	MNR
+7_91	besondere	besonderer	ADJA	ADJA	acc|pl|fem|pos	94	NK
+7_92	Unfall-	Unfall	TRUNC	TRUNC	_	93	CJ
+7_93	und	und	KON	KON	_	94	CD
+7_94	Gesundheitsgefahren	Gesundheitsgefahren	NN	NN	dat|pl|neut	90	NK
+7_95	bei	bei	APPR	APPR	_	87	MNR
+7_96	der	der	ART	ART	dat|sg|fem	97	NK
+7_97	Arbeit	Arbeit	NN	NN	dat|sg|fem	95	NK
+7_98	,	--	$,	$,	_	97	--
+7_99	Untersuchung	Untersuchung	NN	NN	dat|sg|fem	87	CJ
+7_100	von	von	APPR	APPR	_	99	PG
+7_101	meldepflichtigen	meldepflichtig	ADJA	ADJA	dat|pl|masc|pos	102	NK
+7_102	Unfällen	Unfall	NN	NN	dat|pl|masc	100	NK
+7_103	und	und	KON	KON	_	102	CD
+7_104	anzuzeigenden	anzuzeigend	ADJA	ADJA	dat|pl|fem|pos	105	NK
+7_105	Berufskrankheiten	Berufskrankheit	NN	NN	dat|pl|fem	103	CJ
+7_106	,	--	$,	$,	_	105	--
+7_107	Erstellung	Erstellung	NN	NN	dat|sg|fem	99	CJ
+7_108	von	von	APPR	APPR	_	107	PG
+7_109	Notfall-	Notfall	TRUNC	TRUNC	_	110	CJ
+7_110	und	und	KON	KON	_	111	CD
+7_111	Alarmplänen	Alarmplan	NN	NN	dat|pl|masc	108	NK
+7_112	.	--	$.	$.	_	111	--
+							
+8_1	Eingebettet	einbetten	VVPP	VVPP	_	10	PD
+8_2	in	in	APPR	APPR	_	1	MO
+8_3	den	der	ART	ART	acc|sg|masc	4	NK
+8_4	Schmerz	Schmerz	NN	NN	acc|sg|masc	2	NK
+8_5	und	und	KON	KON	_	4	CD
+8_6	die	der	ART	ART	acc|sg|fem	7	NK
+8_7	Trauer	Trauer	NN	NN	nom|sg|fem	5	CJ
+8_8	dieser	dieser	PDAT	PDAT	gen|pl|masc	9	NK
+8_9	Tage	Tag	NN	NN	gen|pl|masc	7	AG
+8_10	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	0	--
+8_11	unsere	unser	PPOSAT	PPOSAT	nom|sg|fem	12	NK
+8_12	Dankbarkeit	Dankbarkeit	NN	NN	nom|sg|fem	10	PD
+8_13	für	für	APPR	APPR	_	12	MNR
+8_14	das	der	ART	ART	acc|sg|neut	16	NK
+8_15	aufopferungsvolle	aufopferungsvoll	ADJA	ADJA	acc|sg|neut|pos	16	NK
+8_16	Engagement	Engagement	NN	NN	acc|sg|neut	13	NK
+8_17	des	der	ART	ART	gen|sg|masc	18	NK
+8_18	Verstorbenen	verstorbener	NN	NN	gen|sg|*	16	AG
+8_19	für	für	APPR	APPR	_	16	MNR
+8_20	die	der	ART	ART	acc|sg|fem	21	NK
+8_21	Universität	Universität	NN	NN	acc|sg|fem	19	NK
+8_22	in	in	APPR	APPR	_	21	MNR
+8_23	einer	ein	ART	ART	dat|sg|fem	26	NK
+8_24	besonders	besonders	ADV	ADV	_	25	MO
+8_25	schwierigen	schwierig	ADJA	ADJA	dat|sg|fem|pos	26	NK
+8_26	Zeit	Zeit	NN	NN	dat|sg|fem	22	NK
+8_27	ihrer	ihr	PPOSAT	PPOSAT	gen|sg|fem	29	NK
+8_28	langen	lang	ADJA	ADJA	gen|sg|fem|pos	29	NK
+8_29	Geschichte	Geschichte	NN	NN	gen|sg|fem	26	AG
+8_30	,	--	$,	$,	_	29	--
+8_31	insbesondere	insbesondere	ADV	ADV	_	33	MO
+8_32	aber	aber	ADV	ADV	_	33	MO
+8_33	für	für	APPR	APPR	_	26	MNR
+8_34	seinen	sein	PPOSAT	PPOSAT	acc|sg|masc	36	NK
+8_35	unermüdlichen	unermüdlich	ADJA	ADJA	acc|sg|masc|pos	36	NK
+8_36	Einsatz	Einsatz	NN	NN	acc|sg|masc	33	NK
+8_37	für	für	APPR	APPR	_	36	MNR
+8_38	die	der	ART	ART	acc|sg|fem	40	NK
+8_39	Medizinische	medizinisch	ADJA	ADJA	acc|sg|fem|pos	40	NK
+8_40	Fakultät	Fakultät	NN	NN	acc|sg|fem	37	NK
+8_41	und	und	KON	KON	_	40	CD
+8_42	das	der	ART	ART	nom|sg|neut	43	NK
+8_43	Universitätsklinikum	Universitätsklinikum	NN	NN	nom|sg|neut	41	CJ
+8_44	,	--	$,	$,	_	43	--
+8_45	für	für	APPR	APPR	_	33	CJ
+8_46	sein	sein	PPOSAT	PPOSAT	acc|sg|neut	51	NK
+8_47	von	von	APPR	APPR	_	50	SBP
+8_48	innerer	innerer	ADJA	ADJA	dat|sg|fem|pos	49	NK
+8_49	Berufung	Berufung	NN	NN	dat|sg|fem	47	NK
+8_50	getragenes	getragen	ADJA	ADJA	acc|sg|neut|pos	51	NK
+8_51	Wirken	wirken	NN	NN	acc|sg|neut	45	NK
+8_52	als	als	APPR	APPR	_	51	MNR
+8_53	Hochschullehrer	Hochschullehrer	NN	NN	nom|sg|masc	52	NK
+8_54	,	--	$,	$,	_	53	--
+8_55	mit	mit	APPR	APPR	_	61	MO
+8_56	dem	der	PRELS	PRELS	dat|sg|masc	55	NK
+8_57	er	er	PPER	PPER	nom|sg|masc|3	62	SB
+8_58	Generationen	Generation	NN	NN	acc|pl|fem	61	OA
+8_59	von	von	APPR	APPR	_	61	SBP
+8_60	Medizinstudenten	Medizinstudent	NN	NN	dat|pl|neut	59	NK
+8_61	geprägt	prägen	VVPP	VVPP	_	62	OC
+8_62	hat	haben	VAFIN	VAFIN	sg|3|pres|ind	53	RC
+8_63	,	--	$,	$,	_	62	--
+8_64	für	für	APPR	APPR	_	45	CJ
+8_65	seine	sein	PPOSAT	PPOSAT	acc|sg|fem	67	NK
+8_66	verständnisvolle	verständnisvoll	ADJA	ADJA	acc|sg|fem|pos	67	NK
+8_67	Verbundenheit	Verbundenheit	NN	NN	acc|sg|fem	64	NK
+8_68	und	und	KON	KON	_	67	CD
+8_69	Fürsorge	Fürsorge	NN	NN	acc|sg|fem	68	CJ
+8_70	für	für	APPR	APPR	_	67	MNR
+8_71	seine	sein	PPOSAT	PPOSAT	acc|pl|masc	72	NK
+8_72	Mitarbeiter	Mitarbeiter	NN	NN	acc|pl|masc	70	NK
+8_73	im	in	APPRART	APPRART	dat|sg|neut	72	MNR
+8_74	Institut	Institut	NN	NN	dat|sg|neut	73	NK
+8_75	und	und	KON	KON	_	64	CD
+8_76	auf	auf	APPR	APPR	_	75	CJ
+8_77	den	der	ART	ART	dat|pl|fem	78	NK
+8_78	Stationen	Station	NN	NN	dat|pl|fem	76	NK
+8_79	seines	sein	PPOSAT	PPOSAT	gen|sg|masc	81	NK
+8_80	beruflichen	beruflich	ADJA	ADJA	gen|sg|masc|pos	81	NK
+8_81	Weges	Weg	NN	NN	gen|sg|masc	78	AG
+8_82	und	und	KON	KON	_	76	CD
+8_83	nicht	nicht	PTKNEG	PTKNEG	_	84	NG
+8_84	zuletzt	zuletzt	ADV	ADV	_	85	MO
+8_85	für	für	APPR	APPR	_	82	CJ
+8_86	sein	sein	PPOSAT	PPOSAT	acc|sg|neut	88	NK
+8_87	wissenschaftliches	wissenschaftlich	ADJA	ADJA	acc|sg|neut|pos	88	NK
+8_88	Lebenswerk	Lebenswerk	NN	NN	acc|sg|neut	85	NK
+8_89	,	--	$,	$,	_	88	--
+8_90	mit	mit	APPR	APPR	_	111	MO
+8_91	dem	der	PRELS	PRELS	dat|sg|neut	90	NK
+8_92	er	er	PPER	PPER	nom|sg|masc|3	112	SB
+8_93	weit	weit	ADJD	ADJD	pos	111	MO
+8_94	über	über	APPR	APPR	_	111	MO
+8_95	seinen	sein	PPOSAT	PPOSAT	acc|sg|masc	96	NK
+8_96	Wirkungskreis	Wirkungskreis	NN	NN	acc|sg|masc	94	NK
+8_97	an	an	APPR	APPR	_	96	MNR
+8_98	der	der	ART	ART	dat|sg|fem	99	NK
+8_99	Universität	Universität	NN	NN	dat|sg|fem	97	NK
+8_100	hinaus	hinaus	APZR	APZR	_	94	AC
+8_101	Bleibendes	Bleibend	NN	NN	gen|sg|neut	111	OA
+8_102	zur	zu	APPRART	APPRART	dat|sg|fem	101	MNR
+8_103	Entwicklung	Entwicklung	NN	NN	dat|sg|fem	102	NK
+8_104	seines	sein	PPOSAT	PPOSAT	gen|sg|neut	105	NK
+8_105	Fachgebietes	Fachgebiet	NN	NN	gen|sg|neut	103	AG
+8_106	und	und	KON	KON	_	105	CD
+8_107	der	der	ART	ART	gen|sg|fem	109	NK
+8_108	medizinischen	medizinisch	ADJA	ADJA	gen|sg|fem|pos	109	NK
+8_109	Wissenschaft	Wissenschaft	NN	NN	gen|sg|fem	106	CJ
+8_110	überhaupt	überhaupt	ADV	ADV	_	111	MO
+8_111	geleistet	leisten	VVPP	VVPP	_	112	OC
+8_112	hat	haben	VAFIN	VAFIN	sg|3|pres|ind	88	RC
+8_113	.	--	$.	$.	_	112	--
+							
+9_1	Zu	zu	APPR	APPR	_	15	MO
+9_2	dem	der	ART	ART	dat|sg|masc	3	NK
+9_3	Begriff	Begriff	NN	NN	dat|sg|masc	1	NK
+9_4	der	der	ART	ART	gen|sg|fem	6	NK
+9_5	organisierten	organisiert	ADJA	ADJA	gen|sg|fem|pos	6	NK
+9_6	Kriminalität	Kriminalität	NN	NN	gen|sg|fem	3	AG
+9_7	,	--	$,	$,	_	6	--
+9_8	der	der	PRELS	PRELS	nom|sg|masc	13	SB
+9_9	diesen	dieser	PDAT	PDAT	acc|sg|masc	10	NK
+9_10	Abkommen	Abkommen	NN	NN	dat|pl|neut	12	OA
+9_11	zugrunde	zugrunde	ADV	ADV	_	12	MO
+9_12	gelegt	legen	VVPP	VVPP	_	13	OC
+9_13	wird	werden	VAFIN	VAFIN	sg|3|pres|ind	3	RC
+9_14	,	--	$,	$,	_	13	--
+9_15	führte	führen	VVFIN	VVFIN	sg|3|past|ind	0	--
+9_16	sie	sie	PPER	PPER	nom|sg|fem|3	15	SB
+9_17	im	in	APPRART	APPRART	dat|sg|masc	15	MO
+9_18	Rahmen	Rahmen	NN	NN	dat|sg|masc	17	NK
+9_19	einer	ein	ART	ART	gen|sg|fem	21	NK
+9_20	Kleinen	klein	ADJA	ADJA	gen|sg|fem|pos	21	NK
+9_21	Anfrage	Anfrage	NN	NN	gen|sg|fem	18	AG
+9_22	zu	zu	APPR	APPR	_	15	MO
+9_23	den	der	ART	ART	dat|pl|fem	24	NK
+9_24	Verhandlungen	Verhandlung	NN	NN	dat|pl|fem	22	NK
+9_25	zwischen	zwischen	APPR	APPR	_	24	MNR
+9_26	der	der	ART	ART	dat|sg|fem	27	NK
+9_27	Bundesrepublik	Bundesrepublik	NN	NN	dat|sg|fem	25	NK
+9_28	Deutschland	Deutschland	NE	NE	nom|sg|neut	27	NK
+9_29	und	und	KON	KON	_	27	CD
+9_30	der	der	ART	ART	dat|sg|fem	32	NK
+9_31	Sozialistischen	sozialistisch	ADJA	ADJA	dat|sg|fem|pos	32	NK
+9_32	Republik	Republik	NN	NN	dat|sg|fem	29	CJ
+9_33	Vietnam	Vietnam	NE	NE	nom|sg|neut	32	NK
+9_34	über	über	APPR	APPR	_	24	OP
+9_35	die	der	ART	ART	acc|sg|fem	38	NK
+9_36	gemeinsame	gemeinsam	ADJA	ADJA	acc|sg|fem|pos	38	NK
+9_37	polizeiliche	polizeilich	ADJA	ADJA	acc|sg|fem|pos	38	NK
+9_38	Verbrechensvorbeugung	Verbrechensvorbeugung	NN	NN	acc|sg|fem	34	NK
+9_39	und	und	KON	KON	_	38	CD
+9_40	-bekämpfung	-bekämpfung	NN	NN	acc|sg|fem	39	CJ
+9_41	385	385	CARD	CARD	_	40	NK
+9_42	aus	aus	PTKVZ	PTKVZ	_	15	SVP
+9_43	,	--	$,	$,	_	42	--
+9_44	er	er	PPER	PPER	nom|sg|masc|3	45	SB
+9_45	umfasse	umfassen	VVFIN	VVFIN	sg|3|pres|subj	15	OC
+9_46	,	--	$,	$,	_	45	--
+9_47	sofern	sofern	KOUS	KOUS	_	54	CP
+9_48	organisierte	organisiert	ADJA	ADJA	nom|pl|fem|pos	49	NK
+9_49	Strukturen	Struktur	NN	NN	nom|pl|fem	54	SB
+9_50	bei	bei	APPR	APPR	_	49	MNR
+9_51	der	der	ART	ART	dat|sg|fem	52	NK
+9_52	Tatbegehung	Tatbegehung	NN	NN	dat|sg|fem	50	NK
+9_53	erkennbar	erkennbar	ADJD	ADJD	pos	54	PD
+9_54	seien	sein	VAFIN	VAFIN	pl|3|pres|subj	45	OC
+9_55	,	--	$,	$,	_	54	--
+9_56	die	der	ART	ART	nom|pl|fem	58	NK
+9_57	folgenden	folgend	ADJA	ADJA	acc|pl|neut|pos	58	NK
+9_58	Deliktsbereiche	Deliktsbereiche	NN	NN	acc|pl|masc	54	SB
+9_59	:	--	$.	$.	_	58	--
+9_60	Drogenhandel	Drogenhandel	NN	NN	nom|sg|masc	58	PAR
+9_61	,	--	$,	$,	_	60	--
+9_62	Geldwäsche	Geldwäsche	NN	NN	nom|sg|fem	60	CJ
+9_63	,	--	$,	$,	_	62	--
+9_64	Terrorismus	Terrorismus	NN	NN	nom|sg|masc	62	CJ
+9_65	,	--	$,	$,	_	64	--
+9_66	Schlepperkriminalität	Schlepperkriminalität	NN	NN	nom|sg|fem	64	CJ
+9_67	,	--	$,	$,	_	66	--
+9_68	Waffenhandel	Waffenhandel	NN	NN	nom|sg|masc	66	CJ
+9_69	,	--	$,	$,	_	68	--
+9_70	Zuhälterei	Zuhälterei	NN	NN	dat|sg|masc	68	CJ
+9_71	und	und	KON	KON	_	70	CD
+9_72	Menschenhandel	Menschenhandel	NN	NN	dat|sg|masc	71	CJ
+9_73	,	--	$,	$,	_	72	--
+9_74	Falschspiel	Falschspiel	NN	NN	dat|sg|neut	68	CJ
+9_75	und	und	KON	KON	_	74	CD
+9_76	unerlaubtes	unerlaubt	ADJA	ADJA	nom|sg|neut|pos	77	NK
+9_77	Glücksspiel	Glücksspiel	NN	NN	nom|sg|neut	75	CJ
+9_78	,	--	$,	$,	_	77	--
+9_79	Schutzgelderpressung	Schutzgelderpressung	NN	NN	nom|sg|fem	77	CJ
+9_80	,	--	$,	$,	_	79	--
+9_81	Herstellung	Herstellung	NN	NN	dat|sg|fem	79	CJ
+9_82	und	und	KON	KON	_	81	CD
+9_83	Verbreitung	Verbreitung	NN	NN	dat|sg|fem	82	CJ
+9_84	von	von	APPR	APPR	_	81	PG
+9_85	Falschgeld	Falschgeld	NN	NN	dat|sg|neut	84	NK
+9_86	,	--	$,	$,	_	85	--
+9_87	Eigentums-	Eigentum	TRUNC	TRUNC	_	88	CJ
+9_88	und	und	KON	KON	_	89	CD
+9_89	Vermögensstraftaten	Vermögensstraftat	NN	NN	dat|pl|neut	81	CJ
+9_90	,	--	$,	$,	_	89	--
+9_91	Scheck-	Scheck	TRUNC	TRUNC	_	92	CJ
+9_92	und	und	KON	KON	_	93	CD
+9_93	Kreditkartenfälschung	Kreditkartenfälschung	NN	NN	nom|sg|fem	89	CJ
+9_94	,	--	$,	$,	_	93	--
+9_95	Straftaten	Straftat	NN	NN	nom|pl|fem	93	CJ
+9_96	gegen	gegen	APPR	APPR	_	95	MNR
+9_97	die	der	ART	ART	acc|sg|fem	98	NK
+9_98	Umwelt	Umwelt	NN	NN	acc|sg|fem	96	NK
+9_99	,	--	$,	$,	_	98	--
+9_100	unerlaubten	unerlaubt	ADJA	ADJA	acc|sg|masc|pos	101	NK
+9_101	Handel	Handel	NN	NN	acc|sg|masc	95	CJ
+9_102	mit	mit	APPR	APPR	_	101	MNR
+9_103	radioaktiven	radioaktiv	ADJA	ADJA	dat|pl|neut|pos	106	NK
+9_104	und	und	KON	KON	_	103	CD
+9_105	nuklearen	nuklear	ADJA	ADJA	dat|pl|fem|pos	104	CJ
+9_106	Materialien	Material	NN	NN	dat|pl|fem	102	NK
+9_107	und	und	KON	KON	_	101	CD
+9_108	den	der	ART	ART	acc|sg|masc	110	NK
+9_109	unerlaubten	unerlaubt	ADJA	ADJA	acc|sg|masc|pos	110	NK
+9_110	Handel	Handel	NN	NN	acc|sg|masc	107	CJ
+9_111	mit	mit	APPR	APPR	_	110	MNR
+9_112	Kulturgut	Kulturgut	NN	NN	dat|sg|fem	111	NK
+9_113	.	--	$.	$.	_	112	--
+							
+10_1	Dienstleistung	Dienstleistung	NN	NN	nom|sg|fem	9	SB
+10_2	,	--	$,	$,	_	1	--
+10_3	Entwicklungsforschung	Entwicklungsforschung	NN	NN	nom|sg|fem	1	CJ
+10_4	,	--	$,	$,	_	3	--
+10_5	Vernetzung	Vernetzung	NN	NN	nom|sg|fem	3	CJ
+10_6	und	und	KON	KON	_	5	CD
+10_7	internationale	international	ADJA	ADJA	nom|pl|fem|pos	8	NK
+10_8	Aktivitäten	Aktivität	NN	NN	nom|pl|fem	6	CJ
+10_9	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	0	--
+10_10	die	der	ART	ART	nom|pl|masc	11	NK
+10_11	Eckpfeiler	Eckpfeiler	NN	NN	nom|pl|masc	9	SB
+10_12	der	der	ART	ART	gen|sg|fem	13	NK
+10_13	Institutsarbeit	Institutsarbeit	NN	NN	gen|sg|fem	11	AG
+10_14	,	--	$,	$,	_	13	--
+10_15	mit	mit	APPR	APPR	_	30	MO
+10_16	der	der	PRELS	PRELS	dat|sg|fem	15	NK
+10_17	das	der	ART	ART	nom|sg|neut	18	NK
+10_18	DIE	Der	NE	NE	acc|sg|neut	30	SB
+10_19	in	in	APPR	APPR	_	30	MO
+10_20	Form	Form	NN	NN	dat|sg|fem	19	NK
+10_21	von	von	APPR	APPR	_	20	PG
+10_22	Publikationen	Publikation	NN	NN	dat|pl|fem	21	NK
+10_23	,	--	$,	$,	_	22	--
+10_24	Konferenzen	Konferenz	NN	NN	dat|pl|fem	22	CJ
+10_25	,	--	$,	$,	_	24	--
+10_26	Projekten	Projekt	NN	NN	dat|pl|neut	24	CJ
+10_27	und	und	KON	KON	_	26	CD
+10_28	Dokumentationen	Dokumentation	NN	NN	dat|pl|fem	27	CJ
+10_29	dazu	dazu	PROAV	PROAV	_	30	MO
+10_30	beiträgt	beitragen	VVFIN	VVFIN	sg|3|pres|ind	13	RC
+10_31	,	--	$,	$,	_	30	--
+10_32	Menschen	Mensch	NN	NN	nom|pl|masc	37	OA
+10_33	zum	zu	APPRART	APPRART	dat|sg|neut	37	MO
+10_34	lebenslangen	lebenslang	ADJA	ADJA	dat|sg|neut|pos	35	NK
+10_35	Lernen	lernen	NN	NN	dat|sg|neut	33	NK
+10_36	zu	zu	PTKZU	PTKZU	_	37	PM
+10_37	motivieren	motivieren	VVINF	VVINF	_	29	RE
+10_38	,	--	$,	$,	_	37	--
+10_39	eine	ein	ART	ART	nom|sg|fem	46	NK
+10_40	an	an	APPR	APPR	_	45	OP
+10_41	den	der	ART	ART	dat|pl|neut	42	NK
+10_42	Bedürfnissen	Bedürfnis	NN	NN	dat|pl|neut	40	NK
+10_43	der	der	ART	ART	gen|pl|fem	44	NK
+10_44	Lernenden	lernend	NN	NN	gen|sg|*	42	AG
+10_45	orientierte	orientiert	ADJA	ADJA	nom|sg|fem|pos	46	NK
+10_46	Weiterbildung	Weiterbildung	NN	NN	acc|sg|fem	48	OA
+10_47	zu	zu	PTKZU	PTKZU	_	48	PM
+10_48	fördern	fördern	VVINF	VVINF	_	37	CJ
+10_49	,	--	$,	$,	_	48	--
+10_50	Rahmenpläne	Rahmenplan	NN	NN	acc|pl|masc	54	OA
+10_51	und	und	KON	KON	_	50	CD
+10_52	Fortbildungsmodule	Fortbildungsmodule	NN	NN	acc|sg|fem	51	CJ
+10_53	zu	zu	PTKZU	PTKZU	_	54	PM
+10_54	konzipieren	konzipieren	VVINF	VVINF	_	48	CJ
+10_55	und	und	KON	KON	_	54	CD
+10_56	zu	zu	PTKZU	PTKZU	_	57	PM
+10_57	erproben	erproben	VVINF	VVINF	_	55	CJ
+10_58	,	--	$,	$,	_	57	--
+10_59	wissenschaftliche	wissenschaftlich	ADJA	ADJA	acc|sg|fem|pos	60	NK
+10_60	Fortbildung	Fortbildung	NN	NN	acc|sg|fem	64	OA
+10_61	und	und	KON	KON	_	60	CD
+10_62	Beratung	Beratung	NN	NN	acc|sg|fem	61	CJ
+10_63	zu	zu	PTKZU	PTKZU	_	64	PM
+10_64	organisieren	organisieren	VVINF	VVINF	_	57	CJ
+10_65	und	und	KON	KON	_	64	CD
+10_66	zu	zu	PTKZU	PTKZU	_	67	PM
+10_67	evaluieren	evaluieren	VVINF	VVINF	_	65	CJ
+10_68	,	--	$,	$,	_	67	--
+10_69	Zertifikate	Zertifikat	NN	NN	acc|pl|neut	80	OA
+10_70	und	und	KON	KON	_	69	CD
+10_71	Curricula	Curricula	NE	NE	dat|sg|neut	70	CJ
+10_72	unter	unter	APPR	APPR	_	80	MO
+10_73	dem	der	ART	ART	dat|sg|masc	74	NK
+10_74	Aspekt	Aspekt	NN	NN	dat|sg|masc	72	NK
+10_75	von	von	APPR	APPR	_	74	PG
+10_76	Qualität	Qualität	NN	NN	dat|sg|fem	75	NK
+10_77	und	und	KON	KON	_	76	CD
+10_78	Professionalität	Professionalität	NN	NN	dat|sg|fem	77	CJ
+10_79	zu	zu	PTKZU	PTKZU	_	80	PM
+10_80	entwickeln	entwickeln	VVINF	VVINF	_	67	CJ
+10_81	,	--	$,	$,	_	80	--
+10_82	mit	mit	APPR	APPR	_	91	MO
+10_83	Institutionen	Institution	NN	NN	dat|pl|fem	82	NK
+10_84	aus	aus	APPR	APPR	_	83	MNR
+10_85	Wissenschaft	Wissenschaft	NN	NN	dat|sg|fem	84	NK
+10_86	,	--	$,	$,	_	85	--
+10_87	Politik	Politik	NN	NN	dat|sg|fem	85	CJ
+10_88	und	und	KON	KON	_	87	CD
+10_89	Verwaltung	Verwaltung	NN	NN	dat|sg|fem	88	CJ
+10_90	zu	zu	PTKZU	PTKZU	_	91	PM
+10_91	kooperieren	kooperieren	VVINF	VVINF	_	80	CJ
+10_92	,	--	$,	$,	_	91	--
+10_93	Grundlagen	Grundlage	NN	NN	acc|pl|fem	99	OA
+10_94	für	für	APPR	APPR	_	93	MNR
+10_95	Lehre	Lehre	NN	NN	acc|sg|fem	94	NK
+10_96	und	und	KON	KON	_	95	CD
+10_97	Forschung	Forschung	NN	NN	acc|sg|fem	96	CJ
+10_98	zu	zu	PTKZU	PTKZU	_	99	PM
+10_99	liefern	liefern	VVINF	VVINF	_	91	CJ
+10_100	,	--	$,	$,	_	99	--
+10_101	Modellversuche	Modellversuch	NN	NN	acc|pl|masc	103	OA
+10_102	zu	zu	PTKZU	PTKZU	_	103	PM
+10_103	entwickeln	entwickeln	VVINF	VVINF	_	99	CJ
+10_104	und	und	KON	KON	_	103	CD
+10_105	wissenschaftlich	wissenschaftlich	ADJD	ADJD	pos	107	MO
+10_106	zu	zu	PTKZU	PTKZU	_	107	PM
+10_107	begleiten	begleiten	VVINF	VVINF	_	104	CJ
+10_108	,	--	$,	$,	_	107	--
+10_109	Systeme	System	NN	NN	acc|pl|neut	115	OA
+10_110	und	und	KON	KON	_	109	CD
+10_111	Supportstrukturen	Supportstruktur	NN	NN	acc|pl|fem	110	CJ
+10_112	der	der	ART	ART	gen|sg|fem	113	NK
+10_113	Erwachsenenbildung	Erwachsenenbildung	NN	NN	gen|sg|fem	109	AG
+10_114	zu	zu	PTKZU	PTKZU	_	115	PM
+10_115	evaluieren	evaluieren	VVINF	VVINF	_	107	CJ
+10_116	und	und	KON	KON	_	115	CD
+10_117	zu	zu	PTKZU	PTKZU	_	118	PM
+10_118	analysieren	analysieren	VVINF	VVINF	_	116	CJ
+10_119	.	--	$.	$.	_	118	--
+							
+11_1	Meine	mein	PPOSAT	PPOSAT	nom|pl|*	2	NK
+11_2	Damen	Dame	NN	NN	nom|pl|fem	62	SB
+11_3	und	und	KON	KON	_	2	CD
+11_4	Herren	Herr	NN	NN	nom|pl|masc	3	CJ
+11_5	,	--	$,	$,	_	4	--
+11_6	in	in	APPR	APPR	_	2	MNR
+11_7	Bezug	Bezug	NN	NN	dat|sg|masc	6	NK
+11_8	auf	auf	APPR	APPR	_	7	OP
+11_9	die	der	ART	ART	acc|sg|fem	10	NK
+11_10	Vertiefung	Vertiefung	NN	NN	acc|sg|fem	8	NK
+11_11	der	der	ART	ART	gen|sg|fem	13	NK
+11_12	Europäischen	europäisch	ADJA	ADJA	gen|sg|fem|pos	13	NK
+11_13	Union	Union	NN	NN	gen|sg|fem	10	AG
+11_14	in	in	APPR	APPR	_	10	MNR
+11_15	einem	ein	ART	ART	dat|sg|neut	16	NK
+11_16	Moment	Moment	NN	NN	dat|sg|neut	14	NK
+11_17	,	--	$,	$,	_	16	--
+11_18	in	in	APPR	APPR	_	27	MO
+11_19	dem	der	PRELS	PRELS	dat|sg|neut	18	NK
+11_20	die	der	ART	ART	nom|sg|fem	21	NK
+11_21	Erweiterung	Erweiterung	NN	NN	nom|sg|fem	27	SB
+11_22	um	um	APPR	APPR	_	27	MO
+11_23	zehn	zehn	CARD	CARD	_	24	NK
+11_24	Mitgliedstaaten	Mitgliedstaat	NN	NN	dat|pl|masc	22	NK
+11_25	im	in	APPRART	APPRART	dat|sg|masc	24	MNR
+11_26	Gange	Gang	NN	NN	dat|sg|masc	25	NK
+11_27	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	16	RC
+11_28	,	--	$,	$,	_	27	--
+11_29	hat	haben	VAFIN	VAFIN	sg|3|pres|ind	0	--
+11_30	Kollege	Kollege	NN	NN	nom|sg|masc	29	SB
+11_31	Schäuble	Schäuble	NE	NE	nom|sg|masc	30	NK
+11_32	vorhin	vorhin	ADV	ADV	_	36	MO
+11_33	zu	zu	APPR	APPR	_	36	MO
+11_34	Recht	Recht	NN	NN	dat|sg|neut	33	NK
+11_35	darauf	darauf	PROAV	PROAV	_	36	OP
+11_36	hingewiesen	hinweisen	VVPP	VVPP	_	29	OC
+11_37	,	--	$,	$,	_	36	--
+11_38	dass	dass	KOUS	KOUS	_	48	CP
+11_39	wir	wir	PPER	PPER	nom|pl|*|1	48	SB
+11_40	dieses	dieser	PDAT	PDAT	acc|sg|neut	42	NK
+11_41	größere	groß	ADJA	ADJA	acc|sg|neut|pos	42	NK
+11_42	Europa	Europa	NE	NE	acc|sg|neut	47	OA
+11_43	der	der	ART	ART	nom|sg|masc	45	NK
+11_44	25	25	CARD	CARD	_	45	NK
+11_45	Staaten	Staat	NN	NN	dat|pl|masc	42	AG
+11_46	nur	nur	ADV	ADV	_	47	MO
+11_47	zusammenhalten	zusammhalten	VVPP	VVPP	_	48	OC
+11_48	werden	werden	VAINF	VAINF	_	35	RE
+11_49	,	--	$,	$,	_	48	--
+11_50	wenn	wenn	KOUS	KOUS	_	58	CP
+11_51	wir	wir	PPER	PPER	nom|pl|*|1	58	SB
+11_52	gleichzeitig	gleichzeitig	ADJD	ADJD	pos	58	MO
+11_53	alles	alle	PIS	PIS	acc|sg|neut	58	OA
+11_54	für	für	APPR	APPR	_	58	MO
+11_55	die	der	ART	ART	acc|sg|fem	57	NK
+11_56	transatlantische	transatlantisch	ADJA	ADJA	acc|sg|fem|pos	57	NK
+11_57	Partnerschaft	Partnerschaft	NN	NN	acc|sg|fem	54	NK
+11_58	tun	tun	VVINF	VVINF	_	36	MO
+11_59	und	und	KON	KON	_	58	CD
+11_60	verstehen	verstehen	VVINF	VVINF	_	59	CJ
+11_61	,	--	$,	$,	_	60	--
+11_62	dass	dass	KOUS	KOUS	_	60	CD
+11_63	Litauen	Litauen	NE	NE	nom|sg|neut	62	NK
+11_64	,	--	$,	$,	_	63	--
+11_65	Estland	Estland	NE	NE	nom|sg|neut	63	CJ
+11_66	,	--	$,	$,	_	65	--
+11_67	Lettland	Lettland	NE	NE	nom|sg|neut	65	CJ
+11_68	,	--	$,	$,	_	67	--
+11_69	Polen	Polen	NE	NE	dat|sg|neut	67	CJ
+11_70	,	--	$,	$,	_	69	--
+11_71	Ungarn	Ungarn	NE	NE	dat|sg|neut	69	CJ
+11_72	,	--	$,	$,	_	71	--
+11_73	die	der	ART	ART	nom|sg|fem	74	NK
+11_74	Slowakei	Slowakei	NE	NE	nom|sg|fem	71	CJ
+11_75	und	und	KON	KON	_	74	CD
+11_76	viele	vieler	PIAT	PIAT	nom|pl|*	77	NK
+11_77	andere	anderer	PIS	PIS	nom|pl|*	75	CJ
+11_78	von	von	APPR	APPR	_	77	PG
+11_79	denen	der	PDS	PDS	dat|pl|*	78	NK
+11_80	,	--	$,	$,	_	79	--
+11_81	die	der	PRELS	PRELS	nom|pl|*	84	SB
+11_82	zu	zu	APPR	APPR	_	84	MO
+11_83	uns	uns	PPER	PPER	dat|pl|*|1	82	NK
+11_84	kommen	kommen	VVFIN	VVFIN	pl|3|pres|ind	79	RC
+11_85	,	--	$,	$,	_	84	--
+11_86	die	der	ART	ART	acc|sg|fem	87	NK
+11_87	Sicherheitskomponente	Sicherheitskomponent	NN	NN	acc|sg|fem	97	OA
+11_88	als	als	APPR	APPR	_	97	MO
+11_89	ein	ein	ART	ART	acc|sg|neut	91	NK
+11_90	wesentliches	wesentlich	ADJA	ADJA	acc|sg|neut|pos	91	NK
+11_91	Motiv	Motiv	NN	NN	acc|sg|neut	88	NK
+11_92	für	für	APPR	APPR	_	91	MNR
+11_93	ihre	ihr	PPOSAT	PPOSAT	acc|sg|fem	94	NK
+11_94	Hinwendung	Hinwendung	NN	NN	acc|sg|fem	92	NK
+11_95	zum	zu	APPRART	APPRART	dat|sg|masc	94	MNR
+11_96	Westen	Westen	NN	NN	dat|sg|masc	95	NK
+11_97	betrachten	betrachten	VVINF	VVINF	_	84	CJ
+11_98	und	und	KON	KON	_	97	CD
+11_99	sich	sich	PRF	PRF	acc|pl|3	104	OA
+11_100	nie	nie	ADV	ADV	_	104	MO
+11_101	auf	auf	APPR	APPR	_	104	OP
+11_102	eine	ein	ART	ART	acc|sg|fem	103	NK
+11_103	Politik	Politik	NN	NN	acc|sg|fem	101	NK
+11_104	einlassen	einlassen	VVINF	VVINF	_	105	OC
+11_105	werden	werden	VAFIN	VAFIN	pl|3|pres|ind	98	CJ
+11_106	,	--	$,	$,	_	105	--
+11_107	die	der	ART	ART	acc|sg|fem	114	SB
+11_108	europäische	europäisch	ADJA	ADJA	acc|sg|fem|pos	109	NK
+11_109	Einigung	Einigung	NN	NN	acc|sg|fem	114	OA
+11_110	und	und	KON	KON	_	109	CD
+11_111	transatlantische	transatlantisch	ADJA	ADJA	acc|sg|fem|pos	112	NK
+11_112	Partnerschaft	Partnerschaft	NN	NN	acc|sg|fem	110	CJ
+11_113	gegeneinander	gegeneinander	ADV	ADV	_	114	MO
+11_114	ausspielt	ausspielen	VVFIN	VVFIN	sg|3|pres|ind	103	RC
+11_115	.	--	$.	$.	_	114	--
+							
+12_1	Wie	wie	KOKOM	KOKOM	_	6	MO
+12_2	alle	aller	PIAT	PIAT	nom|pl|masc	3	NK
+12_3	Sender	Sender	NN	NN	nom|pl|masc	6	SB
+12_4	auf	auf	APPR	APPR	_	6	MO
+12_5	Dauernachrichten	Dauernachricht	NN	NN	acc|pl|fem	4	NK
+12_6	umstellten	umstellen	VVFIN	VVFIN	pl|3|past|ind	0	--
+12_7	,	--	$,	$,	_	6	--
+12_8	wie	wie	PWAV	PWAV	_	19	MO
+12_9	in	in	APPR	APPR	_	19	MO
+12_10	Ermangelung	Ermangelung	NN	NN	dat|sg|fem	9	NK
+12_11	von	von	APPR	APPR	_	10	PG
+12_12	Korrespondenten	Korrespondent	NN	NN	dat|pl|masc	11	NK
+12_13	Praktikanten	Praktikant	NN	NN	dat|pl|masc	20	SB
+12_14	und	und	KON	KON	_	13	CD
+12_15	Austauschschüler	Austauschschüler	NN	NN	nom|pl|masc	14	CJ
+12_16	vor	vor	APPR	APPR	_	19	MO
+12_17	die	der	ART	ART	acc|sg|fem	18	NK
+12_18	Kameras	Kamera	NN	NN	acc|sg|fem	16	NK
+12_19	gezerrt	zerren	VVPP	VVPP	_	20	OC
+12_20	wurden	werden	VAFIN	VAFIN	pl|3|past|ind	6	CJ
+12_21	,	--	$,	$,	_	20	--
+12_22	wie	wie	PWAV	PWAV	_	36	MO
+12_23	eine	ein	ART	ART	nom|sg|fem	25	NK
+12_24	krude	krude	ADJA	ADJA	nom|sg|fem|pos	25	NK
+12_25	Mischung	Mischung	NN	NN	nom|sg|fem	36	SB
+12_26	aus	aus	APPR	APPR	_	25	MNR
+12_27	selbst	selbst	ADV	ADV	_	28	MO
+12_28	ernannten	ernannt	ADJA	ADJA	dat|pl|fem|pos	31	NK
+12_29	und	und	KON	KON	_	28	CD
+12_30	ausgewiesenen	ausgewiesen	ADJA	ADJA	dat|pl|masc|pos	29	CJ
+12_31	Experten	Experte	NN	NN	gen|pl|masc	26	NK
+12_32	ins	in	APPRART	APPRART	acc|sg|neut	36	MO
+12_33	Licht	Licht	NN	NN	acc|sg|neut	32	NK
+12_34	der	der	ART	ART	gen|sg|fem	35	NK
+12_35	Öffentlichkeit	Öffentlichkeit	NN	NN	gen|sg|fem	33	AG
+12_36	trat	treten	VVFIN	VVFIN	sg|3|past|ind	20	CJ
+12_37	,	--	$,	$,	_	36	--
+12_38	wie	wie	PWAV	PWAV	_	40	MO
+12_39	Meldungen	Meldung	NN	NN	nom|pl|fem	40	SB
+12_40	auftauchten	auftauchten	VVFIN	VVFIN	pl|3|past|ind	36	OC
+12_41	und	und	KON	KON	_	40	CD
+12_42	spurlos	spurlos	ADJD	ADJD	pos	44	MO
+12_43	wieder	wieder	ADV	ADV	_	44	MO
+12_44	verschwanden	verschwinden	VVPP	VVPP	_	41	CJ
+12_45	,	--	$,	$,	_	44	--
+12_46	wie	wie	PWAV	PWAV	_	54	MO
+12_47	sich	sich	PRF	PRF	acc|pl|3	54	OA
+12_48	schnell	schnell	ADJD	ADJD	pos	54	MO
+12_49	das	der	ART	ART	acc|sg|neut	50	NK
+12_50	Profil	Profil	NN	NN	acc|sg|neut	54	OA
+12_51	der	der	ART	ART	gen|pl|masc	53	NK
+12_52	einzelnen	einzeln	ADJA	ADJA	gen|pl|masc|pos	53	NK
+12_53	Sender	Sender	NN	NN	gen|pl|masc	50	AG
+12_54	abzeichnete	abzeichnen	VVFIN	VVFIN	sg|3|past|ind	44	OC
+12_55	,	--	$,	$,	_	54	--
+12_56	der	der	PRELS	PRELS	nom|sg|masc	62	SB
+12_57	eine	ein	ART	ART	acc|sg|fem	61	NK
+12_58	verstärkt	verstärkt	ADJD	ADJD	pos	62	MO
+12_59	auf	auf	APPR	APPR	_	62	OP
+12_60	emotionale	emotional	ADJA	ADJA	acc|pl|masc|pos	61	NK
+12_61	Anreize	Anreiz	NN	NN	acc|pl|masc	59	NK
+12_62	setzte	setzen	VVFIN	VVFIN	sg|3|past|ind	50	RC
+12_63	,	--	$,	$,	_	62	--
+12_64	der	der	ART	ART	nom|sg|masc	65	NK
+12_65	andere	anderer	PIS	PIS	nom|sg|masc	73	SB
+12_66	sich	sich	PRF	PRF	acc|sg|3	73	OA
+12_67	mehr	mehr	ADV	ADV	_	73	MO
+12_68	auf	auf	APPR	APPR	_	73	MO
+12_69	die	der	ART	ART	acc|sg|fem	70	NK
+12_70	Erörterung	Erörterung	NN	NN	acc|sg|fem	68	NK
+12_71	von	von	APPR	APPR	_	70	PG
+12_72	Strategien	Strategie	NN	NN	dat|pl|fem	71	NK
+12_73	verlegte	verlegen	VVFIN	VVFIN	sg|3|past|ind	62	CJ
+12_74	,	--	$,	$,	_	73	--
+12_75	wie	wie	PWAV	PWAV	_	79	MO
+12_76	CNN	CNN	NE	NE	nom|sg|*	79	SB
+12_77	sich	sich	PRF	PRF	acc|sg|3	79	OA
+12_78	fast	fast	ADV	ADV	_	79	MO
+12_79	verliert	verlieren	VVFIN	VVFIN	sg|3|pres|ind	73	MO
+12_80	in	in	APPR	APPR	_	79	MO
+12_81	der	der	ART	ART	dat|sg|fem	83	NK
+12_82	steten	stet	ADJA	ADJA	dat|sg|fem|pos	83	NK
+12_83	Selbstbestätigung	Selbstbestätigung	NN	NN	dat|sg|fem	80	NK
+12_84	des	der	ART	ART	gen|sg|neut	85	NK
+12_85	Vorortseins	Vorortsein	NN	NN	gen|sg|neut	83	AG
+12_86	,	--	$,	$,	_	85	--
+12_87	während	während	KOUS	KOUS	_	94	CP
+12_88	die	der	ART	ART	nom|sg|fem	89	NK
+12_89	BBC	BBC	NE	NE	nom|sg|fem	94	SB
+12_90	noch	noch	ADV	ADV	_	89	CD
+12_91	ein	ein	ART	ART	acc|sg|neut	93	NK
+12_92	altes	alt	ADJA	ADJA	acc|sg|neut|pos	93	NK
+12_93	Journalisten-Ethos	Journalisten-Ethos	NN	NN	acc|sg|neut	90	CJ
+12_94	hochhält	hochhalten	VVFIN	VVFIN	sg|3|pres|ind	79	MO
+12_95	mit	mit	APPR	APPR	_	94	MO
+12_96	durchformulierten	durchformuliert	ADJA	ADJA	dat|pl|masc|pos	97	NK
+12_97	Beiträgen	Beitrag	NN	NN	dat|pl|masc	95	NK
+12_98	,	--	$,	$,	_	97	--
+12_99	die	der	PRELS	PRELS	nom|pl|masc	104	SB
+12_100	sich	sich	PRF	PRF	acc|pl|3	104	OA
+12_101	um	um	APPR	APPR	_	104	OP
+12_102	sachliche	sachlich	ADJA	ADJA	acc|sg|fem|pos	103	NK
+12_103	Distanz	Distanz	NN	NN	acc|sg|fem	101	NK
+12_104	bemühen	bemühen	VVINF	VVINF	pl|3|pres|ind	97	RC
+12_105	und	und	KON	KON	_	104	CD
+12_106	gleichzeitig	gleichzeitig	ADJD	ADJD	pos	109	MO
+12_107	Pathos	Pathos	NN	NN	acc|sg|neut	109	OA
+12_108	nicht	nicht	PTKNEG	PTKNEG	_	109	NG
+12_109	scheuen	scheuen	VVINF	VVINF	_	105	CJ
+12_110	.	--	$.	$.	_	109	--
+							
+13_1	Der	der	ART	ART	nom|sg|masc	2	NK
+13_2	Betriebsrat	Betriebsrat	NN	NN	nom|sg|masc	3	SB
+13_3	besteht	bestehen	VVFIN	VVFIN	sg|3|pres|ind	0	--
+13_4	in	in	APPR	APPR	_	3	MO
+13_5	Betrieben	Betrieb	NN	NN	dat|pl|masc	4	NK
+13_6	mit	mit	PTKVZ	PTKVZ	_	5	MNR
+13_7	in	in	APPR	APPR	_	13	MO
+13_8	der	der	ART	ART	dat|sg|fem	9	NK
+13_9	Regel	Regel	NN	NN	dat|sg|fem	7	NK
+13_10	5	5	CARD	CARD	_	14	NK
+13_11	bis	bis	KON	KON	_	10	CD
+13_12	20	20	CARD	CARD	_	11	CJ
+13_13	wahlberechtigten	wahlberechtigt	ADJA	ADJA	dat|pl|masc|pos	14	NK
+13_14	Arbeitnehmern	Arbeitnehmer	NN	NN	dat|pl|masc	6	NK
+13_15	aus	aus	APPR	APPR	_	14	MNR
+13_16	einer	ein	ART	ART	dat|sg|fem	17	NK
+13_17	Person	Person	NN	NN	dat|sg|fem	15	NK
+13_18	,	--	$,	$,	_	17	--
+13_19	21	21	CARD	CARD	_	23	NK
+13_20	bis	bis	KON	KON	_	19	CD
+13_21	50	50	CARD	CARD	_	20	CJ
+13_22	wahlberechtigten	wahlberechtigt	ADJA	ADJA	dat|pl|masc|pos	23	NK
+13_23	Arbeitnehmern	Arbeitnehmer	NN	NN	dat|pl|masc	14	CJ
+13_24	aus	aus	APPR	APPR	_	23	MNR
+13_25	3	3	CARD	CARD	_	26	NK
+13_26	Mitgliedern	Mitglied	NN	NN	dat|pl|neut	24	NK
+13_27	,	--	$,	$,	_	26	--
+13_28	51	51	CARD	CARD	_	30	NK
+13_29	wahlberechtigten	wahlberechtigt	ADJA	ADJA	dat|pl|masc|pos	30	NK
+13_30	Arbeitnehmern	Arbeitnehmer	NN	NN	dat|pl|masc	23	APP
+13_31	bis	bis	APPR	APPR	_	30	CD
+13_32	150	150	CARD	CARD	_	33	NK
+13_33	Arbeitnehmern	Arbeitnehmer	NN	NN	dat|pl|masc	31	NK
+13_34	aus	aus	APPR	APPR	_	33	MNR
+13_35	5	5	CARD	CARD	_	36	NK
+13_36	Mitgliedern	Mitglied	NN	NN	dat|pl|neut	34	NK
+13_37	,	--	$,	$,	_	36	--
+13_38	151	151	CARD	CARD	_	41	NK
+13_39	bis	bis	KON	KON	_	38	CD
+13_40	300	300	CARD	CARD	_	39	CJ
+13_41	Arbeitnehmern	Arbeitnehmer	NN	NN	dat|pl|masc	33	CJ
+13_42	aus	aus	APPR	APPR	_	41	MNR
+13_43	7	7	CARD	CARD	_	44	NK
+13_44	Mitgliedern	Mitglied	NN	NN	dat|pl|neut	42	NK
+13_45	,	--	$,	$,	_	44	--
+13_46	301	301	CARD	CARD	_	49	NK
+13_47	bis	bis	KON	KON	_	46	CD
+13_48	600	600	CARD	CARD	_	47	CJ
+13_49	Arbeitnehmern	Arbeitnehmer	NN	NN	dat|pl|masc	41	CJ
+13_50	aus	aus	APPR	APPR	_	49	MNR
+13_51	9	9	CARD	CARD	_	52	NK
+13_52	Mitgliedern	Mitglied	NN	NN	dat|pl|neut	50	NK
+13_53	,	--	$,	$,	_	52	--
+13_54	601	601	CARD	CARD	_	57	NK
+13_55	bis	bis	KON	KON	_	54	CD
+13_56	1.000	1.000	CARD	CARD	_	55	CJ
+13_57	Arbeitnehmern	Arbeitnehmer	NN	NN	dat|pl|masc	49	CJ
+13_58	aus	aus	APPR	APPR	_	57	MNR
+13_59	11	11	CARD	CARD	_	60	NK
+13_60	Mitgliedern	Mitglied	NN	NN	dat|pl|neut	58	NK
+13_61	,	--	$,	$,	_	60	--
+13_62	1.001	1.001	CARD	CARD	_	65	NK
+13_63	bis	bis	KON	KON	_	62	CD
+13_64	2.000	2.000	CARD	CARD	_	63	CJ
+13_65	Arbeitnehmern	Arbeitnehmer	NN	NN	dat|pl|masc	57	CJ
+13_66	aus	aus	APPR	APPR	_	65	MNR
+13_67	15	15	CARD	CARD	_	68	NK
+13_68	Mitgliedern	Mitglied	NN	NN	dat|pl|neut	66	NK
+13_69	,	--	$,	$,	_	68	--
+13_70	2.001	2.001	CARD	CARD	_	73	NK
+13_71	bis	bis	KON	KON	_	70	CD
+13_72	3.000	3.000	CARD	CARD	_	71	CJ
+13_73	Arbeitnehmern	Arbeitnehmer	NN	NN	dat|pl|masc	65	CJ
+13_74	aus	aus	APPR	APPR	_	73	MNR
+13_75	19	19	CARD	CARD	_	76	NK
+13_76	Mitgliedern	Mitglied	NN	NN	dat|pl|neut	74	NK
+13_77	,	--	$,	$,	_	76	--
+13_78	3.001	3.001	CARD	CARD	_	81	NK
+13_79	bis	bis	KON	KON	_	78	CD
+13_80	4.000	4.000	CARD	CARD	_	79	CJ
+13_81	Arbeitnehmern	Arbeitnehmer	NN	NN	dat|pl|masc	73	CJ
+13_82	aus	aus	APPR	APPR	_	81	MNR
+13_83	23	23	CARD	CARD	_	84	NK
+13_84	Mitgliedern	Mitglied	NN	NN	dat|pl|neut	82	NK
+13_85	,	--	$,	$,	_	84	--
+13_86	4.001	4.001	CARD	CARD	_	89	NK
+13_87	bis	bis	KON	KON	_	86	CD
+13_88	5.000	5.000	CARD	CARD	_	87	CJ
+13_89	Arbeitnehmern	Arbeitnehmer	NN	NN	dat|pl|masc	81	CJ
+13_90	aus	aus	APPR	APPR	_	89	MNR
+13_91	27	27	CARD	CARD	_	92	NK
+13_92	Mitgliedern	Mitglied	NN	NN	dat|pl|neut	90	NK
+13_93	,	--	$,	$,	_	92	--
+13_94	5.001	5.001	CARD	CARD	_	97	NK
+13_95	bis	bis	KON	KON	_	94	CD
+13_96	7.000	7.000	CARD	CARD	_	95	CJ
+13_97	Arbeitnehmern	Arbeitnehmer	NN	NN	dat|pl|masc	89	CJ
+13_98	aus	aus	APPR	APPR	_	97	MNR
+13_99	29	29	CARD	CARD	_	100	NK
+13_100	Mitgliedern	Mitglied	NN	NN	dat|pl|neut	98	NK
+13_101	,	--	$,	$,	_	100	--
+13_102	7.001	7.001	CARD	CARD	_	105	NK
+13_103	bis	bis	KON	KON	_	102	CD
+13_104	9.000	9.000	CARD	CARD	_	103	CJ
+13_105	Arbeitnehmern	Arbeitnehmer	NN	NN	dat|pl|masc	97	APP
+13_106	aus	aus	APPR	APPR	_	105	MNR
+13_107	31	31	CARD	CARD	_	108	NK
+13_108	Mitgliedern	Mitglied	NN	NN	dat|pl|neut	106	NK
+13_109	.	--	$.	$.	_	108	--
+							
+14_1	Recht	Recht	NN	NN	nom|sg|neut	0	--
+14_2	auf	auf	APPR	APPR	_	1	MNR
+14_3	Auskunft	Auskunft	NN	NN	acc|sg|fem	2	NK
+14_4	über	über	APPR	APPR	_	3	MNR
+14_5	die	der	ART	ART	acc|sg|fem	10	NK
+14_6	zu	zu	APPR	APPR	_	9	MO
+14_7	seiner	sein	PPOSAT	PPOSAT	dat|sg|fem	8	NK
+14_8	Person	Person	NN	NN	dat|sg|fem	6	NK
+14_9	gespeicherten	gespeichert	ADJA	ADJA	gen|pl|masc|pos	10	NK
+14_10	Daten	Datum	NN	NN	gen|pl|neut	4	NK
+14_11	,	--	$,	$,	_	10	--
+14_12	Recht	Recht	NN	NN	dat|sg|neut	1	CJ
+14_13	auf	auf	APPR	APPR	_	12	MNR
+14_14	Berichtigung	Berichtigung	NN	NN	acc|sg|fem	13	NK
+14_15	,	--	$,	$,	_	14	--
+14_16	wenn	wenn	KOUS	KOUS	_	21	CP
+14_17	die	der	ART	ART	nom|pl|neut	18	NK
+14_18	Daten	Datum	NN	NN	nom|pl|neut	21	SB
+14_19	unrichtig	unrichtig	ADJD	ADJD	pos	20	MO
+14_20	gespeichert	speichern	VVPP	VVPP	_	21	PD
+14_21	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	13	MO
+14_22	,	--	$,	$,	_	21	--
+14_23	Recht	Recht	NN	NN	nom|sg|neut	12	CJ
+14_24	auf	auf	APPR	APPR	_	23	MNR
+14_25	Sperrung	Sperrung	NN	NN	acc|sg|fem	24	NK
+14_26	,	--	$,	$,	_	25	--
+14_27	wenn	wenn	KOUS	KOUS	_	31	CP
+14_28	er	er	PPER	PPER	nom|sg|masc|3	31	SB
+14_29	die	der	ART	ART	acc|sg|fem	30	NK
+14_30	Richtigkeit	Richtigkeit	NN	NN	acc|sg|fem	31	OA
+14_31	bestreitet	bestreiten	VVFIN	VVFIN	sg|3|pres|ind	20	MO
+14_32	und	und	KON	KON	_	31	CD
+14_33	sich	sich	PRF	PRF	acc|sg|3	40	DA
+14_34	weder	weder	KON	KON	_	36	CD
+14_35	die	der	ART	ART	acc|sg|fem	36	NK
+14_36	Richtigkeit	Richtigkeit	NN	NN	acc|sg|fem	40	OA
+14_37	noch	noch	KON	KON	_	36	CD
+14_38	die	der	ART	ART	acc|sg|fem	39	NK
+14_39	Unrichtigkeit	Unrichtigkeit	NN	NN	acc|sg|fem	37	CJ
+14_40	feststellen	feststellen	VVINF	VVINF	_	41	OC
+14_41	läßt	lassen	VVFIN	VVFIN	sg|3|pres|ind	32	CJ
+14_42	,	--	$,	$,	_	41	--
+14_43	Recht	Recht	NN	NN	acc|sg|neut	23	CJ
+14_44	auf	auf	APPR	APPR	_	43	MNR
+14_45	Löschung	Löschung	NN	NN	acc|sg|fem	44	NK
+14_46	,	--	$,	$,	_	45	--
+14_47	insbesondere	insbesondere	ADV	ADV	_	52	MO
+14_48	wenn	wenn	KOUS	KOUS	_	52	CP
+14_49	die	der	ART	ART	nom|sg|fem	50	NK
+14_50	Speicherung	Speicherung	NN	NN	nom|sg|fem	52	SB
+14_51	unzulässig	unzulässig	ADJD	ADJD	pos	52	PD
+14_52	war	sein	VAFIN	VAFIN	sg|3|past|ind	44	MO
+14_53	,	--	$,	$,	_	52	--
+14_54	Recht	Recht	NN	NN	nom|sg|neut	43	CJ
+14_55	auf	auf	APPR	APPR	_	54	MNR
+14_56	Folgenbeseitigung	Folgenbeseitigung	NN	NN	dat|sg|fem	55	NK
+14_57	,	--	$,	$,	_	56	--
+14_58	Recht	Recht	NN	NN	dat|sg|neut	54	CJ
+14_59	auf	auf	APPR	APPR	_	58	MNR
+14_60	Widerspruch	Widerspruch	NN	NN	acc|sg|masc	59	NK
+14_61	gegen	gegen	APPR	APPR	_	60	MNR
+14_62	die	der	ART	ART	acc|sg|fem	63	NK
+14_63	Verarbeitung	Verarbeitung	NN	NN	acc|sg|fem	61	NK
+14_64	seiner	sein	PPOSAT	PPOSAT	gen|pl|neut	66	NK
+14_65	personenbezogenen	personenbezogen	ADJA	ADJA	gen|pl|neut|pos	66	NK
+14_66	Daten	Datum	NN	NN	gen|pl|neut	63	AG
+14_67	,	--	$,	$,	_	66	--
+14_68	Recht	Recht	NN	NN	dat|sg|neut	58	CJ
+14_69	auf	auf	APPR	APPR	_	68	MNR
+14_70	Schadensersatz	Schadensersatz	NN	NN	acc|sg|masc	69	NK
+14_71	,	--	$,	$,	_	70	--
+14_72	das	der	ART	ART	acc|sg|neut	73	NK
+14_73	Recht	Recht	NN	NN	acc|sg|neut	70	CJ
+14_74	,	--	$,	$,	_	73	--
+14_75	sich	sich	PRF	PRF	acc|pl|3	88	OA
+14_76	an	an	APPR	APPR	_	88	MO
+14_77	den	der	ART	ART	dat|pl|*	78	NK
+14_78	Bundesbeauftragten	Bundesbeauftragter	NN	NN	dat|pl|*	76	NK
+14_79	bzw.	bzw.	KON	KON	_	68	CD
+14_80	den	der	ART	ART	dat|pl|*	83	NK
+14_81	jeweils	jeweils	ADV	ADV	_	82	MO
+14_82	zuständigen	zuständig	ADJA	ADJA	dat|pl|*|pos	83	NK
+14_83	Landesbeauftragten	Landesbeauftragter	NN	NN	dat|pl|*	79	CJ
+14_84	für	für	APPR	APPR	_	83	MNR
+14_85	den	der	ART	ART	acc|sg|masc	86	NK
+14_86	Datenschutz	Datenschutz	NN	NN	acc|sg|masc	84	NK
+14_87	zu	zu	PTKZU	PTKZU	_	88	PM
+14_88	wenden	wenden	VVINF	VVINF	_	73	OC
+14_89	,	--	$,	$,	_	88	--
+14_90	wenn	wenn	KOUS	KOUS	_	94	CP
+14_91	er	er	PPER	PPER	nom|sg|masc|3	94	SB
+14_92	der	der	ART	ART	dat|sg|fem	93	NK
+14_93	Ansicht	Ansicht	NN	NN	dat|sg|fem	94	PD
+14_94	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	88	MO
+14_95	,	--	$,	$,	_	94	--
+14_96	bei	bei	APPR	APPR	_	105	MO
+14_97	der	der	ART	ART	dat|sg|fem	98	NK
+14_98	Verarbeitung	Verarbeitung	NN	NN	dat|sg|fem	96	NK
+14_99	seiner	sein	PPOSAT	PPOSAT	gen|pl|neut	101	NK
+14_100	personenbezogenen	personenbezogen	ADJA	ADJA	gen|pl|neut|pos	101	NK
+14_101	Daten	Datum	NN	NN	gen|pl|neut	98	AG
+14_102	in	in	APPR	APPR	_	105	MO
+14_103	seinen	sein	PPOSAT	PPOSAT	dat|pl|neut	104	NK
+14_104	Rechten	Recht	NN	NN	dat|pl|neut	102	NK
+14_105	verletzt	verletzen	VVPP	VVPP	_	107	OC
+14_106	zu	zu	PTKZU	PTKZU	_	107	PM
+14_107	sein	sein	VAINF	VAINF	_	93	OC
+14_108	.	--	$.	$.	_	107	--
+							
+15_1	Denn	denn	KON	KON	_	3	JU
+15_2	es	es	PPER	PPER	nom|sg|neut|3	3	SB
+15_3	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	0	--
+15_4	eine	einer	PIS	PIS	nom|sg|fem	3	PD
+15_5	der	der	ART	ART	gen|pl|fem	6	NK
+15_6	Grundanschauungen	Grundanschauung	NN	NN	gen|pl|fem	4	AG
+15_7	der	der	ART	ART	gen|sg|fem	9	NK
+15_8	freiheitlichen	freiheitlich	ADJA	ADJA	gen|sg|fem|pos	9	NK
+15_9	Demokratie	Demokratie	NN	NN	gen|sg|fem	6	AG
+15_10	,	--	$,	$,	_	9	--
+15_11	daß	daß	KOUS	KOUS	_	16	CP
+15_12	nur	nur	ADV	ADV	_	16	MO
+15_13	die	der	ART	ART	nom|sg|fem	16	NK
+15_14	ständige	ständig	ADJA	ADJA	nom|sg|fem|pos	16	NK
+15_15	geistige	geistig	ADJA	ADJA	nom|sg|fem|pos	16	NK
+15_16	Auseinandersetzung	Auseinandersetzung	NN	NN	nom|sg|fem	44	CJ
+15_17	zwischen	zwischen	APPR	APPR	_	16	MNR
+15_18	den	der	ART	ART	dat|pl|masc	22	NK
+15_19	einander	einander	PRF	PRF	_	20	OA
+15_20	begegnenden	begegnend	ADJA	ADJA	dat|pl|fem|pos	22	NK
+15_21	sozialen	sozial	ADJA	ADJA	dat|pl|fem|pos	22	NK
+15_22	Kräften	Kraft	NN	NN	dat|pl|fem	17	NK
+15_23	und	und	KON	KON	_	22	CD
+15_24	Interessen	Interesse	NN	NN	dat|pl|neut	23	CJ
+15_25	,	--	$,	$,	_	24	--
+15_26	den	der	ART	ART	dat|pl|fem	28	NK
+15_27	politischen	politisch	ADJA	ADJA	dat|pl|*|pos	28	NK
+15_28	Ideen	Idee	NN	NN	dat|pl|fem	16	CJ
+15_29	und	und	KON	KON	_	28	CD
+15_30	damit	damit	PROAV	PROAV	_	36	MO
+15_31	auch	auch	ADV	ADV	_	36	MO
+15_32	den	der	ART	ART	acc|sg|masc	36	NK
+15_33	sie	sie	PPER	PPER	nom|pl|masc|3	11	SB
+15_34	vertretenden	vertretend	ADJA	ADJA	gen|pl|fem|pos	36	NK
+15_35	politischen	politisch	ADJA	ADJA	gen|pl|fem|pos	36	NK
+15_36	Parteien	Partei	NN	NN	gen|pl|fem	29	CJ
+15_37	der	der	ART	ART	gen|sg|fem	39	NK
+15_38	richtige	richtig	ADJA	ADJA	nom|sg|masc|pos	39	NK
+15_39	Weg	Weg	NN	NN	nom|sg|masc	44	SB
+15_40	zur	zu	APPRART	APPRART	dat|sg|fem	39	MNR
+15_41	Bildung	Bildung	NN	NN	dat|sg|fem	40	NK
+15_42	des	der	ART	ART	gen|sg|neut	43	NK
+15_43	Staatswillens	Staatswillen	NN	NN	gen|sg|neut	41	AG
+15_44	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	3	CJ
+15_45	-	--	$(	$(	_	44	--
+15_46	nicht	nicht	PTKNEG	PTKNEG	_	44	NG
+15_47	in	in	APPR	APPR	_	44	MO
+15_48	dem	der	ART	ART	dat|sg|masc	49	NK
+15_49	Sinne	Sinn	NN	NN	dat|sg|masc	47	NK
+15_50	,	--	$,	$,	_	49	--
+15_51	daß	daß	KOUS	KOUS	_	57	CP
+15_52	er	er	PPER	PPER	nom|sg|masc|3	57	SB
+15_53	immer	immer	ADV	ADV	_	57	MO
+15_54	objektiv	objektiv	ADJD	ADJD	pos	57	MO
+15_55	richtige	richtig	ADJA	ADJA	acc|pl|neut|pos	56	NK
+15_56	Ergebnisse	Ergebnis	NN	NN	acc|pl|neut	57	OA
+15_57	liefere	liefern	VVFIN	VVFIN	sg|3|pres|subj	44	SB
+15_58	,	--	$,	$,	_	57	--
+15_59	denn	denn	KON	KON	_	44	CD
+15_60	dieser	dieser	PDAT	PDAT	nom|sg|masc	61	NK
+15_61	Weg	Weg	NN	NN	nom|sg|masc	62	SB
+15_62	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	59	CJ
+15_63	a	--	NE	NE	_	62	DA
+15_64	process	process	NE	NE	_	63	UC
+15_65	of	of	NE	NE	_	63	UC
+15_66	trial	trial	ADJD	ADJD	_	63	UC
+15_67	and	and	FM	FM	_	63	UC
+15_68	error	error	FM	FM	_	63	UC
+15_69	(	--	$(	$(	_	68	--
+15_70	I.	I.	ADJA	ADJA	dat|sg|masc|pos	72	PNC
+15_71	B.	B.	NN	NN	dat|sg|neut	72	PNC
+15_72	Talmon	Talmon	NE	NE	nom|sg|neut	63	PAR
+15_73	)	--	$(	$(	_	72	--
+15_74	,	--	$,	$,	_	73	--
+15_75	aber	aber	KON	KON	_	62	CD
+15_76	doch	doch	ADV	ADV	_	77	MO
+15_77	so	so	ADV	ADV	_	75	CJ
+15_78	,	--	$,	$,	_	77	--
+15_79	daß	daß	KOUS	KOUS	_	110	CP
+15_80	er	er	PPER	PPER	nom|sg|masc|3	110	SB
+15_81	durch	durch	APPR	APPR	_	110	MO
+15_82	die	der	ART	ART	acc|sg|fem	85	NK
+15_83	ständige	ständig	ADJA	ADJA	acc|sg|fem|pos	85	NK
+15_84	gegenseitige	gegenseitig	ADJA	ADJA	acc|sg|fem|pos	85	NK
+15_85	Kontrolle	Kontrolle	NN	NN	acc|sg|fem	81	NK
+15_86	und	und	KON	KON	_	85	CD
+15_87	Kritik	Kritik	NN	NN	acc|sg|fem	86	CJ
+15_88	die	der	ART	ART	acc|sg|fem	90	NK
+15_89	beste	gut	ADJA	ADJA	acc|sg|fem|sup	90	NK
+15_90	Gewähr	Gewähr	NN	NN	nom|sg|fem	110	OA
+15_91	für	für	APPR	APPR	_	90	MNR
+15_92	eine	ein	ART	ART	acc|sg|fem	98	NK
+15_93	(	--	$(	$(	_	92	--
+15_94	relativ	relativ	ADJD	ADJD	pos	96	MO
+15_95	)	--	$(	$(	_	94	--
+15_96	richtige	richtig	ADJA	ADJA	acc|sg|fem|pos	98	NK
+15_97	politische	politisch	ADJA	ADJA	acc|sg|fem|pos	98	NK
+15_98	Linie	Linie	NN	NN	acc|sg|fem	91	NK
+15_99	als	als	APPR	APPR	_	110	MO
+15_100	Resultante	Resultante	NN	NN	acc|sg|fem	99	NK
+15_101	und	und	KON	KON	_	100	CD
+15_102	Ausgleich	Ausgleich	NN	NN	acc|sg|masc	101	CJ
+15_103	zwischen	zwischen	APPR	APPR	_	102	MNR
+15_104	den	der	ART	ART	dat|pl|masc	109	NK
+15_105	im	in	APPRART	APPRART	dat|sg|masc	107	MO
+15_106	Staat	Staat	NN	NN	dat|sg|masc	105	NK
+15_107	wirksamen	wirksam	ADJA	ADJA	dat|sg|neut|pos	109	NK
+15_108	politischen	politisch	ADJA	ADJA	dat|sg|neut|pos	109	NK
+15_109	Kräften	Kraft	NN	NN	dat|pl|fem	103	NK
+15_110	gibt	geben	VVFIN	VVFIN	sg|3|pres|ind	77	CC
+15_111	.	--	$.	$.	_	110	--
+							
+16_1	Vom	von	APPRART	APPRART	dat|sg|neut	7	OP
+16_2	Amt	Amt	NN	NN	dat|sg|neut	1	NK
+16_3	des	der	ART	ART	gen|sg|masc	5	NK
+16_4	ehrenamtlichen	ehrenamtlich	ADJA	ADJA	gen|sg|masc|pos	5	NK
+16_5	Richters	Richter	NN	NN	gen|sg|masc	2	AG
+16_6	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	0	--
+16_7	ausgeschlossen	ausschließen	VVPP	VVPP	_	6	PD
+16_8	Personen	Person	NN	NN	nom|pl|fem	7	SB
+16_9	,	--	$,	$,	_	8	--
+16_10	die	der	PRELS	PRELS	nom|pl|masc	20	SB
+16_11	infolge	infolge	APPR	APPR	_	20	MO
+16_12	Richterspruchs	Richterspruch	NN	NN	gen|sg|masc	11	NK
+16_13	die	der	ART	ART	acc|sg|fem	14	NK
+16_14	Fähigkeit	Fähigkeit	NN	NN	acc|sg|fem	20	OA
+16_15	zur	zu	APPRART	APPRART	dat|sg|fem	14	MNR
+16_16	Bekleidung	Bekleidung	NN	NN	dat|sg|fem	15	NK
+16_17	öffentlicher	öffentlich	ADJA	ADJA	gen|pl|masc|pos	18	NK
+16_18	Ämter	Ämt	NN	NN	gen|pl|masc	16	AG
+16_19	nicht	nicht	PTKNEG	PTKNEG	_	20	NG
+16_20	besitzen	besitzen	VVFIN	VVFIN	pl|3|pres|ind	8	RC
+16_21	oder	oder	KON	KON	_	20	CD
+16_22	wegen	wegen	APPR	APPR	_	45	MO
+16_23	einer	ein	ART	ART	*|sg|fem	25	NK
+16_24	vorsätzlichen	vorsätzlich	ADJA	ADJA	*|sg|fem|pos	25	NK
+16_25	Tat	Tat	NN	NN	*|sg|fem	22	NK
+16_26	zu	zu	APPR	APPR	_	45	OP
+16_27	einer	ein	ART	ART	dat|sg|fem	28	NK
+16_28	Freiheitsstrafe	Freiheitsstrafe	NN	NN	dat|sg|fem	26	NK
+16_29	von	von	APPR	APPR	_	28	MNR
+16_30	mehr	mehr	PIAT	PIAT	*|*|*	33	NK
+16_31	als	als	KOKOM	KOKOM	_	32	CM
+16_32	sechs	sechs	CARD	CARD	_	30	CC
+16_33	Monaten	Monat	NN	NN	dat|pl|masc	29	NK
+16_34	oder	oder	KON	KON	_	26	CD
+16_35	innerhalb	innerhalb	APPR	APPR	_	34	CJ
+16_36	der	der	ART	ART	gen|pl|neut	39	NK
+16_37	letzten	letzter	ADJA	ADJA	gen|pl|neut|pos	39	NK
+16_38	zehn	zehn	CARD	CARD	_	39	NK
+16_39	Jahre	Jahr	NN	NN	gen|pl|neut	35	NK
+16_40	wegen	wegen	APPR	APPR	_	45	MO
+16_41	einer	ein	ART	ART	*|sg|fem	44	NK
+16_42	Steuer-	Steuer	TRUNC	TRUNC	_	43	CJ
+16_43	oder	oder	KON	KON	_	44	CD
+16_44	Monopolstraftat	Monopolstraftat	NN	NN	*|sg|fem	40	NK
+16_45	verurteilt	verurteilen	VVPP	VVPP	_	46	OC
+16_46	worden	werden	VAPP	VAPP	_	47	OC
+16_47	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	21	CJ
+16_48	,	--	$,	$,	_	47	--
+16_49	soweit	soweit	KOUS	KOUS	_	56	CP
+16_50	es	es	PPER	PPER	nom|sg|neut|3	56	EP
+16_51	sich	sich	PRF	PRF	acc|sg|3	56	OA
+16_52	nicht	nicht	PTKNEG	PTKNEG	_	56	NG
+16_53	um	um	APPR	APPR	_	56	OP
+16_54	eine	ein	ART	ART	acc|sg|fem	55	NK
+16_55	Tat	Tat	NN	NN	acc|sg|fem	53	NK
+16_56	handelt	handeln	VVFIN	VVFIN	sg|3|pres|ind	45	MO
+16_57	,	--	$,	$,	_	56	--
+16_58	für	für	APPR	APPR	_	69	MO
+16_59	die	der	PRELS	PRELS	acc|pl|fem	58	NK
+16_60	das	der	ART	ART	nom|sg|neut	65	NK
+16_61	nach	nach	APPR	APPR	_	64	MO
+16_62	der	der	ART	ART	dat|sg|fem	63	NK
+16_63	Verurteilung	Verurteilung	NN	NN	dat|sg|fem	61	NK
+16_64	geltende	geltend	ADJA	ADJA	acc|sg|neut|pos	65	NK
+16_65	Gesetz	Gesetz	NN	NN	acc|sg|neut	69	SB
+16_66	nur	nur	ADV	ADV	_	68	MO
+16_67	noch	noch	ADV	ADV	_	66	MO
+16_68	Geldbuße	Geldbuße	NN	NN	acc|sg|fem	69	OA
+16_69	androht	androhen	VVPP	VVPP	_	7	PAR
+16_70	,	--	$,	$,	_	69	--
+16_71	Personen	Person	NN	NN	nom|pl|fem	68	APP
+16_72	,	--	$,	$,	_	71	--
+16_73	gegen	gegen	APPR	APPR	_	79	MO
+16_74	die	der	ART	ART	acc|sg|fem	75	NK
+16_75	Anklage	Anklage	NN	NN	acc|sg|fem	80	SB
+16_76	wegen	wegen	APPR	APPR	_	79	MO
+16_77	einer	ein	ART	ART	*|sg|fem	78	NK
+16_78	Tat	Tat	NN	NN	*|sg|fem	76	NK
+16_79	erhoben	erheben	VVPP	VVPP	_	80	PD
+16_80	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	71	RC
+16_81	,	--	$,	$,	_	80	--
+16_82	die	der	PRELS	PRELS	nom|sg|fem	94	SB
+16_83	den	der	ART	ART	acc|sg|masc	84	NK
+16_84	Verlust	Verlust	NN	NN	acc|sg|masc	93	OA
+16_85	der	der	ART	ART	gen|sg|fem	86	NK
+16_86	Fähigkeit	Fähigkeit	NN	NN	gen|sg|fem	84	AG
+16_87	zur	zu	APPRART	APPRART	dat|sg|fem	86	MNR
+16_88	Bekleidung	Bekleidung	NN	NN	dat|sg|fem	87	NK
+16_89	öffentlicher	öffentlich	ADJA	ADJA	gen|pl|masc|pos	90	NK
+16_90	Ämter	Ämt	NN	NN	gen|pl|masc	88	AG
+16_91	zur	zu	APPRART	APPRART	dat|sg|fem	93	CVC
+16_92	Folge	Folge	NN	NN	dat|sg|fem	91	NK
+16_93	haben	haben	VAINF	VAINF	_	94	OC
+16_94	kann	können	VMFIN	VMFIN	sg|3|pres|ind	68	RC
+16_95	,	--	$,	$,	_	94	--
+16_96	Personen	Person	NN	NN	dat|pl|fem	90	APP
+16_97	,	--	$,	$,	_	96	--
+16_98	die	der	PRELS	PRELS	nom|pl|fem	108	SB
+16_99	nicht	nicht	PTKNEG	PTKNEG	_	108	NG
+16_100	das	der	ART	ART	acc|sg|neut	101	NK
+16_101	Wahlrecht	Wahlrecht	NN	NN	acc|sg|neut	108	OA
+16_102	zu	zu	APPR	APPR	_	101	MNR
+16_103	den	der	ART	ART	dat|pl|fem	105	NK
+16_104	gesetzgebenden	gesetzgebend	ADJA	ADJA	dat|pl|fem|pos	105	NK
+16_105	Körperschaften	Körperschaft	NN	NN	dat|pl|fem	102	NK
+16_106	des	der	ART	ART	gen|sg|neut	107	NK
+16_107	Landes	Land	NN	NN	gen|sg|neut	105	AG
+16_108	besitzen	besitzen	VVFIN	VVFIN	pl|3|pres|ind	96	RC
+16_109	.	--	$.	$.	_	108	--
+							
+17_1	Obgleich	obgleich	KOUS	KOUS	_	9	CP
+17_2	man	man	PIS	PIS	nom|sg|*	9	SB
+17_3	nun	nun	ADV	ADV	_	9	MO
+17_4	solchen	solcher	PIS	PIS	dat|pl|fem	6	NK
+17_5	eiteln	eiteln	VVINF	VVINF	pl|3|pres|ind	6	NK
+17_6	Leuten	Leute	NN	NN	dat|pl|*	8	OA
+17_7	nicht	nicht	PTKNEG	PTKNEG	_	9	NG
+17_8	schmeicheln	schmeicheln	VVINF	VVINF	_	9	OC
+17_9	soll	sollen	VMFIN	VMFIN	sg|3|pres|ind	11	RE
+17_10	,	--	$,	$,	_	9	--
+17_11	so	so	ADV	ADV	_	12	MO
+17_12	hat	haben	VAFIN	VAFIN	sg|3|pres|ind	0	--
+17_13	doch	doch	ADV	ADV	_	12	MO
+17_14	auch	auch	ADV	ADV	_	17	MO
+17_15	nicht	nicht	PTKNEG	PTKNEG	_	17	NG
+17_16	jeder	jeder	PIAT	PIAT	nom|sg|masc	17	NK
+17_17	Beruf	Beruf	NN	NN	acc|sg|masc	12	OA
+17_18	,	--	$,	$,	_	17	--
+17_19	sie	sie	PPER	PPER	acc|pl|fem|3	21	OA
+17_20	zu	zu	PTKZU	PTKZU	_	21	PM
+17_21	bessern	bessern	VVINF	VVINF	_	12	OC
+17_22	,	--	$,	$,	_	21	--
+17_23	zum	zu	APPRART	APPRART	dat|sg|masc	28	MO
+17_24	Pädagogen	Pädagogen	NN	NN	dat|sg|masc	23	NK
+17_25	an	an	APPR	APPR	_	24	MNR
+17_26	ihnen	ihnen	PPER	PPER	dat|pl|*|3	25	NK
+17_27	zu	zu	PTKZU	PTKZU	_	28	PM
+17_28	werden	werden	VAINF	VAINF	_	11	RE
+17_29	,	--	$,	$,	_	28	--
+17_30	besonders	besonders	ADV	ADV	_	31	MO
+17_31	nicht	nicht	PTKNEG	PTKNEG	_	34	NG
+17_32	an	an	APPR	APPR	_	23	CJ
+17_33	solchen	solcher	PIAT	PIAT	dat|pl|masc	34	NK
+17_34	Menschen	Mensch	NN	NN	dat|pl|masc	32	NK
+17_35	,	--	$,	$,	_	34	--
+17_36	die	der	PRELS	PRELS	nom|pl|masc	43	SB
+17_37	mit	mit	APPR	APPR	_	43	MO
+17_38	ihm	ihm	PPER	PPER	dat|sg|masc|3	37	NK
+17_39	in	in	APPR	APPR	_	43	CVC
+17_40	gar	gar	ADV	ADV	_	41	MO
+17_41	keiner	kein	PIAT	PIAT	dat|sg|fem	42	NK
+17_42	Verbindung	Verbindung	NN	NN	dat|sg|fem	39	NK
+17_43	stehen	stehen	VVFIN	VVFIN	pl|3|pres|ind	34	RC
+17_44	,	--	$,	$,	_	43	--
+17_45	ihnen	ihnen	PPER	PPER	dat|pl|masc|3	51	DA
+17_46	auf	auf	APPR	APPR	_	51	MO
+17_47	ungeschliffene	ungeschliffen	ADJA	ADJA	acc|sg|fem|pos	48	NK
+17_48	Art	Art	NN	NN	acc|sg|fem	46	NK
+17_49	den	der	ART	ART	acc|sg|masc	50	NK
+17_50	Text	Text	NN	NN	acc|sg|masc	51	OA
+17_51	lesen	lesen	VVINF	VVINF	_	28	CJ
+17_52	,	--	$,	$,	_	51	--
+17_53	sie	sie	PPER	PPER	acc|pl|fem|3	55	OA
+17_54	zu	zu	PTKZU	PTKZU	_	55	PM
+17_55	demütigen	demütigen	VVINF	VVINF	_	51	CJ
+17_56	oder	oder	KON	KON	_	55	CD
+17_57	weniger	weniger	PIAT	PIAT	*|*|*	58	NK
+17_58	Höflichkeit	Höflichkeit	NN	NN	nom|sg|fem	64	OA
+17_59	und	und	KON	KON	_	58	CD
+17_60	Gefälligkeit	Gefälligkeit	NN	NN	acc|sg|fem	59	CJ
+17_61	gegen	gegen	APPR	APPR	_	64	MO
+17_62	sie	sie	PPER	PPER	acc|pl|*|3	61	NK
+17_63	zu	zu	PTKZU	PTKZU	_	64	PM
+17_64	üben	üben	VVINF	VVINF	_	56	CJ
+17_65	,	--	$,	$,	_	64	--
+17_66	als	als	KOUS	KOUS	_	71	CM
+17_67	man	man	PIS	PIS	nom|sg|*	71	SB
+17_68	jedem	jeder	PIAT	PIAT	dat|sg|*	69	NK
+17_69	andern	anderer	PIS	PIS	nom|pl|*	71	SB
+17_70	widmen	widmen	VVINF	VVINF	_	71	OC
+17_71	würde	werden	VAFIN	VAFIN	sg|3|past|subj	57	CC
+17_72	,	--	$,	$,	_	71	--
+17_73	und	und	KON	KON	_	71	CD
+17_74	es	es	PPER	PPER	nom|sg|neut|3	75	SB
+17_75	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	73	CJ
+17_76	unbillig	unbillig	ADJD	ADJD	pos	75	PD
+17_77	,	--	$,	$,	_	76	--
+17_78	wenn	wenn	KOUS	KOUS	_	91	CP
+17_79	diejenigen	derjenige	PDS	PDS	nom|pl|*	91	SB
+17_80	,	--	$,	$,	_	79	--
+17_81	welche	welcher	PRELS	PRELS	nom|pl|*	86	SB
+17_82	täglich	täglich	ADJD	ADJD	pos	85	MO
+17_83	mit	mit	APPR	APPR	_	85	MO
+17_84	ihnen	ihnen	PPER	PPER	dat|pl|*|3	83	NK
+17_85	leben	leben	VVINF	VVINF	_	86	OC
+17_86	müssen	müssen	VMFIN	VMFIN	pl|3|pres|ind	79	RC
+17_87	,	--	$,	$,	_	86	--
+17_88	dies	dieser	PDS	PDS	nom|sg|neut	91	OA
+17_89	von	von	APPR	APPR	_	91	MO
+17_90	uns	uns	PPER	PPER	dat|pl|*|1	89	NK
+17_91	verlangen	verlangen	VVINF	VVINF	_	74	RE
+17_92	,	--	$,	$,	_	91	--
+17_93	wenn	wenn	KOUS	KOUS	_	95	CP
+17_94	sie	sie	PPER	PPER	nom|pl|masc|3	95	SB
+17_95	fordern	fordern	VVFIN	VVFIN	pl|3|pres|ind	86	MO
+17_96	,	--	$,	$,	_	95	--
+17_97	daß	daß	KOUS	KOUS	_	102	CP
+17_98	wir	wir	PPER	PPER	nom|pl|*|1	102	SB
+17_99	mit	mit	APPR	APPR	_	101	MO
+17_100	Hand	Hand	NN	NN	dat|sg|fem	99	NK
+17_101	anlegen	anlegen	VVINF	VVINF	_	102	OC
+17_102	sollen	sollen	VMFIN	VMFIN	pl|3|pres|ind	95	OC
+17_103	,	--	$,	$,	_	102	--
+17_104	ihre	ihr	PPOSAT	PPOSAT	acc|pl|masc	106	NK
+17_105	verzogenen	verzogen	ADJA	ADJA	acc|pl|masc|pos	106	NK
+17_106	Freunde	Freund	NN	NN	acc|pl|masc	107	OA
+17_107	umzubilden	umbilden	VVIZU	VVIZU	_	91	OC
+17_108	.	--	$.	$.	_	107	--
+							
+18_1	Dabei	dabei	PROAV	PROAV	_	2	MO
+18_2	verlangen	verlangen	VVFIN	VVFIN	pl|3|pres|ind	0	--
+18_3	die	der	ART	ART	acc|sg|fem	4	NK
+18_4	Ermittlung	Ermittlung	NN	NN	acc|sg|fem	2	OA
+18_5	der	der	ART	ART	gen|pl|neut	6	NK
+18_6	Daten	Datum	NN	NN	gen|pl|neut	4	AG
+18_7	und	und	KON	KON	_	4	CD
+18_8	die	der	ART	ART	acc|sg|fem	9	NK
+18_9	Überprüfung	Überprüfung	NN	NN	acc|sg|fem	7	CJ
+18_10	ihrer	ihr	PPOSAT	PPOSAT	gen|sg|fem	11	NK
+18_11	Richtigkeit	Richtigkeit	NN	NN	gen|sg|fem	9	AG
+18_12	im	in	APPRART	APPRART	dat|sg|masc	11	MNR
+18_13	Zeitpunkt	Zeitpunkt	NN	NN	dat|sg|masc	12	NK
+18_14	der	der	ART	ART	gen|sg|fem	15	NK
+18_15	Erstellung	Erstellung	NN	NN	gen|sg|fem	13	AG
+18_16	der	der	ART	ART	gen|sg|fem	17	NK
+18_17	Datenbank	Datenbank	NN	NN	gen|sg|fem	15	AG
+18_18	von	von	APPR	APPR	_	15	MNR
+18_19	der	der	ART	ART	dat|sg|fem	20	NK
+18_20	Person	Person	NN	NN	dat|sg|fem	18	NK
+18_21	,	--	$,	$,	_	20	--
+18_22	die	der	PRELS	PRELS	nom|sg|fem	25	SB
+18_23	die	der	ART	ART	nom|sg|fem	24	NK
+18_24	Datenbank	Datenbank	NN	NN	nom|sg|fem	25	SB
+18_25	erstellt	erstellen	VVFIN	VVFIN	sg|3|pres|ind	20	RC
+18_26	,	--	$,	$,	_	25	--
+18_27	zwar	zwar	ADV	ADV	_	35	MO
+18_28	grundsätzlich	grundsätzlich	ADJD	ADJD	pos	46	MO
+18_29	nicht	nicht	PTKNEG	PTKNEG	_	35	NG
+18_30	,	--	$,	$,	_	29	--
+18_31	dass	dass	KOUS	KOUS	_	35	CP
+18_32	sie	sie	PPER	PPER	nom|pl|fem|3	35	SB
+18_33	besondere	besonderer	ADJA	ADJA	nom|pl|neut|comp	34	NK
+18_34	Mittel	Mittel	NN	NN	acc|pl|neut	35	OA
+18_35	einsetzt	einsetzen	VVFIN	VVFIN	sg|3|pres|ind	25	CJ
+18_36	,	--	$,	$,	_	35	--
+18_37	da	da	KOUS	KOUS	_	42	CP
+18_38	es	es	PPER	PPER	nom|sg|neut|3	42	EP
+18_39	sich	sich	PRF	PRF	acc|sg|3	42	OA
+18_40	um	um	APPR	APPR	_	42	OP
+18_41	Daten	Datum	NN	NN	acc|pl|neut	40	NK
+18_42	handelt	handeln	VVFIN	VVFIN	sg|3|pres|ind	35	MO
+18_43	,	--	$,	$,	_	42	--
+18_44	die	der	PRELS	PRELS	acc|pl|neut	20	APP
+18_45	sie	sie	PPER	PPER	nom|sg|fem|3	47	SB
+18_46	erzeugt	erzeugen	VVPP	VVPP	_	47	OC
+18_47	hat	haben	VAFIN	VAFIN	sg|3|pres|ind	44	RC
+18_48	und	und	KON	KON	_	47	CD
+18_49	die	der	PRELS	PRELS	nom|sg|fem	53	SB
+18_50	ihr	ihr	PPER	PPER	dat|sg|fem|3	53	DA
+18_51	zur	zu	APPRART	APPRART	dat|sg|fem	53	CVC
+18_52	Verfügung	Verfügung	NN	NN	dat|sg|fem	51	NK
+18_53	stehen	stehen	VVFIN	VVFIN	_	48	CJ
+18_54	,	--	$,	$,	_	53	--
+18_55	die	der	ART	ART	acc|sg|fem	56	NK
+18_56	Zusammenstellung	Zusammenstellung	NN	NN	acc|sg|fem	44	APP
+18_57	dieser	dieser	PDAT	PDAT	gen|pl|neut	58	NK
+18_58	Daten	Datum	NN	NN	gen|pl|neut	56	AG
+18_59	,	--	$,	$,	_	58	--
+18_60	ihre	ihr	PPOSAT	PPOSAT	acc|sg|fem	64	NK
+18_61	systematische	systematisch	ADJA	ADJA	acc|sg|fem|pos	64	NK
+18_62	oder	oder	KON	KON	_	61	CD
+18_63	methodische	methodisch	ADJA	ADJA	acc|sg|fem|pos	62	CJ
+18_64	Anordnung	Anordnung	NN	NN	acc|sg|fem	56	CJ
+18_65	innerhalb	innerhalb	APPR	APPR	_	64	MNR
+18_66	der	der	ART	ART	gen|sg|fem	67	NK
+18_67	Datenbank	Datenbank	NN	NN	gen|sg|fem	65	NK
+18_68	,	--	$,	$,	_	67	--
+18_69	die	der	ART	ART	nom|sg|fem	70	NK
+18_70	Organisation	Organisation	NN	NN	nom|sg|fem	64	CJ
+18_71	ihrer	ihr	PPOSAT	PPOSAT	gen|sg|fem	73	NK
+18_72	individuellen	individuell	ADJA	ADJA	gen|sg|fem|pos	73	NK
+18_73	Zugänglichkeit	Zugänglichkeit	NN	NN	gen|sg|fem	70	AG
+18_74	und	und	KON	KON	_	70	CD
+18_75	die	der	ART	ART	nom|sg|fem	76	NK
+18_76	Überprüfung	Überprüfung	NN	NN	nom|sg|fem	74	CJ
+18_77	ihrer	ihr	PPOSAT	PPOSAT	gen|sg|fem	78	NK
+18_78	Richtigkeit	Richtigkeit	NN	NN	gen|sg|fem	76	AG
+18_79	während	während	APPR	APPR	_	76	MNR
+18_80	des	der	ART	ART	gen|sg|masc	82	NK
+18_81	gesamten	gesamt	ADJA	ADJA	gen|sg|masc|pos	82	NK
+18_82	Zeitraums	Zeitraum	NN	NN	gen|sg|masc	79	NK
+18_83	des	der	ART	ART	gen|sg|masc	84	NK
+18_84	Betriebs	Betrieb	NN	NN	gen|sg|masc	82	AG
+18_85	der	der	ART	ART	gen|sg|fem	86	NK
+18_86	Datenbank	Datenbank	NN	NN	gen|sg|fem	84	AG
+18_87	können	können	VMFIN	VMFIN	pl|3|pres|ind	84	CJ
+18_88	aber	aber	ADV	ADV	_	87	MO
+18_89	eine	ein	ART	ART	nom|sg|fem	98	NK
+18_90	in	in	APPR	APPR	_	97	MO
+18_91	quantitativer	quantitativ	ADJA	ADJA	dat|sg|fem|pos	96	NK
+18_92	und	und	KON	KON	_	94	CD
+18_93	/	--	$(	$(	_	92	--
+18_94	oder	oder	KON	KON	_	91	CD
+18_95	qualitativer	qualitativ	ADJA	ADJA	dat|sg|fem|pos	94	CJ
+18_96	Hinsicht	Hinsicht	NN	NN	dat|sg|fem	90	NK
+18_97	wesentliche	wesentlich	ADJA	ADJA	acc|sg|fem|pos	98	NK
+18_98	Investition	Investition	NN	NN	nom|sg|fem	108	OA
+18_99	im	in	APPRART	APPRART	dat|sg|masc	98	MNR
+18_100	Sinne	Sinn	NN	NN	dat|sg|masc	99	NK
+18_101	von	von	APPR	APPR	_	100	PG
+18_102	Artikel	Artikel	NN	NN	dat|sg|masc	101	NK
+18_103	7	7	CARD	CARD	_	102	NK
+18_104	Absatz	Absatz	NN	NN	dat|sg|masc	102	NK
+18_105	1	1	CARD	CARD	_	102	NK
+18_106	der	der	ART	ART	gen|sg|fem	107	NK
+18_107	Richtlinie	Richtlinie	NN	NN	gen|sg|fem	102	AG
+18_108	erfordern	erfordern	VVINF	VVINF	_	87	OC
+18_109	.	--	$.	$.	_	108	--

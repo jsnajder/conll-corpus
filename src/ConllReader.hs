@@ -29,6 +29,7 @@ data Token = Token {
   lemma   :: [String],
   cpostag :: String,
   postag  :: String,
+  feats   :: [String],
   dephead :: Int,
   deprel  :: String }
   deriving (Show,Ord,Eq)
@@ -44,18 +45,25 @@ mkSentence :: [Token] -> Sentence
 mkSentence ts = M.fromList [(ix t,t) | t <- ts]
 
 parseLine :: String -> Either String Token
-parseLine s = parse $ splitOn "\t" s
-  where parse (s1:s2:s3:s4:s5:_:s7:s8:_)
-          | all isDigit s1 && all isDigit s7 = Right $ Token {
-              ix      = read s1,
-              form    = s2,
-              lemma   = if s3==unk then [] else splitOn "|" s3,
-              cpostag = s4,
-              postag  = s5,
-              dephead = read s7, 
-              deprel  = s8 }
-          | otherwise = Left $ "Index and DepHead must be integers"
-        parse _ = Left $ "Cannot parse"
+parseLine = parseLine' . splitOn "\t"
+
+parseLine' :: [String] -> Either String Token
+parseLine' (s1:s2:s3:s4:s5:_:s7:s8:_)
+  | isJust ix && all isDigit s7 = Right $ Token 
+      { ix      = fromJust ix
+      , form    = s2
+      , lemma   = if s3==unk then [] else splitOn "|" s3
+      , cpostag = s4
+      , postag  = s5
+      , feats   = if s6=="_" then [] else splitOn "|" s6
+      , dephead = read s7
+      , deprel  = s8 }
+  | otherwise = Left $ "Index and DepHead must be integers"
+  where ix = readIx s1
+parseLine' _ = Left $ "Cannot parse"
+
+readIx :: String -> Maybe Int
+readIx = (fst <$>) . listToMaybe . reads . dropWhile (not . isDigit)
 
 readCorpusStr :: String -> Corpus
 readCorpusStr = 
