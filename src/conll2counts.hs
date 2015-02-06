@@ -1,4 +1,5 @@
--- (c) 2013 Jan Snajder
+-- conll2counts.hs
+-- (c) 2015 Jan Snajder
 --
 -- Word counts mapper/reducer for Hadoop streams for CONLL parsed file
 -- Counts word forms
@@ -6,6 +7,8 @@
 --   -l  lemmas
 --   -L  lemmas, with fallback to wordforms in case of '<unknown>'
 --   -p  concatenates pos tags
+--
+-------------------------------------------------------------------------------
 
 {-# LANGUAGE OverloadedStrings #-}
 
