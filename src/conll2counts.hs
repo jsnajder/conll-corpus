@@ -17,7 +17,6 @@ import Control.Monad
 import ConllReader
 import qualified Data.Counts as C
 import Data.Either
-import qualified Data.Map.Strict as M
 import Data.Maybe
 import Data.Text (Text)
 import qualified Data.Text as T
