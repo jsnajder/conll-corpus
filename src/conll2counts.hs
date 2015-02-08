@@ -29,7 +29,8 @@ import System.IO
 type WordCounts = C.Counts Text
 
 count :: (Token -> [String]) -> String -> WordCounts
-count f = C.fromList . concatMap (map T.pack . f) . rights . map parseLine . lines
+count f = 
+  C.fromList . concatMap (map T.pack . f) . rights . map parseLine . lines
 
 mrMap :: (Token -> [String]) -> String -> String
 mrMap f = unlines . concatMap f . rights . map parseLine . lines
