@@ -32,7 +32,9 @@ readWordList f =
 mapping :: Set Text -> Text -> [(Text,Text)]
 mapping ws s = do
   t <- rights . map (parseLine . T.unpack) $ T.lines s
-  guard $ if S.null ws then True else T.pack (form t) `S.member` ws
+  guard $ if S.null ws then True 
+    else T.pack (form t) `S.member` ws || 
+         T.pack (form t ++ posSep ++ cpostag t) `S.member` ws
   l <- lemma t
   let lp = l ++ posSep ++ cpostag t
       wp = form t ++ posSep ++ cpostag t
