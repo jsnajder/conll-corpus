@@ -57,7 +57,7 @@ lemmas:
 
 ```
 $ cd data
-$ ../bin/conll2counts -p sdewac-mst.sample.conll > sdewac-mst.sample.lemmas
+$ ../bin/conll2counts -l -p sdewac-mst.sample.conll > sdewac-mst.sample.lemmas
 ```
 
 The tool can be run via [Hadoop Map/Reduce
