@@ -3,8 +3,7 @@
 *2015-02-08*
 
 This package implements a reader for [CoNLL](http://ilk.uvt.nl/conll/) corpus
-format and a tool for counting wordforms and lemmas from corpus in CoNLL
-format. 
+format and a couple of small corpus processing tools.
 
 ## Installation
 
@@ -59,7 +58,6 @@ lemmas:
 ```
 $ cd data
 $ ../bin/conll2counts -p sdewac-mst.sample.conll > sdewac-mst.sample.lemmas
-$ ../bin/conll2counts -p sdewac-mate.sample.conll > sdewac-mate.sample.lemmas
 ```
 
 The tool can be run via [Hadoop Map/Reduce
