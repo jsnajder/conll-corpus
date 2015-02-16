@@ -22,16 +22,18 @@ import System.IO
 unk    = "<unknown>"
 posSep = "_"
 
-data Token = Token {
-  ix      :: Int,
-  form    :: String,
-  lemma   :: [String],
-  cpostag :: String,
-  postag  :: String,
-  feats   :: [String],
-  dephead :: Int,
-  deprel  :: String }
-  deriving (Show,Ord,Eq)
+data Token = Token 
+  { ix       :: Int
+  , form     :: String
+  , lemma    :: [String]
+  , cpostag  :: String
+  , postag   :: String
+  , feats    :: [String]
+  , dephead  :: Int
+  , deprel   :: String 
+  , pdephead :: Maybe Int
+  , pdeprel  :: Maybe String 
+  } deriving (Show,Ord,Eq)
 
 type Sentence = M.Map Int Token
 type Corpus   = [Sentence]
@@ -47,18 +49,22 @@ parseLine :: String -> Maybe Token
 parseLine = parseLine' . splitOn "\t"
 
 parseLine' :: [String] -> Maybe Token
-parseLine' (s1:s2:s3:s4:s5:s6:s7:s8:_)
-  | isJust ix && all isDigit s7 = Just $ Token 
-      { ix      = fromJust ix
-      , form    = s2
-      , lemma   = if s3==unk then [] else splitOn "|" s3
-      , cpostag = s4
-      , postag  = s5
-      , feats   = if s6=="_" then [] else splitOn "|" s6
-      , dephead = read s7
-      , deprel  = s8 }
+parseLine' (s1:s2:s3:s4:s5:s6:s7:s8:s9:s10:_)
+  | isJust ix && all isDigit s7 && (na s9 || all isDigit s9) = 
+      Just $ Token 
+      { ix       = fromJust ix
+      , form     = s2
+      , lemma    = if s3==unk then [] else splitOn "|" s3
+      , cpostag  = s4
+      , postag   = s5
+      , feats    = if na s6 then [] else splitOn "|" s6
+      , dephead  = read s7
+      , deprel   = s8 
+      , pdephead = if na s9  then Nothing else Just $ read s9
+      , pdeprel  = if na s10 then Nothing else Just s10 }
   | otherwise   = Nothing
   where ix = readIx s1
+        na = (`elem` ["_","-"])
 parseLine' _ = Nothing
 
 readIx :: String -> Maybe Int
@@ -67,7 +73,9 @@ readIx = (fst <$>) . listToMaybe . reads . reverse . takeWhile isDigit . reverse
 -- skips sentences that contain unparsable lines
 readCorpusStr :: String -> Corpus
 readCorpusStr = 
-  mapMaybe (fmap mkSentence . sequence . map parseLine) . splitWhen emptyLine . lines
+  mapMaybe (fmap mkSentence . sequence . map parseLine) . 
+  split (dropInitBlank . dropFinalBlank . dropDelims . condense $ whenElt emptyLine) . 
+  lines
   where emptyLine = null . words
 
 readCorpus :: FilePath -> IO Corpus
@@ -76,8 +84,11 @@ readCorpus f = readCorpusStr <$> readFile f
 showCorpus :: Corpus -> String
 showCorpus = unlines . map (unlines . map showToken . sentenceTokens)
   where showToken t = intercalate "\t" $ map (\f -> f t) 
-          [show . ix, form, intercalate "|" . lemma, cpostag,
-           postag, const "_", show . dephead, deprel] 
+          [show . ix, form, showLemma . lemma, cpostag,
+           postag, const "_", show . dephead, deprel,
+           fromMaybe "_" . fmap show . pdephead, fromMaybe "_" . pdeprel]
+        showLemma l | null l    = unk
+                    | otherwise = intercalate "|" l
 
 headToken :: Sentence -> Token -> Maybe Token
 headToken s t = case dephead t of
