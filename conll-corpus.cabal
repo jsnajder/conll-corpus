@@ -82,3 +82,53 @@ executable conll2lemmadict-static
   hs-source-dirs:      src
   default-language:    Haskell2010
 
+executable conll-check
+  main-is:             conll-check.hs
+  -- other-modules:       
+  -- other-extensions:    
+  build-depends:       base ==4.*,
+                       containers ==0.5.*,
+                       conll-corpus ==0.1.*,
+                       parseargs ==0.1.*,
+                       split ==0.2.*
+  hs-source-dirs:      src
+  default-language:    Haskell2010
+
+executable conll-check-static
+  main-is:             conll-check.hs
+  -- other-modules:       
+  -- other-extensions:    
+  ghc-options:         -static -optl-pthread -optl-static -rtsopts
+  build-depends:       base ==4.*,
+                       containers ==0.5.*,
+                       conll-corpus ==0.1.*,
+                       parseargs ==0.1.*,
+                       split ==0.2.*
+  hs-source-dirs:      src
+  default-language:    Haskell2010
+
+executable conll-filter
+  main-is:             conll-filter.hs
+  -- other-modules:       
+  -- other-extensions:    
+  build-depends:       base ==4.*,
+                       containers ==0.5.*,
+                       conll-corpus ==0.1.*,
+                       parseargs ==0.1.*,
+                       split ==0.2.*
+  hs-source-dirs:      src
+  default-language:    Haskell2010
+
+executable conll-filter-static
+  main-is:             conll-filter.hs
+  -- other-modules:       
+  -- other-extensions:    
+  ghc-options:         -static -optl-pthread -optl-static -rtsopts
+  build-depends:       base ==4.*,
+                       containers ==0.5.*,
+                       conll-corpus ==0.1.*,
+                       parseargs ==0.1.*,
+                       split ==0.2.*
+  hs-source-dirs:      src
+  default-language:    Haskell2010
+

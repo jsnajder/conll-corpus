@@ -31,7 +31,7 @@ readWordList f =
 
 mapping :: Set Text -> String -> [(String,String)]
 mapping ws s = do
-  t <- rights . map parseLine $ lines s
+  t <- mapMaybe parseLine $ lines s
   guard $ if S.null ws then True 
     else T.pack (form t) `S.member` ws || 
          T.pack (form t ++ posSep ++ cpostag t) `S.member` ws

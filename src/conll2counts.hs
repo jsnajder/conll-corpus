@@ -29,10 +29,10 @@ type WordCounts = C.Counts Text
 
 count :: (Token -> [String]) -> String -> WordCounts
 count f = 
-  C.fromList . concatMap (map T.pack . f) . rights . map parseLine . lines
+  C.fromList . concatMap (map T.pack . f) . mapMaybe parseLine . lines
 
 mrMap :: (Token -> [String]) -> String -> String
-mrMap f = unlines . concatMap f . rights . map parseLine . lines
+mrMap f = unlines . concatMap f . mapMaybe parseLine . lines
 
 mrReduce :: Text -> Text
 mrReduce = showCounts . C.fromList . T.lines

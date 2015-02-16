@@ -13,7 +13,6 @@ module ConllReader where
 
 import Control.Applicative
 import Data.Char
-import Data.Either
 import Data.List
 import Data.List.Split
 import qualified Data.Map.Strict as M
@@ -44,12 +43,12 @@ type DepRel   = String
 mkSentence :: [Token] -> Sentence
 mkSentence ts = M.fromList [(ix t,t) | t <- ts]
 
-parseLine :: String -> Either String Token
+parseLine :: String -> Maybe Token
 parseLine = parseLine' . splitOn "\t"
 
-parseLine' :: [String] -> Either String Token
+parseLine' :: [String] -> Maybe Token
 parseLine' (s1:s2:s3:s4:s5:s6:s7:s8:_)
-  | isJust ix && all isDigit s7 = Right $ Token 
+  | isJust ix && all isDigit s7 = Just $ Token 
       { ix      = fromJust ix
       , form    = s2
       , lemma   = if s3==unk then [] else splitOn "|" s3
@@ -58,16 +57,18 @@ parseLine' (s1:s2:s3:s4:s5:s6:s7:s8:_)
       , feats   = if s6=="_" then [] else splitOn "|" s6
       , dephead = read s7
       , deprel  = s8 }
-  | otherwise = Left $ "Index and DepHead must be integers"
+  | otherwise   = Nothing
   where ix = readIx s1
-parseLine' _ = Left $ "Cannot parse"
+parseLine' _ = Nothing
 
 readIx :: String -> Maybe Int
-readIx = (fst <$>) . listToMaybe . reads . dropWhile (not . isDigit)
+readIx = (fst <$>) . listToMaybe . reads . reverse . takeWhile isDigit . reverse
 
+-- skips sentences that contain unparsable lines
 readCorpusStr :: String -> Corpus
 readCorpusStr = 
-  map (mkSentence . rights . map parseLine) . splitOn [""] . lines
+  mapMaybe (fmap mkSentence . sequence . map parseLine) . splitWhen emptyLine . lines
+  where emptyLine = null . words
 
 readCorpus :: FilePath -> IO Corpus
 readCorpus f = readCorpusStr <$> readFile f
